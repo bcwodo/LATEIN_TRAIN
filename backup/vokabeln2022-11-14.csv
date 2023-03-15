@@ -1,0 +1,577 @@
+Latein,Deutsch,Kartei,Wortart
+quis es?,Wer bist Du?; Wie heißt Du?,11,x
+Ego sum,Ich bin; ich heiße,11,x
+familia,die Familie,11,s
+servus,der Diener; der Sklave,11,s
+serva,die Dienerin; die Sklavin,11,s
+dominus,der Herr; der Hausherr,11,s
+domina,die Herrin; die Hausherrin,11,s
+negotium,das Geschäft (machen); die Aufgabe,11,s
+est,er/sie/es ist; es gibt,11,v
+amicus,der Freund,11,s
+et,und,11,x
+amica,die Freundin,11,s
+ubi,wo,11,x
+non,nicht,11,x
+hic,hier,11,x
+properare,eilen; sich beeilen,11,v
+laborare,leiden; arbeiten,11,v
+clamare,(laut) rufen; schreien,11,v
+sedere; sedeo; sedi,sitzen; dasitzen,11,v
+gaudere,sich freuen; froh sein,11,v
+sunt,sie sind; es gibt/findet statt,11,x
+nam,denn ; nämlich,11,x
+etiam,auch ; sogar,11,x
+ibi,dort,11,x
+debere,müssen; schulden,11,v
+nunc,nun; jetzt,11,x
+sed,aber; doch; sondern,11,x
+cur?,warum?,11,x
+otium,die Freizeit; die Ruhe; die Muße,11,s
+forum,"das Forum; der (Markt)Platz, das Stadtzentrum",11,s
+nomen,der Name,11,s
+lectus,das Bett; die Liege,11,s
+mensa,der Tisch,11,s
+cibus,die Speise; das Essen; die Nahrung,11,s
+cenare,essen; speisen,11,v
+vinum,der Wein,11,s
+aqua,das Wasser,11,s
+vocare,rufen,11,v
+quid?,was?,11,x
+ridere; rideo; risi,lachen; auslachen,11,v
+venire; venio; veni,kommen,11,v
+audire,hören; anhören,11,v
+dormire,schlafen,11,v
+desperare,verzweifeln; die Hoffnung aufgeben,11,v
+tum,dann; darauf; da; damals,11,x
+iam,schon; bereits,11,x
+subito,plötzlich,11,x
+imperare,befehlen; anordnen; herrschen,11,v
+parere,gehorchen; folgen,11,v
+cessare,zögern; sich Zeit lassen,11,v
+salutare,grüßen; begrüßen,11,v
+salve!,sei gegrüßt; grüß dich!,11,x
+num?,etwa?,11,x
+aperire; aperio; aperui,öffnen; aufmachen,11,v
+intrare,betreten; eintreten,11,v
+verbum,das Wort,11,s
+tacere,still sein; schweigen; verschweigen,11,v
+rogare,fragen; bitte (um),11,v
+respondere; respondeo; respondi,antworten,11,v
+docere,lehren; beibringen; unterrichten,11,v
+fabula,die Geschichte; die Erzähliung; das Theaterstück,11,s
+laudare,loben,11,v
+bene,gut,11,x
+tu,du,11,x
+tabula,die Tafel; das Brett,11,s
+amare,lieben; germe mögen,11,v
+curare,sich kümmern; soregen (für); pflegen,11,v
+ego,ich,11,x
+spectare,(an)schauen; betrachten,11,v
+monere,mahnen; erinnern,11,v
+tandem,endlich; schließlich,11,x
+puella,das Mädchen,11,s
+quis?,wer?,11,x
+autem,"aber, jedoch",11,x
+semper,immer,11,x
+narrare,"erzählen, berichten",11,v
+quaeso,ich bitte,11,v
+quaesumus,wir bitten,11,v
+enim,denn; nämlich,11,x
+grammaticus,der Literaturlehrer,11,s
+magister,der Lehrer,11,s
+Romanus,der Römer,11,s
+dea,die Göttin,11,s
+deus,Gott,11,s
+sacrum,das Opfer(tier); die Opferhandlung,11,s
+ara,der Altar,11,s
+templum,der Tempel,11,s
+ignorare,nicht wissen ; nicht kennen,11,v
+non ignorare,genau wissen,11,v
+habere,haben,11,v
+timere,sich fürchten; Angst haben,11,v
+colere; colo; colui,bewirtschaften; bebauen; pflegen; verehren,11,v
+emere; emo; emi,kaufen,11,v
+vendere; vendo; vendidi,verkaufen,11,v
+dicere; dico; dixi,"sagen, sprechen, reden, nennen",11,v
+facere; facio; feci,tun; machen; ausführen,11,v
+cupere; cupio; cupivi,wünschen; haben wolln; begehren,11,v
+novem,neun,11,x
+mille,tausend,11,x
+nummus,die Münze,11,s
+poscere; posco; poposci,fordern,11,v
+tres,drei,11,x
+incendere; incendo; incendi,entflammen; in Brand setzen,11,v
+sex,sechs,11,x
+iterum,wiederum; ein zweies mal,11,x
+certe,"sicher, gewiss",11,x
+si,"wenn, falls",11,x
+theatrum,das Theater,11,s
+videre; video; vidi,sehen,11,v
+ludus,das Spiel; die Schule; die (zirkus)Spiele,11,s
+incipere; incipio; coepi,anfangen; beginnen,11,v
+filius,der Sohn,11,s
+effugere; effugio; effugi,entkommen,11,v
+mercator,der Händler; Kaufmann,11,s
+senator,der Senator,11,s
+gladiator,der Gladiator,11,s
+fur,der Dieb; die Diebin,11,s
+clamor,der Schrei; das Gesschrei; der Lärm,11,s
+esse; sum; fui,sein,11,v
+adesse; adsum,da sein; helfen,11,x
+abesse; absum,fort sein; weg sein; fehlen,11,x
+retinere; retineo,zurückhalten; behalten; festhalten,11,v
+intus,innne; im inneren,11,x
+turba,die (Menschen-)Menge; das Durcheinander; das Gedränge,11,s
+amor,die Liebe,11,s
+dolor,der Schmerz,11,s
+vita,das Leben; die Lebensweise,11,s
+bestia,das (wilde) Teir,11,s
+liberi,die Kinder,11,s
+porta,die Tür; das Tor; der eingang,11,s
+claudere; claudo; clausi,schließen; einschließen; versprerren,11,v
+non iam,nicht mehr,11,x
+larva,das Gespenst,11,s
+persona,die Maske; die Rolle (im Schausoiel),11,s
+scaena,die Bühne,11,s
+occurrere; occuro; occurri,entgegenlaufen; -treten; begegnen,11,v
+curia,die Kurie; das Rathaus,11,s
+orator,der Redner,11,s
+flamma,die Flamme,11,s
+me,mich,11,x
+fugere; fugio; fugi,fliehen (vor); meiden,11,v
+locus,der Ort; der Platz; die Stelle,11,s
+dare; do; dedi,geben,11,v
+appropinquare; appropinqo, sich nähern; näher kommen,11,v
+relinquere; relinquo; reliqui,verlassen; zurücklassen,11,v
+agere; ago; egi,tun; handeln; verhandeln; treiben,11,v
+negotia agere,Geschäft betreiben,11,x
+bestiam agere,ein Tier jagen,11,x
+fabulam agere,ein Theaterstück aufführen,11,x
+quid agis?,wie geht es dir?,11,x
+vitam agere,sein Leben verbringen,11,x
+mittere; mitto; misi,schicken; loslassen; laufen lassen; werfen,11,v
+posse ; possum; potui,können; vermögen,11,v
+nondum,noch nicht,11,x
+exspectare; exspecto,warten (auf); erwarten,11,v
+statim,sofort; auf der Stelle,11,x
+venia,die Nachsicht; die Verzeihung,11,s
+veniam dare,verzeihen,11,x
+resistere; resisto; resisti,sich widersetzen; Widerstand leisten,11,v
+adhuc,bis jetzt; immer noch,11,x
+explicare; explico,erklären,11,v
+nuper,neulich,11,x
+signum,das Zeichen; das Feldzeichen,11,s
+vincere; vinco; vici,siegen; besiegen,11,v
+praemium,die Belohnung; der Lohn; der Preis,11,s
+honor,die Ehre; das Eherenamt,11,s
+studere; studeo,sich bemühen; (tum) wollen; studieren,11,v
+vincere studere,siegen wollen,11,x
+amico studere,sich um den Freund bemühen,11,x
+vix,kaum; nur mit Mühe,11,x
+equus,das Pferd,11,s
+frustra,vergeblich; umsonst,11,x
+denique,schließlich,11,x
+petere; peto; petivi,bitte; verlangen; haben wollen; streben nach; erreichen wollen; aufsuchen; angreifen,11,v
+senex; senis,der alte Mann; Greis,11,s
+adulescens; adulescentis; adulescentium (gen. pl),der Jugendliche; der junge Mann,11,s
+vox; vocis,die Stimme; das Wort,11,s
+credere; credo; credidi,glauben; vertrauen,11,v
+incendium,der Brand; das Feuer,11,s
+auctor; auctoris,der Urheber; der Grümder; der Schriftsteller,11,s
+taberna,der Laden; das Wirtshaus,11,s
+forte,zufällig,11,x
+intellegere; intellego; intellexi,erkennen; verstehen; einsehen,11,v
+comprehendere; comprehendo; comprehendi,ergreifen; festnehmen; erfassen,11,v
+servare; servo,retten (vor) ; bewahren ; beschützen,11,v
+sollicitare; sollicito,beunruhigen; eregen,11,v
+convincere; convinco; convici,überführen,11,v
+gaudium,die Freude,11,s
+gladius,das Schwert,11,s
+arma; orum n,die Waffe,11,s
+supplicium,die Strafe; die Todesstrafe; die Hinrichtung; das Gebet,11,s
+populus; -i,das Volk,11,s
+exercere; exerceo,üben; trainieren,11,v
+medicus; -i,der Arzt,11,s
+carere; careo,entbehren; nicht haben; frei sein von,11,v
+ferrum,Eisen,11,s
+se,sich,11,x
+afficere; afficio; affeci (mit Abl.) ,versehen (mit),11,v
+doloribus afficere,Schmerz zufügen,11,x
+gaudio afficere,erfereuen,11,x
+honor afficere,Ehre erweisen,11,x
+supplicio afficere,hinrichten,11,x
+licet,es ist jemanden möglich ; erlaubt,11,x
+solum,nur,11,x
+non solum sed etiam,nicht nur sondern auch,11,x
+recreare; recreo,erholen,11,v
+corpus; corporis,der Körper; der Leichnam,11,s
+raro,selten,11,x
+vulnus; vulneris,die Wunde,11,s
+labor; laboris,die Arbeit; die Mühe,11,s
+domum,heim;  nach Hause,11,x
+decedere; decedo; decessi,weggehen; sterben,11,v
+vestis; vestis f; vestium,das Kleid; die Kleidung,11,s
+tunica,die Tunika,11,s
+toga,die Toga,11,s
+consul; -is m,der Konsul,11,s
+currere; curro,laufen; rennen,11,v
+habitare,wohnen; bewohnen,11,v
+stare; sto; steti,stehen; dastehen,11,v
+de,von...herab; von; über; um/wegen,11,x
+de amico narrare,vom Freund erzählen,11,x
+de amicis timere,um die Freunde angst haben,11,x
+ad (akk),zu (...hin); bei; an; nach,11,x
+per (akk),durch (...hindurch); über,11,x
+post (akk),nach; hinter,11,x
+e/ex (abl),aus; aus...heraus; von....her; seit,11,x
+super (akk),über,11,x
+cum (abl),mit,11,x
+sine,ohne,11,x
+in,(akk): in (...hinein); nach(...hin); gegen (wohin?) (abl): in an auf bei (wo),11,x
+sub,(akk) unter (wohin); (abl) unter (wo),11,x
+sermo; sermonis,das Gespräch; die Sprache,11,s
+abdere; abdo; abdidi,verstecken; verbergen,11,v
+oculus; -i,Auge,11,s
+amittere; amitto; amisi,verlieren,11,v
+vicus; -i,die Gasse; das Dorf,11,s
+plebs; plebis f,das (einfache) Volk,11,s
+pecunia; -ae,das Geld,11,s
+timor; timoris m,die Angst; die Furcht,11,s
+mutare; muto,ändern; verändern; verwandeln,11,v
+possidere; possideo; possedi,besitzen,11,v
+donum; -i,das Geschenk,11,s
+poena; -ae,die Strafe,11,s
+ponea/poenis afficere,bestrafen,11,x
+studium; -i,Das Bemühen; das Streben; das wissenschaftlich Beschäftigen,11,s
+nihil,nichts,11,x
+convenire; convenio; conveni,passen; zusammentreffen; treffen,11,v
+parentes; parent(i)um,die Eltern,11,s
+libertas; libertatis f,die Freiheit,11,s
+fortuna; -ae,Glück; das Schicksal,11,s
+nos,Nom. wir; Akk. uns,11,x
+vos,Nom. ihr; Akk. euch,11,x
+is; ea; id,dieser; der(jenige); er,11,x
+domi,daheim; zu Hause,11,x
+ut,wie,11,x
+a/ab (abl.),von; von...her; von...weg,11,x
+gratia; -ae,der Dank; die anmut,11,s
+libenter,gern,11,x
+diligere; diligo; dilexi,lieben; (sehr) schätzen,11,v
+itaque,daher; deshalb,11,x
+prodesse; prosum; profui,nützen,11,v
+tamen,dennoch; jedoch,11,x
+haud,nicht,11,x
+paene,beinahe; fast,11,x
+periculim; -i,die Gefahr,11,s
+desinere; desino; desii,ablassen; aufhören,11,v
+deponere; depono; deposui,ablegen; niederlegen,11,v
+magnus; -a; -um,groß; wichtig,11,x
+parvus; -a; um,klein; gerin,11,x
+bonus; -a; -um,gut,11,x
+bona; -orum n (pl),die Güter,11,s
+malus; -a; um,böse; schlecht; schlimm,11,x
+vir; viri,der Mann,11,s
+puer; pueri,der Junge,11,s
+magister; magisteri,der Lehrer,11,s
+pulcher; pulchera; pulcherum,schön,11,x
+miser; misera; miserum,arm; unglücklich; erbärmlich,11,x
+cognoscere; cognosco; cognovi,kennenlernen; erkennen; erfahren,11,v
+memoria; -ae,die Erinnerung; das Gedächtnis,11,s
+memoria comprehendere,im Gedächtnis behalten,11,x
+sumere; sumo; sumpsi,nehmen,11,v
+iacere; iaceo,liegen,11,v
+tempus; temporis n ,die Zeit,11,c
+mos; moris m,die Sitte; der Bauch; PL auch Charakter,11,s
+hodie,heute,11,x
+multi; -ae; -a,viele,11,x
+custos; custodis m,der Wächter,11,s
+bibere; bibo; bibi,trinken,11,v
+saepe,oft,11,x
+mirus; -a ; um,erstaunlich; sonderbar; wunderbar,11,x
+copia; -ae f,die Menge; der Vorrat; die Truppen,11,s
+scelus; sceleris n,das Verbrechen; deer Frevel,11,s
+parare; paro,bereiten; vorbereiten; erwerben; (mit Infinitiv) vorhaben zu,11,v
+ita,so,11,x
+descendere; descendo; descendi,herabsteigen; hinabsteigen,11,v
+quaerere; quaero; quaesivi,suchen; (ex) jemanden fragen,11,v
+invenire; invenio; inveni,finden; auffinden; erfinden,11,v
+qui; quae; qod,der die das; welcher welche welches,11,x
+mulier; mulieris f,die Frau,11,s
+propinquus; a; um,nahe; benachbart; S der Verwandte,11,x
+nepos; nepotis,der Neffe; der Enkel; der Nachfahre,11,s
+maritus -i,der Ehemann,11,s
+pugnare; pugno,kämpfen,11,v
+scire; scio,wissen; kennen,11,v
+modus; -i,die Art; Weise; das Maß,11,s
+eiusmodi,derartig; solche,11,x
+arcessere; arcesso; arcessivi,herbeirufen; holen (lassen),11,v
+vinculum,die Fessel,11,s
+via; -ae,der Weg; die Straße,11,s
+unus; -a; -um; gen:unius dat:uni,ein(er); rein einziger,11,x
+accedere; accedo; accessi,herbeikommen; herantreten; sich nähern,11,v
+oratio; orationis,die Rede,11,s
+ergo,also; folglich,11,x
+urbs; urbis; gen.plu urbium,die Stadt; die Großstadt; die Hauptstadt,11,s
+componere; compono; composui,zusammenstellen; verfassen; ordnen,11,v
+quomodo,wie; auf welche Weise,11,x
+indicium; -i n,de Beweis,11,s
+animus; -i,die Gesinung; der Sinn; Mut; der Geist,11,s
+pergere; pergo; perrexi,fortsetzen; weitermachen; aufbrechen,11,v
+clam,heimlich,11,x
+pater; patris,der Vater,11,s
+clarus; -a; -um,"berühmt, klar",11,x
+diu,lange (Zeit),11,x
+reprehendere; reprehendo; reprehendi,tadeln; kritisieren,11,v
+perdere; perdo; perdidi,vernichten; verlieren; umbringen; verderben,11,v
+sceleratus; -a; um,verbrecherisch; frevelhaft; subst: der Verbrecher,11,x
+magis,mehr,11,x
+quam,als,11,x
+coniunx; coniugis,der Ehemann; die Ehefrau,11,s
+cena,Hauptmalzeit; Gastmahl,11,s
+clelebrare; celebro,feiern,11,v
+quia,weil,12,x
+susinere; sustineo,aushalten; ertragen,11,v
+nonne?,etwa nicht?,11,x
+placere; placeo,gefallen,12,v
+hospes; hospetis,der Gast; der Gastgeber,12,s
+fames; famis,der Hunger,12,s
+frater; fratris,der Bruder,11,s
+ecce!,sieh da! schaut!,12,x
+tam,so,12,x
+seavus; -a; um,wild; wütend; grimmig,11,x
+certare; certo,streiten; kämpfen,11,v
+quondam,einmal; einst,12,x
+instituere; instituo; instituti,unterrichten; einführen; errichten,12,s
+pax; pacis,der Friede,12,s
+parcere; parco; peperci (mit Dat),verschonen; sparen,12,v
+ira; -ae,der Zorn; die Wut,12,s
+mater; matris,die Mutter,12,S
+abesse; absum; afui,fort sein; weg sein; fehlen,12,v
+adesse; adsum; affui,da sein; helfen,12,v
+velle; volo; volui,wollen,12,v
+nolle; nolo; nolui,nicht wollen,12,v
+malle; malo; malui,lieber wollen,12,v
+conspicere; conspicio; conspexi,erblicken; sehen,12,v
+iter; itineris,die Reise; der Weg; der Marsch,11,s
+movere; moveo; movi,bewegen; erregen,12,v
+ducere; duco; duxi,führen; ziehen,12,v
+fortasse,vielleicht,12,x
+huc,hierher,12,x
+caelum; -i,der Himmel,12,s
+terra; -ae,das Land; die Erde,12,s
+mons; montis m; GenPl montium,der Berg,12,s
+altus;-a;-um,hoch; tief,12,x
+tangere; tango; tetigi,berühren; erreichen,12,v
+invadere; invado; invasi,eindringen; angreifen,12,v
+potentia; -ae,die Macht,12,s
+superare; supero,überwinden; besiegen,12,v
+consistere; consisto; consisti,stehen bleiben; sich aufstellen,12,v
+inferi; -orum m,die (Bewohner der) Unterwelt,12,s
+neglegere; neglego; neglexi,vernachlässigen; gering schätzen; nicht beachten,11,v
+prope,(adv.) nahe; in der Nähe; (präp mit akk.) nahe; in der Nähe von,11,x
+bellum; -i,der Krieg,11,s
+homo; hominis m,der Mensch,11,s
+tradere; trado; tradidi,übergeben; überliefern,12,v
+fingere; fingo; finxi,formen; gestalten; sich ausdenken,11,v
+nomen; nominis,der Name,12,s
+terrere; terreo,jemanden erschrecken,11,v
+voluntas; voluntatis,der Wille,11,s
+nescire; nescio,nicht wissen,11,v
+vivere; vivo; vixi,leben,11,v
+tectum,das Haus,11,s
+ager; agri,der Acker; das Feld; das Land,11,s
+pecus; pecoris,das Veih; die Viehherde,11,s
+alere; alo; alui,aufziehen; (er)nähren,11,v
+ignis; ignis,das Feuer,11,s
+rapere; rapio; rapui,rauben,11,v
+antea,früher,11,x
+dolus,die List; die Täuschung,11,s
+vas; vasis,das Gefäß,11,s
+morbus; -i,die Krankheit,11,s
+tenere; teneo,halten; festhalten,11,v
+oportet; oportuit,es gehört sich; man muss,11,x
+mors; mortis,der Tod,11,s
+servire; servio,dienen; Skalve sein,11,v
+rex; regis,der König,11,S
+iubere; iubeo; iussi,befehlen; anordnen,11,v
+vis;-;-;vim;vi f; PL. vires; virum,die Kraft; die Gewalt; die Menge; Pl auch Streitkräfte,11,s
+sic,so; auf diese Weise,11,x
+negare; nego,leugnen; sagen - dass nicht,11,v
+putare; puto,glauben; meinen,11,v
+invidere; invideo; invidi (m Dat),beneiden,11,v
+instare; insto; institi,bevorstehen; drohen; bedrängen,11,v
+iuvenis; iuvenis m,der junde Mann,11,s
+malum,der Apfel,11,s
+aureus; -; -um,golden; vergoldet,11,x
+pendere; pendeo; pependi,hängen,11,v
+suscipere; suscipio; suscepi,aufnehmen; auf sich nehmen; unternehmen,11,v
+necare; neco,töten,11,v
+umerus; -i,die schulter,11,s
+socius; -i,der Gefährte; der Kamerad; der Bundesgenosse,11,s
+contra,gegen,11,x
+nonnulli; -ae; -a,einige; manche,11,x
+constat; constitit,es steht fest; es ist bekannt,11,x
+poeta; -ae -m,der Dichter,11,s
+imponere; impono; imposui,hineinstellen; auferlegen; auf die Schulter legen - aufbürden,11,v
+ponere; pono; posui,setzen; legen (auf); stellen,11,v
+pauci; -ae; -a,wenige,11,x
+hora; -ae f,die Stunde,11,s
+saeculum; -i n,das Jahrhundert; das Zeitalter,11,s
+procul,in der Ferne; aus der Ferne; fern,11,x
+custodire; custodio,bewachen; beschützen,11,v
+interea,inzwischen,11,x
+profecto,in der Tat; tatsächlich,11,x
+augere; augeo; auxi,vermehren; vergrößern,11,v
+leo; leonis,der Löwe,11,s
+annus,das Jahr,11,s
+gloria; -ae,der Ruhm; die Ehre,11,s
+ingens; ingentis,riesig; gewaltig,11,x
+celer; celeris; celee,schnell,11,x
+mortalis; mortale,sterblihc; der Stebliche; der Mensch,11,x
+acer; acris; acre,scharf; heftig; wild,11,x
+omnis; omne,jeder; all; ganz,11,x
+incredibilis; incredibile,unglaublich,11,x
+mens; mentis,der Gesits; der Verstand,11,s
+-que,und (nachgestellt),11,x
+quidem,"zwar, freilich",11,x
+nullus; - a; -um; Gen. nullius; Dat. nulli,kein,11,x
+immo,im Gegenteil; ja sogar,11,x
+ne...quidem,nicht einmal,11,x
+tollere; tollo; sustuli,hochheben; aufheben; erheben; beseitigen; wegnehmen; vernichten,11,v
+demittere; demitto; demisi,hinabschicken; sinken lassen,11,v
+lux; lucis,das Licht; das Tageslicht,11,s
+caput; capitis,das Haupt; der Kopf,11,s
+immortalis; immortale,unsterblich; der Unsterbliche; der Gott,11,s
+fatum; -i n ,das Schicksal; der Schicksalsspruch; der Götterspruch; das Verhängnis,11,s
+auxilium; -i,die hilfe,11,s
+ruere; ruo; rui,(sich) stürzen; eilen; rennen,11,v
+cedere; cedo; cessi,(weg-) gehen; weichen; nachgeben,11,v
+valere; valeo,gesund sein; vermögen; Einfluss haben,11,v
+vale/valete,lebe wohl,11,x
+nihil valere,nichts vermögen; keinen Einfluss haben,11,v
+violare; violo,verletzen; Misshandeln,11,v
+defendere; defendo; defendi (a/ab),verteidigen (gegen),11,v
+meus; -a; -um,mein,11,x
+vester; vestra; vestrum,euer,11,x
+tuus; -a; -um,dein,11,x
+noster; nostra; nostrum,unser,11,x
+suus; -a; -um,sein; ihr,11,x
+sui; -orum m (pl),die Seine; die Ihre,11,x
+soror; sororis,die Schwester,11,s
+permittere; permitto; permisi,erlauben; überlassen,11,v
+prohibere; prohibeo,abhalten (von); hindern (an); verhindern,11,v
+necesse est,es ist nötig,11,x
+novus; -a; -um,neu; neuartig,11,x
+condere; condo; condidi,gründen,11,v
+torquere; torqueo; torsi,foltern; quälen; drehen,11,v
+quoque,auch,11,x
+nox; noctis f; Gen Pl noctium,die Nacht,11,s
+multa nocte,tief in der Nacht,11,x
+prima nocte,zu begin der Nacht,11,x
+ardere; ardeo; arsi,brennen; glühen,11,v
+capere; capio; cepi,nehmen; fangen; ergreifen; einnehmen,11,v
+patria; -ae f,das Vaterland; dei Heimat,11,s
+mare; maris; (Abl. S mari / Nom Akk Pl maria / Gen Pl marium),das Meer,11,s
+errare; erro,sich irren; (umher)irren,11,v
+ante,vor,11,x
+lacrima; -ae,die Träne,11,s
+pius; -a ; -um,fromm; verantwortungsbewusst; pflichtbewusst,11,
+nullo modo,auf keine Weise,11,x
+mai; -orum m (Pl),die Meinen; meine Leute,11,s
+et...et,sowohl... als auch,11,x
+ex eo tempore,seit dieser Zeit,11,x
+de vita decedere,aus dem Leben scheiden,11,x
+in mentem venire,in den sinn kommen,11,x
+prima luce,bei Tagesanbruch,11,x
+causa; -ae,derGrund; die Ursache; der Fall; der (Gerichts-)Prozess,11,s
+ceteri; -ae; -a,die übrigen; die andren,11,x
+infelix; infelicis,unglücklich,11,x
+superbus; -a; -um,hochmütig; stolz,11,x
+mox,bald; dann,11,x
+umbra; -ae,der Schatten,11,s
+inter,zwischen; während,11,x
+vertere; verto; verti,drehen; (um)wenden,11,v
+-ne,unübersetztes Fragepartikel,11,x
+iurare; iuro,schwören,11,x
+per deos iurare,bei den Göttern schwören,11,x
+lacrimas tenere,Tränen zurückhalten,11,x
+oculos vertere,seinen Blick richten auf,11,x
+regnum; -i,"die Herrschaft; die Königsherrschaft, das Reich",11,s
+dum,(solange) bis; solange; (m. Ind. Präs) während,11,x
+postquam,nachdem,11,x
+quamquam,obwohl,11,x
+murus,die Mauer,11,s
+lupa; -ae,die Wölfin,11,s
+fama; -ae f,das Gerücht; der (gute oder schlechte) Ruf,10,s
+orare; oro,beten (zu); bitten,11,v
+miles; militis,der Soldat,11,s
+filia; -ae f,die Tochter,11,s
+gerere; gero; gessi,tragen; führen; ausführen,11,v
+negotia gerere,seinen Geschäften nachgehen,11,x
+bellum gerere (cum),Krieg führen (mit),11,x
+vestem gerere,ein Kleidungsstück tragen,10,x
+se gerere,sich benehmen,11,x
+res; rei f,die Sache; das Ding; die Angelegenheit,11,s
+dies; diei m,der Tag,11,s
+fides; fidei f,das Vertrauen; die Treue; die Zuverlässigkeit,11,s
+fidem dare,dein Wort geben,11,x
+fidem habere,Vertrauen schenken,11,x
+acies; aciei f,die Schärfe; der Scharfsinn; die Schlachtreihe,11,s
+acies mentis,der Scharfsinn; die Aufmerksamkeit (bc: die Schärfe des Gesites),11,x
+aciem institutere,eine Schlachtreihe aufstellen,11,x
+alius; alia; aliud; gen. alterius; dat. alii,ein anderer; eine andere; ein anderes... ajektiv,11,x
+alii...alii,die einen... die anderen...,11,x
+alius aliud facit,jeder macht etwas anderes,10,x
+accurrere; accurro; accucurri,hinzulaufen; herbeieilen,10,v
+mortuus; -a; -um,tot (adjektiv),10,x
+facies; faciei f,das Gesicht; das Aussehen,10,s
+facie cognoscrere,am Gesicht erkennen,10,x
+regnare; regno,"König sein, herrschen, regieren",10,v
+aliquando,einst; (irgendwann) einmal,10,x
+militaris; militare,militärisch; soldatisch,10,x
+res militaris,das Kriegswesen; die Kriegskunst,10,x
+tempestas; tempestatis f,das Unwetter; das Gewitter,10,s
+imber; imbris; gen.pl. imbrium,der Regen; der Regenguss,10,s
+nubes; nubis; gen.pl. nubium,die Wolke,10,s
+exclamare; exclamo,ausrufen; aufschreien,10,v
+protegere; protego; protexi,bedecken; schützen,10,v
+orationem habere,eine Rede halten,10,x
+pacem facere,Frieden schließen,9,x
+auctoritas; auctoritatis f,das Ansehen; der Einfluss,8,s
+sperare; spero,hoffen; erhoffen,9,v
+lex; legis f,das Gesetz,8,s
+brevis; breve,kurz,8,x
+brevi (tempore),in Kürze; in kurzer Zeit,9,x
+hostis; hostis m/f,der/die Feind(in),8,s
+indicare; indico,anzeigen; melden; verraten,9,v
+exercitus; exercitUs m,das Heer,5,s
+manus; manUs f,die Hand; die Schar,6,s
+vultus; vultUs m,das Gesicht; die Miene; der Gesichtsausdruck,4,s
+cultus; cultUs m,die Pflege; die Verehrung,4,s
+domus; domUs f,das Haus,6,s
+domo,von zu Hause weg,6,x
+severus; -a; -um,ernst; streng,4,x
+apertus; -a; -um,offen; offenkundig,3,x
+finitimus; -a; -um,benachbart; Subst. der Nachbar,3,x
+pietas; pietatis,die Frömmigkeit; das Pflichtgefühl; das Verantwortungsbewusstsein,4,s
+humanitats; humanitatis,die Menschlichkeit; die Bildung,4,s
+lacus; lacUs m,der See,4,s
+situs; -a; -um,gelegen,4,x
+minister; ministri m,der Diener,4,s
+nympha; -ae,die Nymphe,4,s
+divus; -a; -um,göttlich,3,x
+cinis; cineris m,die Asche,0,s
+villa; -ae f,die Villa; das Landhaus,2,s
+avunculus; -i m,der Onkel,1,s
+liber; libri,das Buch,1,s
+publicus; -a; -um,öffentlich; staatlich,2,x
+postea,nachher; später,1,x
+regere; rego; rexi,lenken; leiten; beherrschen,0,v
+civis; civis; m/f; genPl civium,der Bürger; die Bürgerin,1,s
+opprimere; opprimo; oppressi,überfallen; überwältigen; unterdrücken,1,v
+servitus; servitutis f,die Sklaverei,0,s
+pellere; pello; pepuli,schlagen; stoßen; treiben; vertreiben,0,v
+numquam,niemals,1,x
+adiuvare; adiuvo; adiuvi,helfen; unterstützen,0,v
+fallere; fallo; fefelli,täuschen; unbemerkt bleiben,1,v
