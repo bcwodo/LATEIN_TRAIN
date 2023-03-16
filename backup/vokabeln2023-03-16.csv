@@ -1,5 +1,5 @@
 Latein,Deutsch,Kartei,Wortart
-quis es?,Wer bist Du?; Wie heißt Du?,5,x
+quis es?,Wer bist Du?; Wie heißt Du?,4,x
 Ego sum,Ich bin; ich heiße,4,x
 familia,die Familie,4,s
 servus,der Diener; der Sklave,4,s
@@ -384,7 +384,7 @@ ager; agri,der Acker; das Feld; das Land,4,s
 pecus; pecoris,das Veih; die Viehherde,4,s
 alere; alo; alui,aufziehen; (er)nähren,4,v
 ignis; ignis,das Feuer,4,s
-rapere; rapio; rapui; raptum,rauben,4,v
+rapere; rapio; rapui; raptum,rauben,3,v
 antea,früher,4,x
 dolus,die List; die Täuschung,4,s
 vas; vasis,das Gefäß,4,s
@@ -430,27 +430,27 @@ ingens; ingentis,riesig; gewaltig,4,x
 celer; celeris; celee,schnell,4,x
 mortalis; mortale,sterblihc; der Stebliche; der Mensch,4,x
 acer; acris; acre,scharf; heftig; wild,4,x
-omnis; omne,jeder; all; ganz,5,x
-incredibilis; incredibile,unglaublich,5,x
-mens; mentis,der Gesits; der Verstand,5,s
--que,und (nachgestellt),5,x
+omnis; omne,jeder; all; ganz,4,x
+incredibilis; incredibile,unglaublich,4,x
+mens; mentis,der Gesits; der Verstand,4,s
+-que,und (nachgestellt),4,x
 quidem,zwar; freilich,4,x
-nullus; - a; -um; Gen. nullius; Dat. nulli,kein,5,x
-immo,im Gegenteil; ja sogar,5,x
-ne...quidem,nicht einmal,5,x
+nullus; - a; -um; Gen. nullius; Dat. nulli,kein,4,x
+immo,im Gegenteil; ja sogar,4,x
+ne...quidem,nicht einmal,4,x
 tollere; tollo; sustuli,hochheben; aufheben; erheben; beseitigen; wegnehmen; vernichten,4,v
 demittere; demitto; demisi; dimissum,hinabschicken; sinken lassen,4,v
-lux; lucis,das Licht; das Tageslicht,5,s
-caput; capitis,das Haupt; der Kopf,5,s
-immortalis; immortale,unsterblich; der Unsterbliche; der Gott,5,s
-fatum; -i n ,das Schicksal; der Schicksalsspruch; der Götterspruch; das Verhängnis,5,s
-auxilium; -i,die hilfe,5,s
-ruere; ruo; rui,(sich) stürzen; eilen; rennen,5,v
-cedere; cedo; cessi,(weg-) gehen; weichen; nachgeben,5,v
+lux; lucis,das Licht; das Tageslicht,4,s
+caput; capitis,das Haupt; der Kopf,4,s
+immortalis; immortale,unsterblich; der Unsterbliche; der Gott,4,s
+fatum; -i n ,das Schicksal; der Schicksalsspruch; der Götterspruch; das Verhängnis,4,s
+auxilium; -i,die hilfe,4,s
+ruere; ruo; rui,(sich) stürzen; eilen; rennen,4,v
+cedere; cedo; cessi,(weg-) gehen; weichen; nachgeben,4,v
 valere; valeo,gesund sein; vermögen; Einfluss haben,4,v
-vale/valete,lebe wohl,5,x
-nihil valere,nichts vermögen; keinen Einfluss haben,5,v
-violare; violo,verletzen; Misshandeln,5,v
+vale/valete,lebe wohl,4,x
+nihil valere,nichts vermögen; keinen Einfluss haben,4,v
+violare; violo,verletzen; Misshandeln,4,v
 defendere; defendo; defendi (a/ab),verteidigen (gegen),5,v
 meus; -a; -um,mein,5,x
 vester; vestra; vestrum,euer,5,x
@@ -465,7 +465,7 @@ necesse est,es ist nötig,5,x
 novus; -a; -um,neu; neuartig,5,x
 condere; condo; condidi,gründen; bestatten,5,v
 torquere; torqueo; torsi,foltern; quälen; drehen,5,v
-quoque,auch,5,x
+quoque,auch,4,x
 nox; noctis f; Gen Pl noctium,die Nacht,5,s
 multa nocte,tief in der Nacht,5,x
 prima nocte,zu begin der Nacht,5,x
@@ -488,27 +488,27 @@ causa; -ae,der Grund; die Ursache; der Fall; der (Gerichts-)Prozess,5,s
 ceteri; -ae; -a,die übrigen; die andren,5,x
 infelix; infelicis,unglücklich,5,x
 superbus; -a; -um,hochmütig; stolz,5,x
-mox,bald; dann,5,x
+mox,bald; dann,4,x
 umbra; -ae,der Schatten,5,s
 inter,zwischen; während,5,x
-vertere; verto; verti,drehen; (um)wenden,5,v
--ne,unübersetztes Fragepartikel,5,x
+vertere; verto; verti,drehen; (um)wenden,4,v
+-ne,unübersetztes Fragepartikel,4,x
 iurare; iuro,schwören,5,x
-per deos iurare,bei den Göttern schwören,5,x
-lacrimas tenere,Tränen zurückhalten,5,x
-oculos vertere,seinen Blick richten auf,5,x
-regnum; -i,die Herrschaft; die Königsherrschaft; das Reich,5,s
-dum,(solange) bis; solange; (m. Ind. Präs) während,5,x
-postquam,nachdem,5,x
-quamquam,obwohl,5,x
-murus,die Mauer,5,s
-lupa; -ae,die Wölfin,5,s
+per deos iurare,bei den Göttern schwören,4,x
+lacrimas tenere,Tränen zurückhalten,4,x
+oculos vertere,seinen Blick richten auf,4,x
+regnum; -i,die Herrschaft; die Königsherrschaft; das Reich,4,s
+dum,(solange) bis; solange; (m. Ind. Präs) während,4,x
+postquam,nachdem,4,x
+quamquam,obwohl,4,x
+murus,die Mauer,4,s
+lupa; -ae,die Wölfin,4,s
 fama; -ae f,das Gerücht; der (gute oder schlechte) Ruf,5,s
-orare; oro,beten (zu); bitten,5,v
-miles; militis,der Soldat,5,s
-filia; -ae f,die Tochter,5,s
-gerere; gero; gessi; gestum,tragen; führen; ausführen,5,v
-negotia gerere,seinen Geschäften nachgehen,5,x
+orare; oro,beten (zu); bitten,4,v
+miles; militis,der Soldat,4,s
+filia; -ae f,die Tochter,4,s
+gerere; gero; gessi; gestum,tragen; führen; ausführen,4,v
+negotia gerere,seinen Geschäften nachgehen,4,x
 bellum gerere (cum),Krieg führen (mit),4,x
 vestem gerere,ein Kleidungsstück tragen,4,x
 se gerere,sich benehmen,4,x
@@ -533,10 +533,10 @@ militaris; militare,militärisch; soldatisch,4,x
 res militaris,das Kriegswesen; die Kriegskunst,4,x
 tempestas; tempestatis f,das Unwetter; das Gewitter,4,s
 imber; imbris; gen.pl. imbrium,der Regen; der Regenguss,4,s
-nubes; nubis; gen.pl. nubium,die Wolke,5,s
-exclamare; exclamo,ausrufen; aufschreien,5,v
-protegere; protego; protexi,bedecken; schützen,5,v
-orationem habere,eine Rede halten,5,x
+nubes; nubis; gen.pl. nubium,die Wolke,4,s
+exclamare; exclamo,ausrufen; aufschreien,4,v
+protegere; protego; protexi,bedecken; schützen,4,v
+orationem habere,eine Rede halten,4,x
 pacem facere,Frieden schließen,4,x
 auctoritas; auctoritatis f,das Ansehen; der Einfluss,4,s
 sperare; spero,hoffen; erhoffen,4,v
@@ -707,7 +707,7 @@ gens; gentis f ; GenPl gentium,das Geschlecht; der Stamm; das volk,4,s
 praeda; -ae f,die Beute; die Kreigsbeute,4,s
 ops; opis f PL opes; opum,die Hilfe; die Kraft; die Macht; PL: der Reihtum,4,s
 forma; -ae f,die Form; die Gestalt; die Schönheit,4,s
-victoria; -ae,der Sieg,4,s
+victoria; -ae,der Sieg,3,s
 ostendere; ostendo; ostendi; ostentum,zeigen; erklären; offenbaren,4,v
 libido; libidinis f,die Begierde; die Hemmungslosigkeit,4,s
 flere; fleo; flevi; fletum,weinen (über); beweinen; beklagen,4,v
@@ -718,10 +718,10 @@ a malis hominibus tempero,ich halte mich von bösen Menschen fern,4,x
 antiquus; -a; -um,alt,4,x
 occupare; occupo,einnehmen; besetzen; beschäftigen,4,v
 victor; victoris m,der Sieger,4,s
-obsecrare; obsecro,anflehen; beschwören,4,v
+obsecrare; obsecro,anflehen; beschwören,3,v
 turbare; turbo,durcheinanderbringen; verwirren; stören,4,v
 sinere; sino; sivi; situm,lassen; zulassen; erlauben,4,v
-tolerare; tolero,erdulden; ertragen,3,v
+tolerare; tolero,erdulden; ertragen,2,v
 tristis; triste,traurig; düster,4,x
 nuntius; i m,der Bote; die Nachricht,4,s
 sepulcrum; i n,das Gram; das Grabmal,4,s
