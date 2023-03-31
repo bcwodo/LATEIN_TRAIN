@@ -362,7 +362,7 @@ caelum; -i,der Himmel,4,s
 terra; -ae,das Land; die Erde,4,s
 mons; montis m; GenPl montium,der Berg,4,s
 altus;-a;-um,hoch; tief,4,x
-tangere; tango; tetigi,berühren; erreichen,4,v
+tangere; tango; tetigi,berühren; erreichen,5,v
 invadere; invado; invasi,eindringen; angreifen,4,v
 potentia; -ae,die Macht,4,s
 superare; supero,überwinden; besiegen,4,v
@@ -406,40 +406,40 @@ malum,der Apfel,4,s
 aureus; -; -um,golden; vergoldet,4,x
 pendere; pendeo; pependi,hängen,4,v
 suscipere; suscipio; suscepi,aufnehmen; auf sich nehmen; unternehmen,4,v
-necare; neco,töten,4,v
-umerus; -i,die schulter,4,s
-socius; -i,der Gefährte; der Kamerad; der Bundesgenosse,4,s
-contra,gegen,4,x
-nonnulli; -ae; -a,einige; manche,4,x
-constat; constitit,es steht fest; es ist bekannt,4,x
-poeta; -ae -m,der Dichter,4,s
-imponere; impono; imposui,hineinstellen; auferlegen; auf die Schulter legen - aufbürden,4,v
-ponere; pono; posui,setzen; legen (auf); stellen,4,v
-pauci; -ae; -a,wenige,4,x
-hora; -ae f,die Stunde,4,s
-saeculum; -i n,das Jahrhundert; das Zeitalter,4,s
-procul,in der Ferne; aus der Ferne; fern,4,x
-custodire; custodio,bewachen; beschützen,4,v
-interea,inzwischen,4,x
-profecto,in der Tat; tatsächlich,4,x
+necare; neco,töten,5,v
+umerus; -i,die schulter,5,s
+socius; -i,der Gefährte; der Kamerad; der Bundesgenosse,5,s
+contra,gegen,5,x
+nonnulli; -ae; -a,einige; manche,5,x
+constat; constitit,es steht fest; es ist bekannt,5,x
+poeta; -ae -m,der Dichter,5,s
+imponere; impono; imposui,hineinstellen; auferlegen; auf die Schulter legen - aufbürden,5,v
+ponere; pono; posui,setzen; legen (auf); stellen,5,v
+pauci; -ae; -a,wenige,5,x
+hora; -ae f,die Stunde,5,s
+saeculum; -i n,das Jahrhundert; das Zeitalter,5,s
+procul,in der Ferne; aus der Ferne; fern,5,x
+custodire; custodio,bewachen; beschützen,5,v
+interea,inzwischen,5,x
+profecto,in der Tat; tatsächlich,5,x
 augere; augeo; auxi; auctum,vermehren; vergrößern,4,v
-leo; leonis,der Löwe,4,s
-annus,das Jahr,4,s
-gloria; -ae,der Ruhm; die Ehre,4,s
-ingens; ingentis,riesig; gewaltig,4,x
-celer; celeris; celee,schnell,4,x
-mortalis; mortale,sterblihc; der Stebliche; der Mensch,4,x
-acer; acris; acre,scharf; heftig; wild,4,x
+leo; leonis,der Löwe,5,s
+annus,das Jahr,5,s
+gloria; -ae,der Ruhm; die Ehre,5,s
+ingens; ingentis,riesig; gewaltig,5,x
+celer; celeris; celere,schnell,5,x
+mortalis; mortale,sterblich; der Stebliche; der Mensch,5,x
+acer; acris; acre,scharf; heftig; wild,5,x
 omnis; omne,jeder; all; ganz,5,x
 incredibilis; incredibile,unglaublich,5,x
 mens; mentis,der Gesits; der Verstand,5,s
 -que,und (nachgestellt),5,x
-quidem,zwar; freilich,4,x
+quidem,zwar; freilich,5,x
 nullus; - a; -um; Gen. nullius; Dat. nulli,kein,5,x
 immo,im Gegenteil; ja sogar,5,x
 ne...quidem,nicht einmal,5,x
-tollere; tollo; sustuli,hochheben; aufheben; erheben; beseitigen; wegnehmen; vernichten,4,v
-demittere; demitto; demisi; dimissum,hinabschicken; sinken lassen,4,v
+tollere; tollo; sustuli,hochheben; aufheben; erheben; beseitigen; wegnehmen; vernichten,5,v
+demittere; demitto; demisi; dimissum,hinabschicken; sinken lassen,5,v
 lux; lucis,das Licht; das Tageslicht,5,s
 caput; capitis,das Haupt; der Kopf,5,s
 immortalis; immortale,unsterblich; der Unsterbliche; der Gott,5,s
@@ -447,7 +447,7 @@ fatum; -i n ,das Schicksal; der Schicksalsspruch; der Götterspruch; das Verhän
 auxilium; -i,die hilfe,5,s
 ruere; ruo; rui,(sich) stürzen; eilen; rennen,5,v
 cedere; cedo; cessi,(weg-) gehen; weichen; nachgeben,5,v
-valere; valeo,gesund sein; vermögen; Einfluss haben,4,v
+valere; valeo,gesund sein; vermögen; Einfluss haben,5,v
 vale/valete,lebe wohl,5,x
 nihil valere,nichts vermögen; keinen Einfluss haben,5,v
 violare; violo,verletzen; Misshandeln,5,v
@@ -460,7 +460,7 @@ suus; -a; -um,sein; ihr,5,x
 sui; -orum m (pl),die Seine; die Ihre,5,x
 soror; sororis,die Schwester,5,s
 permittere; permitto; permisi; permissum,erlauben; überlassen,5,v
-prohibere; prohibeo,abhalten (von); hindern (an); verhindern,4,v
+prohibere; prohibeo,abhalten (von); hindern (an); verhindern,5,v
 necesse est,es ist nötig,5,x
 novus; -a; -um,neu; neuartig,5,x
 condere; condo; condidi,gründen; bestatten,5,v
@@ -482,7 +482,7 @@ mai; -orum m (Pl),die Meinen; meine Leute,5,s
 et...et,sowohl... als auch,5,x
 ex eo tempore,seit dieser Zeit,5,x
 de vita decedere,aus dem Leben scheiden,5,x
-in mentem venire,in den sinn kommen,4,x
+in mentem venire,in den sinn kommen,5,x
 prima luce,bei Tagesanbruch,5,x
 causa; -ae,der Grund; die Ursache; der Fall; der (Gerichts-)Prozess,5,s
 ceteri; -ae; -a,die übrigen; die andren,5,x
@@ -509,30 +509,30 @@ miles; militis,der Soldat,5,s
 filia; -ae f,die Tochter,5,s
 gerere; gero; gessi; gestum,tragen; führen; ausführen,5,v
 negotia gerere,seinen Geschäften nachgehen,5,x
-bellum gerere (cum),Krieg führen (mit),4,x
-vestem gerere,ein Kleidungsstück tragen,4,x
-se gerere,sich benehmen,4,x
-res; rei f,die Sache; das Ding; die Angelegenheit,4,s
-dies; diei m,der Tag,4,s
+bellum gerere (cum),Krieg führen (mit),5,x
+vestem gerere,ein Kleidungsstück tragen,5,x
+se gerere,sich benehmen,5,x
+res; rei f,die Sache; das Ding; die Angelegenheit,5,s
+dies; diei m,der Tag,5,s
 fides; fidei f,das Vertrauen; die Treue; die Zuverlässigkeit,5,s
-fidem dare,dein Wort geben,4,x
-fidem habere,Vertrauen schenken,4,x
-acies; aciei f,die Schärfe; der Scharfsinn; die Schlachtreihe,4,s
-acies mentis,der Scharfsinn; die Aufmerksamkeit (bc: die Schärfe des Gesites),4,x
+fidem dare,sein Wort geben,5,x
+fidem habere,Vertrauen schenken,5,x
+acies; aciei f,die Schärfe; der Scharfsinn; die Schlachtreihe,5,s
+acies mentis,der Scharfsinn; die Aufmerksamkeit (bc: die Schärfe des Gesites),5,x
 aciem institutere,eine Schlachtreihe aufstellen,4,x
-alius; alia; aliud; gen. alterius; dat. alii,ein anderer; eine andere; ein anderes... (adjektiv),4,x
-alii...alii,die einen... die anderen...,4,x
-alius aliud facit,jeder macht etwas anderes,4,x
-accurrere; accurro; accucurri,hinzulaufen; herbeieilen,4,v
-mortuus; -a; -um,tot (adjektiv),4,x
-facies; faciei f,das Gesicht; das Aussehen,4,s
+alius; alia; aliud; gen. alterius; dat. alii,ein anderer; eine andere; ein anderes... (adjektiv),5,x
+alii...alii,die einen... die anderen...,5,x
+alius aliud facit,jeder macht etwas anderes,5,x
+accurrere; accurro; accucurri,hinzulaufen; herbeieilen,5,v
+mortuus; -a; -um,tot (adjektiv),5,x
+facies; faciei f,das Gesicht; das Aussehen,5,s
 facie cognoscrere,am Gesicht erkennen,4,x
-regnare; regno,König sein; herrschen; regieren,4,v
-aliquando,einst; (irgendwann) einmal,4,x
-militaris; militare,militärisch; soldatisch,4,x
-res militaris,das Kriegswesen; die Kriegskunst,4,x
-tempestas; tempestatis f,das Unwetter; das Gewitter,4,s
-imber; imbris; gen.pl. imbrium,der Regen; der Regenguss,4,s
+regnare; regno,König sein; herrschen; regieren,5,v
+aliquando,einst; (irgendwann) einmal,5,x
+militaris; militare,militärisch; soldatisch,5,x
+res militaris,das Kriegswesen; die Kriegskunst,5,x
+tempestas; tempestatis f,das Unwetter; das Gewitter,5,s
+imber; imbris; gen.pl. imbrium,der Regen; der Regenguss,5,s
 nubes; nubis; gen.pl. nubium,die Wolke,5,s
 exclamare; exclamo,ausrufen; aufschreien,5,v
 protegere; protego; protexi,bedecken; schützen,5,v
@@ -541,26 +541,26 @@ pacem facere,Frieden schließen,4,x
 auctoritas; auctoritatis f,das Ansehen; der Einfluss,4,s
 sperare; spero,hoffen; erhoffen,4,v
 lex; legis f,das Gesetz,4,s
-brevis; breve,kurz,4,x
-brevi (tempore),in Kürze; in kurzer Zeit,4,x
-hostis; hostis m/f,der/die Feind(in),4,s
-indicare; indico,anzeigen; melden; verraten,4,v
-exercitus; exercitUs m,das Heer,4,s
-manus; manUs f,die Hand; die Schar,4,s
-vultus; vultUs m,das Gesicht; die Miene; der Gesichtsausdruck,4,s
-cultus; cultUs m,die Pflege; die Verehrung,4,s
-domus; domUs f,das Haus,4,s
-domo,von zu Hause weg,4,x
-severus; -a; -um,ernst; streng,4,x
-apertus; -a; -um,offen; offenkundig,4,x
-finitimus; -a; -um,benachbart; Subst. der Nachbar,4,x
-pietas; pietatis,die Frömmigkeit; das Pflichtgefühl; das Verantwortungsbewusstsein,4,s
-humanitats; humanitatis,die Menschlichkeit; die Bildung,4,s
-lacus; lacUs m,der See,4,s
-situs; -a; -um,gelegen,4,x
-minister; ministri m,der Diener,4,s
-nympha; -ae,die Nymphe,4,s
-divus; -a; -um,göttlich,4,x
+brevis; breve,kurz,5,x
+brevi (tempore),in Kürze; in kurzer Zeit,5,x
+hostis; hostis m/f,der/die Feind(in),5,s
+indicare; indico,anzeigen; melden; verraten,5,v
+exercitus; exercitUs m,das Heer,5,s
+manus; manUs f,die Hand; die Schar,5,s
+vultus; vultUs m,das Gesicht; die Miene; der Gesichtsausdruck,5,s
+cultus; cultUs m,die Pflege; die Verehrung,5,s
+domus; domUs f,das Haus,5,s
+domo,von zu Hause weg,5,x
+severus; -a; -um,ernst; streng,5,x
+apertus; -a; -um,offen; offenkundig,5,x
+finitimus; -a; -um,benachbart; Subst. der Nachbar,5,x
+pietas; pietatis,die Frömmigkeit; das Pflichtgefühl; das Verantwortungsbewusstsein,5,s
+humanitats; humanitatis,die Menschlichkeit; die Bildung,5,s
+lacus; lacUs m,der See,5,s
+situs; -a; -um,gelegen,5,x
+minister; ministri m,der Diener,5,s
+nympha; -ae,die Nymphe,5,s
+divus; -a; -um,göttlich,5,x
 cinis; cineris m,die Asche,4,s
 villa; -ae f,die Villa; das Landhaus,4,s
 avunculus; -i m,der Onkel,4,s
@@ -721,7 +721,7 @@ victor; victoris m,der Sieger,4,s
 obsecrare; obsecro,anflehen; beschwören,4,v
 turbare; turbo,durcheinanderbringen; verwirren; stören,4,v
 sinere; sino; sivi; situm,lassen; zulassen; erlauben,4,v
-tolerare; tolero,erdulden; ertragen,3,v
+tolerare; tolero,erdulden; ertragen,4,v
 tristis; triste,traurig; düster,4,x
 nuntius; i m,der Bote; die Nachricht,4,s
 sepulcrum; i n,das Gram; das Grabmal,4,s

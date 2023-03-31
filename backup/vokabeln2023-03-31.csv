@@ -176,8 +176,8 @@ petere; peto; petivi; petitum,bitte; verlangen; haben wollen; streben nach; erre
 senex; senis,der alte Mann; Greis,4,s
 adulescens; adulescentis; adulescentium (gen. pl),der Jugendliche; der junge Mann,4,s
 vox; vocis,die Stimme; das Wort,4,s
-credere; credo; credidi; cretitum,glauben; vertrauen,5,v
-incendium,der Brand; das Feuer,5,s
+credere; credo; credidi; cretitum,glauben; vertrauen,4,v
+incendium,der Brand; das Feuer,4,s
 auctor; auctoris,der Urheber; der Grümder; der Schriftsteller,4,s
 taberna,der Laden; das Wirtshaus,4,s
 forte,zufällig,4,x
@@ -210,50 +210,50 @@ raro,selten,5,x
 vulnus; vulneris,die Wunde,4,s
 labor; laboris,die Arbeit; die Mühe,4,s
 domum,heim;  nach Hause,4,x
-decedere; decedo; decessi; decessum,weggehen; sterben,5,v
-vestis; vestis f; vestium,das Kleid; die Kleidung,5,s
-tunica,die Tunika,5,s
-toga,die Toga,5,s
-consul; -is m,der Konsul,5,s
-currere; curro,laufen; rennen,5,v
-habitare,wohnen; bewohnen,5,v
-stare; sto; steti,stehen; dastehen,5,v
-de,von...herab; von; über; um/wegen,5,x
+decedere; decedo; decessi; decessum,weggehen; sterben,4,v
+vestis; vestis f; vestium,das Kleid; die Kleidung,4,s
+tunica,die Tunika,4,s
+toga,die Toga,4,s
+consul; -is m,der Konsul,4,s
+currere; curro,laufen; rennen,4,v
+habitare,wohnen; bewohnen,4,v
+stare; sto; steti,stehen; dastehen,4,v
+de,von...herab; von; über; um/wegen,4,x
 de amico narrare,vom Freund erzählen,5,x
 de amicis timere,um die Freunde angst haben,5,x
 ad (akk),zu (...hin); bei; an; nach,5,x
 per (akk),durch (...hindurch); über,5,x
 post (akk),nach; hinter,5,x
-e/ex (abl),aus; aus...heraus; von....her; seit,5,x
+e/ex (abl),aus; aus...heraus; von....her; seit,4,x
 super (akk),über,5,x
 cum (abl),mit,5,x
 sine,ohne,5,x
 in,(akk): in (...hinein); nach(...hin); gegen (wohin?) (abl): in an auf bei (wo),5,x
 sub,(akk) unter (wohin); (abl) unter (wo),5,x
 sermo; sermonis,das Gespräch; die Sprache,5,s
-abdere; abdo; abdidi; abditum,verstecken; verbergen,5,v
+abdere; abdo; abdidi; abditum,verstecken; verbergen,4,v
 oculus; -i,Auge,5,s
-amittere; amitto; amisi; amissum,verlieren,5,v
+amittere; amitto; amisi; amissum,verlieren,4,v
 vicus; -i,die Gasse; das Dorf,5,s
 plebs; plebis f,das (einfache) Volk,5,s
 pecunia; -ae,das Geld,5,s
 timor; timoris m,die Angst; die Furcht,4,s
-mutare; muto,ändern; verändern; verwandeln,5,v
-possidere; possideo; possedi,besitzen,5,v
+mutare; muto,ändern; verändern; verwandeln,4,v
+possidere; possideo; possedi,besitzen,4,v
 donum; -i,das Geschenk,5,s
 poena; -ae,die Strafe,5,s
 ponea/poenis afficere,bestrafen,5,x
 studium; -i,Das Bemühen; das Streben; das wissenschaftlich Beschäftigen,5,s
 nihil,nichts,5,x
 convenire; convenio; conveni; conventum,passen; zusammentreffen; treffen,5,v
-parentes; parent(i)um,die Eltern,5,s
-libertas; libertatis f,die Freiheit,5,s
+parentes; parent(i)um,die Eltern,4,s
+libertas; libertatis f,die Freiheit,4,s
 fortuna; -ae,Glück; das Schicksal,5,s
 nos,Nom. wir; Akk. uns,5,x
 vos,Nom. ihr; Akk. euch,5,x
 is; ea; id,dieser; der(jenige); er,5,x
 domi,daheim; zu Hause,5,x
-ut,wie,5,x
+ut,wie,4,x
 a/ab (abl.),von; von...her; von...weg,5,x
 gratia; -ae,der Dank; die anmut,5,s
 libenter,gern,5,x
@@ -639,23 +639,23 @@ onus; oneris n,die Last,4,s
 portare; porto,"tragen, bringen",4,v
 ubi (sugj),sobald,4,x
 auxilium negare,die Hilfe verweigern,4,x
-übertreffen,superare (mit Abl.),5,v
-imperator; imperatoris,der Feldherr; der Kaiser,5,s
-excitare; excito,auntreiben; erregen; ermuntern; aufwecken,5,v
+übertreffen,superare (mit Abl.),4,v
+imperator; imperatoris,der Feldherr; der Kaiser,4,s
+excitare; excito,auntreiben; erregen; ermuntern; aufwecken,4,v
 imperium; -i,der Befehl; die Herrschaft; das Reich,4,s
-finis; finis; gen.pl. finium,das Ende; die Grenze; das Zeil; Pl. das Gebiet,5,s
-perterrere; perterreo,(jemanden) heftig erschrecken; einschüchtern,5,v
+finis; finis; gen.pl. finium,das Ende; die Grenze; das Zeil; Pl. das Gebiet,4,s
+perterrere; perterreo,(jemanden) heftig erschrecken; einschüchtern,4,v
 occidere (langes i); occido; occidi; occisum,niederschlagen; töten,4,v
-praeesse; praesum; praefui (mit Dativ); [exercitui praeest],an der Spitze stehen; leiten; [das Herr leiten],5,v
-animadvertere; animadverto; animadverti; animadversum,wahrnehmen; bemerken (in m. Akk); vorgehen gegen; einschreiten,5,v
+praeesse; praesum; praefui (mit Dativ); [exercitui praeest],an der Spitze stehen; leiten; [das Herr leiten],4,v
+animadvertere; animadverto; animadverti; animadversum,wahrnehmen; bemerken (in m. Akk); vorgehen gegen; einschreiten,4,v
 inquam; inquis; inquit; inquiunt,sagte ich; du; er; sie; es; sagten sie,4,x
 agmen; agminis n,der Heereszug; die Schar,4,s
 prehendere; prehendo; prehendi; prehensum,ergreifen,4,v
-plerique; pleraeque; pleraque,die meisten; sehr viele,5,x
+plerique; pleraeque; pleraque,die meisten; sehr viele,4,x
 accusare; accuso,anklagen; beschuldigen,5,v
 exemplum; -i,das Beispiel; das Vorbild,5,s
 culpa; -ae f,die Schuld,5,s
-maiores; maiorum Pl,die vorfahren,5,s
+maiores; maiorum Pl,die vorfahren,4,s
 aedificare; aedifico,bauen; erbauen,5,v
 delere; deleo; delevi; deletum,zerstören; vernichten,4,v
 atque; ac,und; und auch,5,x
@@ -667,7 +667,7 @@ oppidum; -i n,die Stadt; die Befestigung,5,s
 scribere; scribo; scripsi; scriptum,schreiben,5,v
 littera; -ae f,der Buchstabe; Pl. der Brief; die Literatur; die Wissenschaft/en,5,s
 pauper; Gen pauperis,arm; armselig,5,x
-vetus; Gen verteris,alt,5,x
+vetus; Gen verteris,alt,4,x
 dives; Gem divitis,reich; kostbar,5,x
 cor; cordis,das Herz,5,s
 maxime,am meisten; ganz besonders,5,x
@@ -726,20 +726,20 @@ tristis; triste,traurig; düster,5,x
 nuntius; i m,der Bote; die Nachricht,5,s
 sepulcrum; i n,das Grab; das Grabmal,5,s
 ornare; orno,schmücken; auszeichnen; ausstatten,5,v
-adicere; adicio; adieci; adiectum,hinzufügen,3,v
+adicere; adicio; adieci; adiectum,hinzufügen,2,v
 avaritia; -ae,die Habgier; der Geiz,4,s
-calamatas; calamatatis,das Unglück; das Unheil; der Schaden,4,s
+calamatas; calamatatis,das Unglück; das Unheil; der Schaden,3,s
 potens; Gen potentis,mächtig; stark,4,x
-proelium; -i,die Schlacht; das Gefecht,4,s
-dubitare; dubito,zweifeln; unschlüssig sein; mit infitiniv: zögern zu tun,3,v
-dubitare de fide,an der Treue zweifeln,4,x
-impellere; impello; impuli; impulsum,in Bewegung setzen; antreiben; veranlassen,4,v
-vindicare; vindico,in Anspruch nehmen; befreien; retten; bestrafen,2,v
-testamentum; -i,das Testament,3,s
-confirmare; confirmo,(be)kräftigen; verstärken; ermutigen,2,v
-nemo,niemand,3,x
-"patres, patrum m (PL)",die Senatoren (tipp väterlich),2,s
-quam, wie; als (Vergleich),3,x
+proelium; -i,die Schlacht; das Gefecht,3,s
+dubitare; dubito,zweifeln; unschlüssig sein; mit infitiniv: zögern zu tun,2,v
+dubitare de fide,an der Treue zweifeln,3,x
+impellere; impello; impuli; impulsum,in Bewegung setzen; antreiben; veranlassen,3,v
+vindicare; vindico,in Anspruch nehmen; befreien; retten; bestrafen,1,v
+testamentum; -i,das Testament,2,s
+confirmare; confirmo,(be)kräftigen; verstärken; ermutigen,1,v
+nemo,niemand,2,x
+"patres, patrum m (PL)",die Senatoren (tipp väterlich),1,s
+quam, wie; als (Vergleich),2,x
 tam...quam,so...wie,1,x
-igitur,also,2,x
-expellere; expello; exppuli; expulsum,vertreiben; verjagen; verbannen,2,v
+igitur,also,1,x
+expellere; expello; exppuli; expulsum,vertreiben; verjagen; verbannen,1,v
