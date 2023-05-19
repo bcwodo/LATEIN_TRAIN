@@ -2,3 +2,4 @@
 *.jpg
 .vscode/
 .ipynb_checkpoints/
+.backup/
