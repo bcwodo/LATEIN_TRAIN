@@ -233,12 +233,12 @@ sub,(akk) unter (wohin); (abl) unter (wo),5,x
 sermo; sermonis,das Gespräch; die Sprache,5,s
 abdere; abdo; abdidi; abditum,verstecken; verbergen,5,v
 oculus; -i,Auge,5,s
-amittere; amitto; amisi; amissum,verlieren,5,v
-vicus; -i,die Gasse; das Dorf,5,s
-plebs; plebis f,das (einfache) Volk,5,s
+amittere; amitto; amisi; amissum,verlieren,6,v
+vicus; -i,die Gasse; das Dorf,6,s
+plebs; plebis f,das (einfache) Volk,6,s
 pecunia; -ae,das Geld,6,s
 timor; timoris m,die Angst; die Furcht,6,s
-mutare; muto,ändern; verändern; verwandeln,5,v
+mutare; muto,ändern; verändern; verwandeln,6,v
 possidere; possideo; possedi,besitzen,6,v
 donum; -i,das Geschenk,6,s
 poena; -ae,die Strafe,6,s
@@ -252,13 +252,13 @@ fortuna; -ae,Glück; das Schicksal,6,s
 nos,Nom. wir; Akk. uns,6,x
 vos,Nom. ihr; Akk. euch,6,x
 is; ea; id,dieser; der(jenige); er,6,x
-domi,daheim; zu Hause,5,x
-ut,wie,5,x
+domi,daheim; zu Hause,6,x
+ut,wie,6,x
 a/ab (abl.),von; von...her; von...weg,6,x
-gratia; -ae,der Dank; die anmut,5,s
-libenter,gern,5,x
-diligere; diligo; dilexi; dilectum,lieben; (sehr) schätzen,5,v
-itaque,daher; deshalb,5,x
+gratia; -ae,der Dank; die anmut,6,s
+libenter,gern,6,x
+diligere; diligo; dilexi; dilectum,lieben; (sehr) schätzen,6,v
+itaque,daher; deshalb,6,x
 prodesse; prosum; profui,nützen,5,v
 tamen,dennoch; jedoch,5,x
 haud,nicht,5,x
@@ -277,36 +277,36 @@ magister; magisteri,der Lehrer,5,s
 pulcher; pulchera; pulcherum,schön,5,x
 miser; misera; miserum,arm; unglücklich; erbärmlich,5,x
 cognoscere; cognosco; cognovi,kennenlernen; erkennen; erfahren,5,v
-memoria; -ae,die Erinnerung; das Gedächtnis,5,s
+memoria; -ae,die Erinnerung; das Gedächtnis,6,s
 memoria comprehendere,im Gedächtnis behalten,5,x
 sumere; sumo; sumpsi,nehmen,5,v
 iacere; iaceo,liegen,5,v
 tempus; temporis n ,die Zeit,5,c
 mos; moris m,die Sitte; der Bauch; PL auch Charakter,5,s
-hodie,heute,5,x
+hodie,heute,6,x
 multi; -ae; -a,viele,5,x
-custos; custodis m,der Wächter,5,s
-bibere; bibo; bibi,trinken,5,v
-saepe,oft,5,x
-mirus; -a ; um,erstaunlich; sonderbar; wunderbar,5,x
-copia; -ae f,die Menge; der Vorrat; die Truppen,5,s
+custos; custodis m,der Wächter,6,s
+bibere; bibo; bibi,trinken,6,v
+saepe,oft,6,x
+mirus; -a ; um,erstaunlich; sonderbar; wunderbar,6,x
+copia; -ae f,die Menge; der Vorrat; die Truppen,6,s
 scelus; sceleris n,das Verbrechen; deer Frevel,5,s
-parare; paro,bereiten; vorbereiten; erwerben; (mit Infinitiv) vorhaben zu,5,v
-ita,so,5,x
-descendere; descendo; descendi; descensum,herabsteigen; hinabsteigen,5,v
-quaerere; quaero; quaesivi; quaesitum,suchen; (ex) jemanden fragen,5,v
-invenire; invenio; inveni; inventum,finden; auffinden; erfinden,5,v
-qui; quae; qod,der die das; welcher welche welches,5,x
+parare; paro,bereiten; vorbereiten; erwerben; (mit Infinitiv) vorhaben zu,6,v
+ita,so,6,x
+descendere; descendo; descendi; descensum,herabsteigen; hinabsteigen,6,v
+quaerere; quaero; quaesivi; quaesitum,suchen; (ex) jemanden fragen,6,v
+invenire; invenio; inveni; inventum,finden; auffinden; erfinden,6,v
+qui; quae; qod,der die das; welcher welche welches,6,x
 mulier; mulieris f,die Frau,5,s
 propinquus; a; um,nahe; benachbart; S der Verwandte,5,x
-nepos; nepotis,der Neffe; der Enkel; der Nachfahre,5,s
-maritus -i,der Ehemann,5,s
+nepos; nepotis,der Neffe; der Enkel; der Nachfahre,6,s
+maritus -i,der Ehemann,6,s
 pugnare; pugno,kämpfen,6,v
 scire; scio,wissen; kennen,6,v
 modus; -i,die Art; Weise; das Maß,6,s
-eiusmodi,derartig; solche,5,x
+eiusmodi,derartig; solche,6,x
 arcessere; arcesso; arcessivi; arcessitum,herbeirufen; holen (lassen),5,v
-vinculum,die Fessel,5,s
+vinculum,die Fessel,6,s
 via; -ae,der Weg; die Straße,5,s
 unus; -a; -um; gen:unius dat:uni,ein(er); ein einziger,6,x
 accedere; accedo; accessi; accessum,herbeikommen; herantreten; sich nähern,6,v
@@ -731,18 +731,18 @@ avaritia; -ae,die Habgier; der Geiz,5,s
 calamitas; calamitatis,das Unglück; das Unheil; der Schaden,5,s
 potens; Gen potentis,mächtig; stark,5,x
 proelium; -i,die Schlacht; das Gefecht,5,s
-dubitare; dubito,zweifeln; unschlüssig sein; mit infitiniv: zögern zu tun,5,v
-dubitare de fide,an der Treue zweifeln,5,x
+dubitare; dubito,zweifeln; unschlüssig sein; mit infitiniv: zögern zu tun,6,v
+dubitare de fide,an der Treue zweifeln,6,x
 impellere; impello; impuli; impulsum,in Bewegung setzen; antreiben; veranlassen,5,v
-vindicare; vindico,in Anspruch nehmen; befreien; retten; bestrafen,5,v
-testamentum; -i,das Testament,5,s
-confirmare; confirmo,(be)kräftigen; verstärken; ermutigen,5,v
+vindicare; vindico,in Anspruch nehmen; befreien; retten; bestrafen,6,v
+testamentum; -i,das Testament,6,s
+confirmare; confirmo,(be)kräftigen; verstärken; ermutigen,6,v
 nemo,niemand,6,x
 "patres, patrum m (PL)",die Senatoren (tipp väterlich),6,s
 quam, wie; als (Vergleich),6,x
-tam...quam,so...wie,5,x
-igitur,also,5,x
-expellere; expello; exppuli; expulsum,vertreiben; verjagen; verbannen,5,v
+tam...quam,so...wie,6,x
+igitur,also,6,x
+expellere; expello; exppuli; expulsum,vertreiben; verjagen; verbannen,6,v
 trahere; traho; traxi; tractum,ziehen; schleppen,6,v
 aurum; -i,das Gold,6,s
 argentium; -i,das Silber; das Geld,6,s
@@ -776,31 +776,31 @@ apud ...dies noctesque / ...sub monte,bei Tag und Nacht // am Fuß des Berges,6,
 corona; -ae f,der Kranz,6,s
 laurus; -i f !!,der Lorbeer(baum),6,s
 mundus; -i m,das Weltall; die Welt,6,s
-evenire; evenio; eveni; eventum,geschehen; sich ereignen,3,v
-evenit; evEnit,es geschieht; es ereignet sich,4,x
-unda; -ae f,die Welle; die Wogen,3,s
-primum,zuerst; erstmals; zum ersten Mal,4,x
-solere; soleo,gewohnt sein; pflegen zu tun,2,v
-cogitare; cogito,(nach) denken; beabsichtigen (zu tun),4,v
-puellam cogitare,an das Mädchen denken,4,x
-secum cogitare,bei sich denken; im Stillen denken,4,x
-respicere; respicio; respexi; respectum,zurückblicken auf; berücksichtigen,4,v
+evenire; evenio; eveni; eventum,geschehen; sich ereignen,4,v
+evenit; evEnit,es geschieht; es ereignet sich,5,x
+unda; -ae f,die Welle; die Wogen,4,s
+primum,zuerst; erstmals; zum ersten Mal,5,x
+solere; soleo,gewohnt sein; pflegen zu tun,3,v
+cogitare; cogito,(nach) denken; beabsichtigen (zu tun),5,v
+puellam cogitare,an das Mädchen denken,5,x
+secum cogitare,bei sich denken; im Stillen denken,5,x
+respicere; respicio; respexi; respectum,zurückblicken auf; berücksichtigen,5,v
 convertere; converto; converti; conversum,wenden; verwandeln; (ver)ändern,3,v
-cum (m. Ind.),(damals) als; (dann) wenn; (immer) wenn; als (plötzlich); sobald,4,x
-cum (primum); ubi (primum); ut (primum) (m Ind Perf),sobald,1,x
+cum (m. Ind.),(damals) als; (dann) wenn; (immer) wenn; als (plötzlich); sobald,5,x
+cum (primum); ubi (primum); ut (primum) (m Ind Perf),sobald,2,x
 quod,weil; dass,3,x
-quiescere; quiesco; quievi; -,ruhen; sich ausruhen,1,v
-bos; bovis,das Rind; der Ochse; die Kuh,1,s
-taurus,der Stier,2,s
-ludere; ludo; lusi; lusum,speilen,2,v
+quiescere; quiesco; quievi; -,ruhen; sich ausruhen,2,v
+bos; bovis,das Rind; der Ochse; die Kuh,2,s
+taurus,der Stier,3,s
+ludere; ludo; lusi; lusum,speilen,3,v
 quoniam,weil ja; da ja,2,x
 considere; sonsido; consedi; consessum,sich setzen; sich niederlassen,2,v
 tergum; i n,der Rücken,1,s
-surgere; surgo; surrexi; surrectum,aufstehen; siche erheben,1,v
-dext(e)r; dext(e)ra; dext(e)rum,rechts,1,x
-dext(e)ra; -ae f,die rechte Hand,1,s
+surgere; surgo; surrexi; surrectum,aufstehen; siche erheben,2,v
+dext(e)r; dext(e)ra; dext(e)rum,rechts,2,x
+dext(e)ra; -ae f,die rechte Hand,2,s
 cornu; cornUs n ,das Horn; der Heeresflügel,1,s
-sinister; sinistra; sinistrum,links,1,x
-ventus; -i m,der Wind,1,s
-dum haec geruntur,währendessen,1,x
-insula; -ae f,die Insel; des (mehrstöckige) Mietshaus,1,s
+sinister; sinistra; sinistrum,links,2,x
+ventus; -i m,der Wind,2,s
+dum haec geruntur,währendessen,2,x
+insula; -ae f,die Insel; des (mehrstöckige) Mietshaus,2,s
