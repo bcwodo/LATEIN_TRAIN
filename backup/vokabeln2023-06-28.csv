@@ -17,7 +17,7 @@ hic,hier,6,x
 properare,eilen; sich beeilen,6,v
 laborare,leiden; arbeiten,6,v
 clamare,(laut) rufen; schreien,6,v
-sedere; sedeo; sedi; sessum,sitzen; dasitzen,2,v
+sedere; sedeo; sedi; sessum,sitzen; dasitzen,3,v
 gaudere,sich freuen; froh sein,6,v
 sunt,sie sind; es gibt/findet statt,6,x
 nam,denn ; nämlich,6,x
@@ -109,7 +109,7 @@ si,wenn; falls,6,x
 theatrum,das Theater,6,s
 videre; video; vidi,sehen,6,v
 ludus,das Spiel; die Schule; die (zirkus)Spiele,6,s
-incipere; incipio; coepi; coeptum,anfangen; beginnen,2,v
+incipere; incipio; coepi; coeptum,anfangen; beginnen,3,v
 filius,der Sohn,6,s
 effugere; effugio; effugi,entkommen,6,v
 mercator,der Händler; Kaufmann,6,s
@@ -134,7 +134,7 @@ non iam,nicht mehr,6,x
 larva,das Gespenst,6,s
 persona,die Maske; die Rolle (im Schausoiel),6,s
 scaena,die Bühne,6,s
-occurrere; occuro; occurri; occursum,entgegenlaufen; -treten; begegnen,3,v
+occurrere; occuro; occurri; occursum,entgegenlaufen; -treten; begegnen,4,v
 curia,die Kurie; das Rathaus,6,s
 orator,der Redner,6,s
 flamma,die Flamme,6,s
@@ -144,7 +144,7 @@ locus,der Ort; der Platz; die Stelle,6,s
 dare; do; dedi; datum,geben,6,v
 appropinquare; appropinqo, sich nähern; näher kommen,6,v
 relinquere; relinquo; reliqui; relictum,verlassen; zurücklassen,6,v
-agere; ago; egi; actum,tun; handeln; verhandeln; treiben,2,v
+agere; ago; egi; actum,tun; handeln; verhandeln; treiben,3,v
 negotia agere,Geschäft betreiben,6,x
 bestiam agere,ein Tier jagen,6,x
 fabulam agere,ein Theaterstück aufführen,6,x
@@ -215,7 +215,7 @@ vestis; vestis f; vestium,das Kleid; die Kleidung,6,s
 tunica,die Tunika,6,s
 toga,die Toga,6,s
 consul; -is m,der Konsul,6,s
-currere; curro; cucurri; cursum,laufen; rennen,3,v
+currere; curro; cucurri; cursum,laufen; rennen,4,v
 habitare,wohnen; bewohnen,6,v
 stare; sto; steti,stehen; dastehen,6,v
 de,von...herab; von; über; um/wegen,6,x
@@ -239,7 +239,7 @@ plebs; plebis f,das (einfache) Volk,6,s
 pecunia; -ae,das Geld,6,s
 timor; timoris m,die Angst; die Furcht,6,s
 mutare; muto,ändern; verändern; verwandeln,6,v
-possidere; possideo; possedi; possessum,besitzen,3,v
+possidere; possideo; possedi; possessum,besitzen,4,v
 donum; -i,das Geschenk,6,s
 poena; -ae,die Strafe,6,s
 ponea/poenis afficere,bestrafen,6,x
@@ -362,7 +362,7 @@ caelum; -i,der Himmel,6,s
 terra; -ae,das Land; die Erde,6,s
 mons; montis m; GenPl montium,der Berg,6,s
 altus;-a;-um,hoch; tief,6,x
-tangere; tango; tetigi; tactum,berühren; erreichen,3,v
+tangere; tango; tetigi; tactum,berühren; erreichen,4,v
 invadere; invado; invasi,eindringen; angreifen,6,v
 potentia; -ae,die Macht,6,s
 superare; supero,überwinden; besiegen,6,v
@@ -405,7 +405,7 @@ iuvenis; iuvenis m,der junge Mann,6,s
 malum,der Apfel,6,s
 aureus; -; -um,golden; vergoldet,6,x
 pendere; pendeo; pependi,hängen,6,v
-suscipere; suscipio; suscepi; susceptum,aufnehmen; auf sich nehmen; unternehmen,2,v
+suscipere; suscipio; suscepi; susceptum,aufnehmen; auf sich nehmen; unternehmen,3,v
 necare; neco,töten,6,v
 umerus; -i,die schulter,6,s
 socius; -i,der Gefährte; der Kamerad; der Bundesgenosse,6,s
@@ -523,7 +523,7 @@ aciem institutere,eine Schlachtreihe aufstellen,6,x
 alius; alia; aliud; gen. alterius; dat. alii,ein anderer; eine andere; ein anderes... (adjektiv),6,x
 alii...alii,die einen... die anderen...,6,x
 alius aliud facit,jeder macht etwas anderes,6,x
-accurrere; accurro; accucurri; accursum ,hinzulaufen; herbeieilen,3,v
+accurrere; accurro; accucurri; accursum ,hinzulaufen; herbeieilen,4,v
 mortuus; -a; -um,tot (adjektiv),6,x
 facies; faciei f,das Gesicht; das Aussehen,6,s
 facie cognoscrere,am Gesicht erkennen,6,x
@@ -535,7 +535,7 @@ tempestas; tempestatis f,das Unwetter; das Gewitter,6,s
 imber; imbris; gen.pl. imbrium,der Regen; der Regenguss,6,s
 nubes; nubis; gen.pl. nubium,die Wolke,6,s
 exclamare; exclamo,ausrufen; aufschreien,6,v
-protegere; protego; protexi; protectum,bedecken; schützen,2,v
+protegere; protego; protexi; protectum,bedecken; schützen,3,v
 orationem habere,eine Rede halten,6,x
 pacem facere,Frieden schließen,6,x
 auctoritas; auctoritatis f,das Ansehen; der Einfluss,6,s
@@ -546,8 +546,8 @@ brevi (tempore),in Kürze; in kurzer Zeit,6,x
 hostis; hostis m/f,der/die Feind(in),6,s
 indicare; indico,anzeigen; melden; verraten,6,v
 exercitus; exercitUs m,das Heer,6,s
-manus; manUs f,die Hand; die Schar,6,s
-vultus; vultUs m,das Gesicht; die Miene; der Gesichtsausdruck,6,s
+manus; manUs f,die Hand; die Schar,7,s
+vultus; vultUs m,das Gesicht; die Miene; der Gesichtsausdruck,7,s
 cultus; cultUs m,die Pflege; die Verehrung,7,s
 domus; domUs f,das Haus,7,s
 domo,von zu Hause weg,7,x
@@ -808,46 +808,46 @@ spes; spei f,die Hoffnung; die Erwartung,6,s
 spem deponere,die Hoffnung aufgeben,6,x
 cavere; caveo; cavi; cautum,sich hüten (vor) sich in Acht nehmen (vor),6,v
 cave bestiam!,Hüte dich vor dem wilden Tier!,6,x
-crescere; cresco; crevi; -,wachsen; zunehmen,5,v
+crescere; cresco; crevi; -,wachsen; zunehmen,6,v
 adeo,so sehr,6,x
-impedire; impedio (a/ab),hindern; verhindern,5,v
-at,aber; jedoch,5,x
+impedire; impedio (a/ab),hindern; verhindern,6,v
+at,aber; jedoch,6,x
 aut,oder,6,x
 aut...aut,etweder---oder,6,x
 medius; -a; -um,der mittlere,6,x
 ut (m. Konj.),dass; sodass; damit,6,x
 ne (m. Konj.),dass nicht; damit nicht; um nicht--zu,6,x
-desiderare; desidero,sich sehnen nach; vermissen; (m.Inf.) ersehnen (zu tun),2,v
-decernere; decerno; decrevi; decretum,beschließen; entscheiden,3,v
-portus; portUs,der Hafen,3,s
-volare; volo,fliegen; eilen,3,v
-gravis; grave,schwer; gewichtig; ernst; bedeutend,3,x
-aura; -ae,der Lufthauch; die Luft,3,s
-primo,zuerst,3,x
-deserere; desero; deserui; desertum,verlassen; im Stich lassen,3,v
-paulatim,allmählich,3,x
-coniungere; coniungo; coniunxi; coniunctum,verbinden; vereinigen,3,v
-aestus; aestUs,die Hitze,3,
-solvere; solvo; solvi; solutum,lösen; auflösen,3,v
+desiderare; desidero,sich sehnen nach; vermissen; (m.Inf.) ersehnen (zu tun),3,v
+decernere; decerno; decrevi; decretum,beschließen; entscheiden,4,v
+portus; portUs,der Hafen,4,s
+volare; volo,fliegen; eilen,4,v
+gravis; grave,schwer; gewichtig; ernst; bedeutend,4,x
+aura; -ae,der Lufthauch; die Luft,4,s
+primo,zuerst,4,x
+deserere; desero; deserui; desertum,verlassen; im Stich lassen,4,v
+paulatim,allmählich,4,x
+coniungere; coniungo; coniunxi; coniunctum,verbinden; vereinigen,4,v
+aestus; aestUs,die Hitze,4,
+solvere; solvo; solvi; solutum,lösen; auflösen,4,v
 cadere; cado; cecidi; -,fallen,1,v
-cantare; canto,singen,2,v
-dulcis; dulce,süß; lieblich,2,x
-crudelis; crudele,grausam; hartherzig,1,x
+cantare; canto,singen,3,v
+dulcis; dulce,süß; lieblich,3,x
+crudelis; crudele,grausam; hartherzig,2,x
 rursus,wieder; zurück,2,x
-numen; numinis n,die Gottheit; der göttliche Wille; die göttlichwe Macht,1,s
-carus; -a; -um,lieb; teuer; wertvoll,2,x
-tendere; tendo; tetendi; tentum,spannen; (aus)strecken; richten; steben,2,v
-cogere; cogo; coegi; coactum,versammeln; zwingen,2,v
-repetere; repeto; repetivi; repetitum,zurückverlangen; wieder aufsuchern; wiedrholen,1,v
+numen; numinis n,die Gottheit; der göttliche Wille; die göttlichwe Macht,2,s
+carus; -a; -um,lieb; teuer; wertvoll,3,x
+tendere; tendo; tetendi; tentum,spannen; (aus)strecken; richten; steben,3,v
+cogere; cogo; coegi; coactum,versammeln; zwingen,3,v
+repetere; repeto; repetivi; repetitum,zurückverlangen; wieder aufsuchern; wiedrholen,2,v
 temptare; tempto,versuchen (zu tun - Infinitiv); angreifen; betasten (mit akk.),1,v
-superi; superorum,(die Götter der) Oberwelt,1,s
-notus; -a; -um,bekannt,1,x
+superi; superorum,(die Götter der) Oberwelt,2,s
+notus; -a; -um,bekannt,2,x
 noscere; nosco; novi; notum,kennenlernen; erkennen; Perf. kennen,1,v
 novisse,infinitiv von kennen ,1,x
-reddere; reddo; reddidi; redditum,zurückgeben,1,v
-condicio; condicionis,die Bedingung; die Lage,1,s
+reddere; reddo; reddidi; redditum,zurückgeben,2,v
+condicio; condicionis,die Bedingung; die Lage,2,s
 antecedere; anticedo; antecessi; antecessum,vorangehen; übertreffen,1,v
 remanere; remaneo; remansi; -,zrückbleiben,1,v
 supremus; -a; -um,der oberste; der letzte; der äußerste,1,x
-iterum atque iterum,immer wieder,1,x
-musica; -ae,die Musik,1,v
+iterum atque iterum,immer wieder,2,x
+musica; -ae,die Musik,2,v
