@@ -15,4 +15,14 @@ def train_verb(df = vdf):
         _ = input(f"Kennst Du die Form von '{verb}' ?")
         print(df.iloc[z,:4])
 
+def ende():
+    done = False
+    while not done:
+        wahl = input("Ende (e) oder nochmal (any key)? ")
+        if wahl == "e":
+            done = True
+        else:
+            train_verb()
+
 train_verb()
+ende()
