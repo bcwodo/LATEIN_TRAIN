@@ -188,29 +188,29 @@ sollicitare; sollicito,beunruhigen; eregen,6,v
 convincere; convinco; convici; convictum,überführen,6,v
 gaudium,die Freude,6,s
 gladius,das Schwert,6,s
-arma; orum n,die Waffe,7,s
-supplicium,die Strafe; die Todesstrafe; die Hinrichtung; das Gebet,7,s
-populus; -i,das Volk,7,s
-exercere; exerceo,üben; trainieren,7,v
-medicus; -i,der Arzt,7,s
-carere; careo,entbehren; nicht haben; frei sein von,7,v
-ferrum,Eisen,7,s
-se,sich,7,x
-afficere; afficio; affeci (mit Abl.) ,versehen (mit),7,v
-doloribus afficere,Schmerz zufügen,7,x
-gaudio afficere,erfereuen,7,x
-honor afficere,Ehre erweisen,7,x
-supplicio afficere,hinrichten,7,x
-licet,es ist jemanden möglich ; erlaubt,7,x
-solum,nur,7,x
-non solum sed etiam,nicht nur sondern auch,7,x
-recreare; recreo,erholen,7,v
-corpus; corporis,der Körper; der Leichnam,7,s
-raro,selten,7,x
-vulnus; vulneris,die Wunde,7,s
-labor; laboris,die Arbeit; die Mühe,7,s
-domum,heim;  nach Hause,7,x
-decedere; decedo; decessi; decessum,weggehen; sterben,7,v
+arma; orum n,die Waffe,6,s
+supplicium,die Strafe; die Todesstrafe; die Hinrichtung; das Gebet,6,s
+populus; -i,das Volk,6,s
+exercere; exerceo,üben; trainieren,6,v
+medicus; -i,der Arzt,6,s
+carere; careo,entbehren; nicht haben; frei sein von,6,v
+ferrum,Eisen,6,s
+se,sich,6,x
+afficere; afficio; affeci (mit Abl.) ,versehen (mit),6,v
+doloribus afficere,Schmerz zufügen,6,x
+gaudio afficere,erfereuen,6,x
+honor afficere,Ehre erweisen,6,x
+supplicio afficere,hinrichten,6,x
+licet,es ist jemanden möglich ; erlaubt,6,x
+solum,nur,6,x
+non solum sed etiam,nicht nur sondern auch,6,x
+recreare; recreo,erholen,6,v
+corpus; corporis,der Körper; der Leichnam,6,s
+raro,selten,6,x
+vulnus; vulneris,die Wunde,6,s
+labor; laboris,die Arbeit; die Mühe,6,s
+domum,heim;  nach Hause,6,x
+decedere; decedo; decessi; decessum,weggehen; sterben,6,v
 vestis; vestis f; vestium,das Kleid; die Kleidung,6,s
 tunica,die Tunika,6,s
 toga,die Toga,6,s
@@ -227,57 +227,57 @@ post (akk),nach; hinter,6,x
 e/ex (abl),aus; aus...heraus; von....her; seit,6,x
 super (akk),über,6,x
 cum (abl),mit,6,x
-sine,ohne,7,x
-in,(akk): in (...hinein); nach(...hin); gegen (wohin?) (abl): in an auf bei (wo),7,x
+sine,ohne,6,x
+in,(akk): in (...hinein); nach(...hin); gegen (wohin?) (abl): in an auf bei (wo),6,x
 sub,(akk) unter (wohin); (abl) unter (wo),7,x
 sermo; sermonis,das Gespräch; die Sprache,7,s
 abdere; abdo; abdidi; abditum,verstecken; verbergen,7,v
 oculus; -i,Auge,7,s
 amittere; amitto; amisi; amissum,verlieren,7,v
 vicus; -i,die Gasse; das Dorf,7,s
-plebs; plebis f,das (einfache) Volk,7,s
-pecunia; -ae,das Geld,7,s
-timor; timoris m,die Angst; die Furcht,7,s
-mutare; muto,ändern; verändern; verwandeln,7,v
-possidere; possideo; possedi; possessum,besitzen,7,v
+plebs; plebis f,das (einfache) Volk,6,s
+pecunia; -ae,das Geld,6,s
+timor; timoris m,die Angst; die Furcht,6,s
+mutare; muto,ändern; verändern; verwandeln,6,v
+possidere; possideo; possedi; possessum,besitzen,6,v
 donum; -i,das Geschenk,6,s
-poena; -ae,die Strafe,7,s
-ponea/poenis afficere,bestrafen,7,x
-studium; -i,Das Bemühen; das Streben; das wissenschaftlich Beschäftigen,7,s
+poena; -ae,die Strafe,6,s
+ponea/poenis afficere,bestrafen,6,x
+studium; -i,Das Bemühen; das Streben; das wissenschaftlich Beschäftigen,6,s
 nihil,nichts,6,x
-convenire; convenio; conveni; conventum,passen; zusammentreffen; treffen,7,v
-parentes; parent(i)um,die Eltern,7,s
-libertas; libertatis f,die Freiheit,7,s
-fortuna; -ae,Glück; das Schicksal,7,s
-nos,Nom. wir; Akk. uns,7,x
-vos,Nom. ihr; Akk. euch,7,x
-is; ea; id,dieser; der(jenige); er,7,x
-domi,daheim; zu Hause,7,x
-ut,wie,7,x
-a/ab (abl.),von; von...her; von...weg,7,x
-gratia; -ae,der Dank; die anmut,7,s
+convenire; convenio; conveni; conventum,passen; zusammentreffen; treffen,6,v
+parentes; parent(i)um,die Eltern,6,s
+libertas; libertatis f,die Freiheit,6,s
+fortuna; -ae,Glück; das Schicksal,6,s
+nos,Nom. wir; Akk. uns,6,x
+vos,Nom. ihr; Akk. euch,6,x
+is; ea; id,dieser; der(jenige); er,6,x
+domi,daheim; zu Hause,6,x
+ut,wie,6,x
+a/ab (abl.),von; von...her; von...weg,6,x
+gratia; -ae,der Dank; die anmut,6,s
 libenter,gern,7,x
 diligere; diligo; dilexi; dilectum,lieben; (sehr) schätzen,7,v
 itaque,daher; deshalb,7,x
 prodesse; prosum; profui,nützen,7,v
 tamen,dennoch; jedoch,7,x
-haud,nicht,7,x
+haud,nicht,6,x
 paene,beinahe; fast,7,x
 periculum; -i,die Gefahr,7,s
-desinere; desino; desii; desitum,ablassen; aufhören,7,v
-deponere; depono; deposui; depositum,ablegen; niederlegen,7,v
-magnus; -a; -um,groß; wichtig,7,x
-parvus; -a; um,klein; gerin,7,x
-bonus; -a; -um,gut,7,x
+desinere; desino; desii; desitum,ablassen; aufhören,6,v
+deponere; depono; deposui; depositum,ablegen; niederlegen,6,v
+magnus; -a; -um,groß; wichtig,6,x
+parvus; -a; um,klein; gerin,6,x
+bonus; -a; -um,gut,6,x
 bona; -orum n (pl),die Güter,7,s
-malus; -a; um,böse; schlecht; schlimm,7,x
+malus; -a; um,böse; schlecht; schlimm,6,x
 vir; viri,der Mann,7,s
 puer; pueri,der Junge,7,s
 magister; magisteri,der Lehrer,7,s
 pulcher; pulchera; pulcherum,schön,7,x
 miser; misera; miserum,arm; unglücklich; erbärmlich,7,x
 cognoscere; cognosco; cognovi; cognitum,kennenlernen; erkennen; erfahren,7,v
-memoria; -ae,die Erinnerung; das Gedächtnis,7,s
+memoria; -ae,die Erinnerung; das Gedächtnis,6,s
 memoria comprehendere,im Gedächtnis behalten,7,x
 sumere; sumo; sumpsi,nehmen,6,v
 iacere; iaceo,liegen,7,v
@@ -855,26 +855,26 @@ pellis; pellis f; GenPl pellium,das Fell; das Vlies,6,s
 barbarus; -a;-um,fremd; barbarisch; Subst. der Barbar,6,x
 occultus; -a;-um,verborgen; geheim; versteckt,6,x
 idoneus; -a;-um,geeignet,6,x
-turpis; turpe,hässlihc; schändlich,7,x
-cernere; cerno,"sehen, erkennne",7,v
-privare; privo (m.Abl),(einer Sache) berauben,7,v
-Jason regem pelle privat,Jason beraubt den König des Vlieses,7,x
-telum; -i n,das Geschoss; das Wurfgeschodd; der Pfeil,7,s
+turpis; turpe,hässlihc; schändlich,6,x
+cernere; cerno,"sehen, erkennne",6,v
+privare; privo (m.Abl),(einer Sache) berauben,6,v
+Jason regem pelle privat,Jason beraubt den König des Vlieses,6,x
+telum; -i n,das Geschoss; das Wurfgeschodd; der Pfeil,6,s
 opus est,(m Dat) es ist nötig; (m Abl) jemand braucht; benötigt,6,x
-uterque; utraque; utrumque; gen utriusque; dat. utrique,jeder von beiden; beide,7,x
-saxum; -i,der Fels(brocken); der Stein,7,s
-ipse; ipsa; ipsum,selbst; gerade; persönlich,7,x
-prodere; prodo; prodidi; proditum,verraten; preisgeben; überliefern,7,v
-lumen; luminis n,das Licht; das Augenlicht; das Auge,7,s
-os; oris,der Mund; das Gesicht,7,s
-proinde, deshalb,7,x
-conicere; conico; conieci; coniectum,werfen ; vermuten,7,v
-navigare; navigo,"(mit dem Sciff) fahren, segeln",7,v
-impetus; impetUs,der Schwung; der Angriff; der Ansturm,7,s
-concurrere; concurro; concurri; concursum,zusammenlaufen,7,v
+uterque; utraque; utrumque; gen utriusque; dat. utrique,jeder von beiden; beide,6,x
+saxum; -i,der Fels(brocken); der Stein,6,s
+ipse; ipsa; ipsum,selbst; gerade; persönlich,6,x
+prodere; prodo; prodidi; proditum,verraten; preisgeben; überliefern,6,v
+lumen; luminis n,das Licht; das Augenlicht; das Auge,6,s
+os; oris,der Mund; das Gesicht,6,s
+proinde, deshalb,6,x
+conicere; conico; conieci; coniectum,werfen ; vermuten,6,v
+navigare; navigo,"(mit dem Sciff) fahren, segeln",6,v
+impetus; impetUs,der Schwung; der Angriff; der Ansturm,6,s
+concurrere; concurro; concurri; concursum,zusammenlaufen,6,v
 interesse; intersum; interfui (m Dat.),dazwischen sein; teilnehmen,6,v
-interest (m. Gen.),es ist wichtig (für m.Gen); es besteht ein Unterschied,7,x
-regis interest, es ist wichtig für den König,7,x
-inter odium et gaudium interest, zwischen Muße und Freude besteht ein unterschied,7,x
+interest (m. Gen.),es ist wichtig (für m.Gen); es besteht ein Unterschied,6,x
+regis interest, es ist wichtig für den König,6,x
+inter odium et gaudium interest, zwischen Muße und Freude besteht ein unterschied,6,x
 praemittere; praemitto; praemisi; praemissum,vorrausschicken,7,v
-discendere; discendo; discessi; discessum,auseiandergehen; weggehen,7,v
+discendere; discendo; discessi; discessum,auseiandergehen; weggehen,6,v
