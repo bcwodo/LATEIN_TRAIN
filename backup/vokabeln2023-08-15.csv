@@ -39,9 +39,9 @@ aqua,das Wasser,7,s
 vocare,rufen,7,v
 quid?,was?,7,x
 ridere; rideo; risi,lachen; auslachen,7,v
-venire; venio; veni; ventum,kommen,7,v
+venire; venio; veni; ventum,kommen,6,v
 audire,hören; anhören,7,v
-dormire,schlafen,7,v
+dormire,schlafen,6,v
 desperare,verzweifeln; die Hoffnung aufgeben,7,v
 tum,dann; darauf; da; damals,7,x
 iam,schon; bereits,7,x
@@ -438,7 +438,7 @@ quidem,zwar; freilich,7,x
 nullus; - a; -um; Gen. nullius; Dat. nulli,kein,7,x
 immo,im Gegenteil; ja sogar,7,x
 ne...quidem,nicht einmal,7,x
-tollere; tollo; sustuli; sublatum,hochheben; aufheben; erheben; beseitigen; wegnehmen; vernichten,8,v
+tollere; tollo; sustuli; sublatum,hochheben; aufheben; erheben; beseitigen; wegnehmen; vernichten,7,v
 demittere; demitto; demisi; dimissum,hinabschicken; sinken lassen,7,v
 lux; lucis,das Licht; das Tageslicht,7,s
 caput; capitis,das Haupt; der Kopf,7,s
@@ -534,62 +534,62 @@ res militaris,das Kriegswesen; die Kriegskunst,7,x
 tempestas; tempestatis f,das Unwetter; das Gewitter,7,s
 imber; imbris; gen.pl. imbrium,der Regen; der Regenguss,7,s
 nubes; nubis; gen.pl. nubium,die Wolke,7,s
-exclamare; exclamo,ausrufen; aufschreien,8,v
-protegere; protego; protexi; protectum,bedecken; schützen,8,v
-orationem habere,eine Rede halten,8,x
-pacem facere,Frieden schließen,8,x
-auctoritas; auctoritatis f,das Ansehen; der Einfluss,8,s
-sperare; spero,hoffen; erhoffen,8,v
-lex; legis f,das Gesetz,8,s
-brevis; breve,kurz,8,x
-brevi (tempore),in Kürze; in kurzer Zeit,8,x
-hostis; hostis m/f,der/die Feind(in),8,s
-indicare; indico,anzeigen; melden; verraten,8,v
-exercitus; exercitUs m,das Heer,8,s
-manus; manUs f,die Hand; die Schar,8,s
-vultus; vultUs m,das Gesicht; die Miene; der Gesichtsausdruck,8,s
+exclamare; exclamo,ausrufen; aufschreien,7,v
+protegere; protego; protexi; protectum,bedecken; schützen,7,v
+orationem habere,eine Rede halten,7,x
+pacem facere,Frieden schließen,7,x
+auctoritas; auctoritatis f,das Ansehen; der Einfluss,7,s
+sperare; spero,hoffen; erhoffen,7,v
+lex; legis f,das Gesetz,7,s
+brevis; breve,kurz,7,x
+brevi (tempore),in Kürze; in kurzer Zeit,7,x
+hostis; hostis m/f,der/die Feind(in),7,s
+indicare; indico,anzeigen; melden; verraten,7,v
+exercitus; exercitUs m,das Heer,7,s
+manus; manUs f,die Hand; die Schar,7,s
+vultus; vultUs m,das Gesicht; die Miene; der Gesichtsausdruck,7,s
 cultus; cultUs m,die Pflege; die Verehrung,7,s
-domus; domUs f,das Haus,8,s
-domo,von zu Hause weg,8,x
-severus; -a; -um,ernst; streng,8,x
-apertus; -a; -um,offen; offenkundig,8,x
+domus; domUs f,das Haus,7,s
+domo,von zu Hause weg,7,x
+severus; -a; -um,ernst; streng,7,x
+apertus; -a; -um,offen; offenkundig,7,x
 finitimus; -a; -um,benachbart; Subst. der Nachbar,7,x
-pietas; pietatis,die Frömmigkeit; das Pflichtgefühl; das Verantwortungsbewusstsein,8,s
-humanitats; humanitatis,die Menschlichkeit; die Bildung,8,s
-lacus; lacUs m,der See,8,s
-situs; -a; -um,gelegen,8,x
-minister; ministri m,der Diener,8,s
-nympha; -ae,die Nymphe,8,s
-divus; -a; -um,göttlich,8,x
+pietas; pietatis,die Frömmigkeit; das Pflichtgefühl; das Verantwortungsbewusstsein,7,s
+humanitats; humanitatis,die Menschlichkeit; die Bildung,7,s
+lacus; lacUs m,der See,7,s
+situs; -a; -um,gelegen,7,x
+minister; ministri m,der Diener,7,s
+nympha; -ae,die Nymphe,7,s
+divus; -a; -um,göttlich,7,x
 cinis; cineris m,die Asche,8,s
 villa; -ae f,die Villa; das Landhaus,8,s
 avunculus; -i m,der Onkel,8,s
 liber; libri,das Buch,8,s
 publicus; -a; -um,öffentlich; staatlich,8,x
-postea,nachher; später,8,x
-regere; rego; rexi; rectum,lenken; leiten; beherrschen,8,v
-civis; civis; m/f; genPl civium,der Bürger; die Bürgerin,8,s
+postea,nachher; später,7,x
+regere; rego; rexi; rectum,lenken; leiten; beherrschen,7,v
+civis; civis; m/f; genPl civium,der Bürger; die Bürgerin,7,s
 opprimere; opprimo; oppressi; oppressum,überfallen; überwältigen; unterdrücken,8,v
-servitus; servitutis f,die Sklaverei,8,s
-pellere; pello; pepuli; pulsum,schlagen; stoßen; treiben; vertreiben,8,v
+servitus; servitutis f,die Sklaverei,7,s
+pellere; pello; pepuli; pulsum,schlagen; stoßen; treiben; vertreiben,7,v
 numquam,niemals,7,x
 adiuvare; adiuvo; adiuvi; adiutum,helfen; unterstützen,7,v
-fallere; fallo; fefelli,täuschen; unbemerkt bleiben,8,v
+fallere; fallo; fefelli,täuschen; unbemerkt bleiben,7,v
 priusquam,ehe; bevor,7,x
-vel,oder,8,x
-vel... vel,entweder ... oder,8,x
-stultus; -a; -um,dumm,8,x
-insidae; -arum Pl.,der Hinterhalt; die Falle,8,s
-promittere; promitto; promisi,versprechen,8,v
-fere,fast; ungefähr,8,x
-orbis; orbis; GenPl orbium,der Kreis; die Scheibe,8,s
+vel,oder,7,x
+vel... vel,entweder ... oder,7,x
+stultus; -a; -um,dumm,7,x
+insidae; -arum Pl.,der Hinterhalt; die Falle,7,s
+promittere; promitto; promisi,versprechen,7,v
+fere,fast; ungefähr,7,x
+orbis; orbis; GenPl orbium,der Kreis; die Scheibe,7,s
 velut,wie; wie zum Beispiel,8,x
 ignoscere; ignosco; ignovi,verzeihen,7,v
 modo,nur; eben noch; gerade,8,x
 exilium; -i,die Verbannung; das Exil,8,s
 restitutere; restituo; restitui; restitutum,wiederharstellen,8,v
 magistratus; magistratUs m,der Beamte; das Amt,8,s
-moenia; moenium n Pl,die Mauer(n); die Stadtmauer(n),8,s
+moenia; moenium n Pl,die Mauer(n); die Stadtmauer(n),7,s
 fortis; forte,tapfer; stark; tatkräftig,8,x
 honestus; -a; -um,ehrenhaft; tapfer,8,x
 neque/nec,und nicht; auch nicht,8,x
@@ -602,14 +602,14 @@ hic; haec; hoc,dieser (hier); diese (hier); dieses (hier),8,x
 ille; illa; illud,jener; jene; jenes,8,x
 mandare; mando,übergeben; anvertrauen; auftragen,8,v
 dux; ducis m/f,der Anführer / die Anführerin,8,s
-caedere; ceado; cecidi,fällen; niederschlagen; töten,8,v
+caedere; ceado; cecidi,fällen; niederschlagen; töten,7,v
 alter; altera; alterum; gen alterius dat alteri,der eine (von beiden) ; der andere,8,x
 alter...alter,der eine...der andere...,8,x
 nuntiare; nuntio,melden; mitteilen,8,v
-femina; feminae,die Frau,8,s
-castra; -orum n Pl,das Lager; das Kriegslager,8,s
-comes; comitis,der/die Gefährte*in; der/die Begleiter*in,8,s
-nisi,wenn nicht; außer,8,x
+femina; feminae,die Frau,7,s
+castra; -orum n Pl,das Lager; das Kriegslager,7,s
+comes; comitis,der/die Gefährte*in; der/die Begleiter*in,7,s
+nisi,wenn nicht; außer,7,x
 non...nisi,nur ...wenn,7,x
 an (im Fragesatz),oder (im Fragesatz),7,x
 aspicere; aspicio; aspexi; aspectum,ansehen; erblicken,7,v
@@ -639,20 +639,20 @@ onus; oneris n,die Last,7,s
 portare; porto,"tragen, bringen",7,v
 ubi (sugj),sobald,7,x
 auxilium negare,die Hilfe verweigern,7,x
-übertreffen,superare (mit Abl.),8,v
-imperator; imperatoris,der Feldherr; der Kaiser,8,s
-excitare; excito,auntreiben; erregen; ermuntern; aufwecken,8,v
+übertreffen,superare (mit Abl.),7,v
+imperator; imperatoris,der Feldherr; der Kaiser,7,s
+excitare; excito,auntreiben; erregen; ermuntern; aufwecken,7,v
 imperium; -i,der Befehl; die Herrschaft; das Reich,7,s
-finis; finis; gen.pl. finium,das Ende; die Grenze; das Zeil; Pl. das Gebiet,8,s
+finis; finis; gen.pl. finium,das Ende; die Grenze; das Zeil; Pl. das Gebiet,7,s
 perterrere; perterreo,(jemanden) heftig erschrecken; einschüchtern,7,v
 occidere (langes i); occido; occidi; occisum,niederschlagen; töten,7,v
 praeesse; praesum; praefui (mit Dativ); [exercitui praeest],an der Spitze stehen; leiten; [das Herr leiten],7,v
-animadvertere; animadverto; animadverti; animadversum,wahrnehmen; bemerken (in m. Akk); vorgehen gegen; einschreiten,8,v
-inquam; inquis; inquit; inquiunt,sagte ich; du; er; sie; es; sagten sie,8,x
+animadvertere; animadverto; animadverti; animadversum,wahrnehmen; bemerken (in m. Akk); vorgehen gegen; einschreiten,7,v
+inquam; inquis; inquit; inquiunt,sagte ich; du; er; sie; es; sagten sie,7,x
 agmen; agminis n,der Heereszug; die Schar,7,s
-prehendere; prehendo; prehendi; prehensum,ergreifen,8,v
-plerique; pleraeque; pleraque,die meisten; sehr viele,8,x
-accusare; accuso,anklagen; beschuldigen,8,v
+prehendere; prehendo; prehendi; prehensum,ergreifen,7,v
+plerique; pleraeque; pleraque,die meisten; sehr viele,7,x
+accusare; accuso,anklagen; beschuldigen,7,v
 exemplum; -i,das Beispiel; das Vorbild,7,s
 culpa; -ae f,die Schuld,7,s
 maiores; maiorum Pl,die vorfahren,7,s
@@ -787,7 +787,7 @@ secum cogitare,bei sich denken; im Stillen denken,7,x
 respicere; respicio; respexi; respectum,zurückblicken auf; berücksichtigen,7,v
 convertere; converto; converti; conversum,wenden; verwandeln; (ver)ändern,7,v
 cum (m. Ind.),(damals) als; (dann) wenn; (immer) wenn; als (plötzlich); sobald,7,x
-cum (primum); ubi (primum); ut (primum) (m Ind Perf),sobald,7,x
+cum (primum); ubi (primum); ut (primum) (m Ind Perf),sobald,6,x
 quod,weil; dass,7,x
 quiescere; quiesco; quievi; -,ruhen; sich ausruhen,7,v
 bos; bovis,das Rind; der Ochse; die Kuh,7,s

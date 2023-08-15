@@ -28,7 +28,8 @@ def train_substantiv(df = sdf):
         kasus = df.iloc[z,0]
         numerus = df.iloc[z,1]
         deklination = df.columns[c]
-        _ = input(f"Kennst Du die Form der '{deklination}' im {kasus}, {numerus}' ?")
+        wort = df.iloc[0,c]
+        _ = input(f"Kennst Du die Form der '{deklination}' [{wort}] im {kasus}, {numerus}' ?")
         print(df.iloc[z,c])
 
 def ende():
