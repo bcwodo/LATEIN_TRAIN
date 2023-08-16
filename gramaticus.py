@@ -13,7 +13,7 @@ def train_verb(df = vdf):
         c = random.randint(4,maxspalten)
         z = random.randint(0,maxzeilen)
         verb = df.iloc[z,c]
-        _ = input(f"Kennst Du die Form von '{verb}' ?")
+        _ = input(f"{a+1}) Kennst Du die Form von '{verb}' ?")
         print(df.iloc[z,:4])
 
 
@@ -24,12 +24,12 @@ def train_substantiv(df = sdf):
     anzahl = int(anzahl)
     for a in range(anzahl):
         c = random.randint(2,maxspalten)
-        z = random.randint(0,maxzeilen)
+        z = random.randint(1,maxzeilen)
         kasus = df.iloc[z,0]
         numerus = df.iloc[z,1]
         deklination = df.columns[c]
         wort = df.iloc[0,c]
-        _ = input(f"Kennst Du die Form der '{deklination}' [{wort}] im {kasus}, {numerus}' ?")
+        _ = input(f"{a+1}) Kennst Du die Form der '{deklination}' [{wort}] im {kasus}, {numerus}' ?")
         print(df.iloc[z,c])
 
 def ende():

@@ -500,40 +500,40 @@ oculos vertere,seinen Blick richten auf,7,x
 regnum; -i,die Herrschaft; die Königsherrschaft; das Reich,7,s
 dum,(solange) bis; solange; (m. Ind. Präs) während,7,x
 postquam,nachdem,7,x
-quamquam,obwohl,8,x
-murus,die Mauer,8,s
-lupa; -ae,die Wölfin,8,s
+quamquam,obwohl,7,x
+murus,die Mauer,7,s
+lupa; -ae,die Wölfin,7,s
 fama; -ae f,das Gerücht; der (gute oder schlechte) Ruf,7,s
-orare; oro,beten (zu); bitten,8,v
-miles; militis,der Soldat,8,s
-filia; -ae f,die Tochter,8,s
-gerere; gero; gessi; gestum,tragen; führen; ausführen,8,v
-negotia gerere,seinen Geschäften nachgehen,8,x
-bellum gerere (cum),Krieg führen (mit),8,x
-vestem gerere,ein Kleidungsstück tragen,8,x
-se gerere,sich benehmen,8,x
-res; rei f,die Sache; das Ding; die Angelegenheit,8,s
-dies; diei m,der Tag,8,s
-fides; fidei f,das Vertrauen; die Treue; die Zuverlässigkeit,8,s
-fidem dare,sein Wort geben,8,x
-fidem habere,Vertrauen schenken,8,x
-acies; aciei f,die Schärfe; der Scharfsinn; die Schlachtreihe,8,s
-acies mentis,der Scharfsinn; die Aufmerksamkeit (bc: die Schärfe des Gesites),8,x
-aciem institutere,eine Schlachtreihe aufstellen,8,x
+orare; oro,beten (zu); bitten,7,v
+miles; militis,der Soldat,7,s
+filia; -ae f,die Tochter,7,s
+gerere; gero; gessi; gestum,tragen; führen; ausführen,7,v
+negotia gerere,seinen Geschäften nachgehen,7,x
+bellum gerere (cum),Krieg führen (mit),7,x
+vestem gerere,ein Kleidungsstück tragen,7,x
+se gerere,sich benehmen,7,x
+res; rei f,die Sache; das Ding; die Angelegenheit,7,s
+dies; diei m,der Tag,7,s
+fides; fidei f,das Vertrauen; die Treue; die Zuverlässigkeit,7,s
+fidem dare,sein Wort geben,7,x
+fidem habere,Vertrauen schenken,7,x
+acies; aciei f,die Schärfe; der Scharfsinn; die Schlachtreihe,7,s
+acies mentis,der Scharfsinn; die Aufmerksamkeit (bc: die Schärfe des Gesites),7,x
+aciem institutere,eine Schlachtreihe aufstellen,7,x
 alius; alia; aliud; gen. alterius; dat. alii,ein anderer; eine andere; ein anderes... (adjektiv),7,x
-alii...alii,die einen... die anderen...,8,x
-alius aliud facit,jeder macht etwas anderes,8,x
+alii...alii,die einen... die anderen...,7,x
+alius aliud facit,jeder macht etwas anderes,7,x
 accurrere; accurro; accucurri; accursum ,hinzulaufen; herbeieilen,7,v
-mortuus; -a; -um,tot (adjektiv),8,x
-facies; faciei f,das Gesicht; das Aussehen,8,s
-facie cognoscrere,am Gesicht erkennen,8,x
-regnare; regno,König sein; herrschen; regieren,8,v
-aliquando,einst; (irgendwann) einmal,8,x
-militaris; militare,militärisch; soldatisch,8,x
-res militaris,das Kriegswesen; die Kriegskunst,8,x
-tempestas; tempestatis f,das Unwetter; das Gewitter,8,s
-imber; imbris; gen.pl. imbrium,der Regen; der Regenguss,8,s
-nubes; nubis; gen.pl. nubium,die Wolke,8,s
+mortuus; -a; -um,tot (adjektiv),7,x
+facies; faciei f,das Gesicht; das Aussehen,7,s
+facie cognoscrere,am Gesicht erkennen,7,x
+regnare; regno,König sein; herrschen; regieren,7,v
+aliquando,einst; (irgendwann) einmal,7,x
+militaris; militare,militärisch; soldatisch,7,x
+res militaris,das Kriegswesen; die Kriegskunst,7,x
+tempestas; tempestatis f,das Unwetter; das Gewitter,7,s
+imber; imbris; gen.pl. imbrium,der Regen; der Regenguss,7,s
+nubes; nubis; gen.pl. nubium,die Wolke,7,s
 exclamare; exclamo,ausrufen; aufschreien,8,v
 protegere; protego; protexi; protectum,bedecken; schützen,8,v
 orationem habere,eine Rede halten,8,x
@@ -548,7 +548,7 @@ indicare; indico,anzeigen; melden; verraten,8,v
 exercitus; exercitUs m,das Heer,8,s
 manus; manUs f,die Hand; die Schar,8,s
 vultus; vultUs m,das Gesicht; die Miene; der Gesichtsausdruck,8,s
-cultus; cultUs m,die Pflege; die Verehrung,8,s
+cultus; cultUs m,die Pflege; die Verehrung,7,s
 domus; domUs f,das Haus,8,s
 domo,von zu Hause weg,8,x
 severus; -a; -um,ernst; streng,8,x
@@ -575,7 +575,7 @@ pellere; pello; pepuli; pulsum,schlagen; stoßen; treiben; vertreiben,8,v
 numquam,niemals,7,x
 adiuvare; adiuvo; adiuvi; adiutum,helfen; unterstützen,7,v
 fallere; fallo; fefelli,täuschen; unbemerkt bleiben,8,v
-priusquam,ehe; bevor,8,x
+priusquam,ehe; bevor,7,x
 vel,oder,8,x
 vel... vel,entweder ... oder,8,x
 stultus; -a; -um,dumm,8,x
@@ -822,24 +822,24 @@ decernere; decerno; decrevi; decretum,beschließen; entscheiden,7,v
 portus; portUs,der Hafen,7,s
 volare; volo,fliegen; eilen,7,v
 gravis; grave,schwer; gewichtig; ernst; bedeutend,7,x
-aura; -ae,der Lufthauch; die Luft,8,s
-primo,zuerst,8,x
+aura; -ae,der Lufthauch; die Luft,7,s
+primo,zuerst,7,x
 deserere; desero; deserui; desertum,verlassen; im Stich lassen,7,v
-paulatim,allmählich,8,x
-coniungere; coniungo; coniunxi; coniunctum,verbinden; vereinigen,8,v
-aestus; aestUs,die Hitze,8,
-solvere; solvo; solvi; solutum,lösen; auflösen,8,v
-cadere; cado; cecidi; -,fallen,8,v
-cantare; canto,singen,8,v
-dulcis; dulce,süß; lieblich,8,x
-crudelis; crudele,grausam; hartherzig,8,x
-rursus,wieder; zurück,8,x
-numen; numinis n,die Gottheit; der göttliche Wille; die göttlichwe Macht,8,s
-carus; -a; -um,lieb; teuer; wertvoll,8,x
+paulatim,allmählich,7,x
+coniungere; coniungo; coniunxi; coniunctum,verbinden; vereinigen,7,v
+aestus; aestUs,die Hitze,7,
+solvere; solvo; solvi; solutum,lösen; auflösen,7,v
+cadere; cado; cecidi; -,fallen,7,v
+cantare; canto,singen,7,v
+dulcis; dulce,süß; lieblich,7,x
+crudelis; crudele,grausam; hartherzig,7,x
+rursus,wieder; zurück,7,x
+numen; numinis n,die Gottheit; der göttliche Wille; die göttlichwe Macht,7,s
+carus; -a; -um,lieb; teuer; wertvoll,7,x
 tendere; tendo; tetendi; tentum,spannen; (aus)strecken; richten; steben,7,v
-cogere; cogo; coegi; coactum,versammeln; zwingen,8,v
-repetere; repeto; repetivi; repetitum,zurückverlangen; wieder aufsuchern; wiedrholen,8,v
-temptare; tempto,versuchen (zu tun - Infinitiv); angreifen; betasten (mit akk.),8,v
+cogere; cogo; coegi; coactum,versammeln; zwingen,7,v
+repetere; repeto; repetivi; repetitum,zurückverlangen; wieder aufsuchern; wiedrholen,7,v
+temptare; tempto,versuchen (zu tun - Infinitiv); angreifen; betasten (mit akk.),7,v
 superi; superorum,(die Götter der) Oberwelt,7,s
 notus; -a; -um,bekannt,7,x
 noscere; nosco; novi; notum,kennenlernen; erkennen; Perf. kennen,7,v
@@ -862,19 +862,19 @@ Jason regem pelle privat,Jason beraubt den König des Vlieses,7,x
 telum; -i n,das Geschoss; das Wurfgeschodd; der Pfeil,7,s
 opus est,(m Dat) es ist nötig; (m Abl) jemand braucht; benötigt,7,x
 uterque; utraque; utrumque; gen utriusque; dat. utrique,jeder von beiden; beide,7,x
-saxum; -i,der Fels(brocken); der Stein,8,s
+saxum; -i,der Fels(brocken); der Stein,7,s
 ipse; ipsa; ipsum,selbst; gerade; persönlich,7,x
 prodere; prodo; prodidi; proditum,verraten; preisgeben; überliefern,7,v
 lumen; luminis n,das Licht; das Augenlicht; das Auge,7,s
-os; oris,der Mund; das Gesicht,8,s
+os; oris,der Mund; das Gesicht,7,s
 proinde, deshalb,7,x
-conicere; conico; conieci; coniectum,werfen ; vermuten,8,v
-navigare; navigo,"(mit dem Sciff) fahren, segeln",8,v
-impetus; impetUs,der Schwung; der Angriff; der Ansturm,8,s
-concurrere; concurro; concurri; concursum,zusammenlaufen,8,v
-interesse; intersum; interfui (m Dat.),dazwischen sein; teilnehmen,8,v
-interest (m. Gen.),es ist wichtig (für m.Gen); es besteht ein Unterschied,8,x
-regis interest, es ist wichtig für den König,8,x
-inter odium et gaudium interest, zwischen Muße und Freude besteht ein unterschied,8,x
+conicere; conico; conieci; coniectum,werfen ; vermuten,7,v
+navigare; navigo,"(mit dem Sciff) fahren, segeln",7,v
+impetus; impetUs,der Schwung; der Angriff; der Ansturm,7,s
+concurrere; concurro; concurri; concursum,zusammenlaufen,7,v
+interesse; intersum; interfui (m Dat.),dazwischen sein; teilnehmen,7,v
+interest (m. Gen.),es ist wichtig (für m.Gen); es besteht ein Unterschied,7,x
+regis interest, es ist wichtig für den König,7,x
+inter odium et gaudium interest, zwischen Muße und Freude besteht ein unterschied,7,x
 praemittere; praemitto; praemisi; praemissum,vorrausschicken,7,v
-discendere; discendo; discessi; discessum,auseiandergehen; weggehen,8,v
+discendere; discendo; discessi; discessum,auseiandergehen; weggehen,7,v
