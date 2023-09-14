@@ -412,39 +412,39 @@ socius; -i,der Gefährte; der Kamerad; der Bundesgenosse,7,s
 contra,gegen,7,x
 nonnulli; -ae; -a,einige; manche,7,x
 constat; constitit,es steht fest; es ist bekannt,7,x
-poeta; -ae -m,der Dichter,8,s
-imponere; impono; imposui; impositum,hineinstellen; auferlegen; auf die Schulter legen - aufbürden,8,v
-ponere; pono; posui; positum,setzen; legen (auf); stellen,8,v
-pauci; -ae; -a,wenige,8,x
-hora; -ae f,die Stunde,8,s
-saeculum; -i n,das Jahrhundert; das Zeitalter,8,s
-procul,in der Ferne; aus der Ferne; fern,8,x
-custodire; custodio,bewachen; beschützen,8,v
-interea,inzwischen,8,x
-profecto,in der Tat; tatsächlich,8,x
-augere; augeo; auxi; auctum,vermehren; vergrößern,8,v
-leo; leonis,der Löwe,8,s
-annus,das Jahr,8,s
+poeta; -ae -m,der Dichter,7,s
+imponere; impono; imposui; impositum,hineinstellen; auferlegen; auf die Schulter legen - aufbürden,7,v
+ponere; pono; posui; positum,setzen; legen (auf); stellen,7,v
+pauci; -ae; -a,wenige,7,x
+hora; -ae f,die Stunde,7,s
+saeculum; -i n,das Jahrhundert; das Zeitalter,7,s
+procul,in der Ferne; aus der Ferne; fern,7,x
+custodire; custodio,bewachen; beschützen,7,v
+interea,inzwischen,7,x
+profecto,in der Tat; tatsächlich,7,x
+augere; augeo; auxi; auctum,vermehren; vergrößern,7,v
+leo; leonis,der Löwe,7,s
+annus,das Jahr,7,s
 gloria; -ae,der Ruhm; die Ehre,7,s
-ingens; ingentis,riesig; gewaltig,8,x
+ingens; ingentis,riesig; gewaltig,7,x
 celer; celeris; celere,schnell,7,x
-mortalis; mortale,sterblich; der Stebliche; der Mensch,8,x
+mortalis; mortale,sterblich; der Stebliche; der Mensch,7,x
 acer; acris; acre,scharf; heftig; wild,7,x
 omnis; omne,jeder; all; ganz,7,x
-incredibilis; incredibile,unglaublich,8,x
-mens; mentis,der Gesits; der Verstand,8,s
--que,und (nachgestellt),8,x
-quidem,zwar; freilich,8,x
-nullus; - a; -um; Gen. nullius; Dat. nulli,kein,8,x
+incredibilis; incredibile,unglaublich,7,x
+mens; mentis,der Gesits; der Verstand,7,s
+-que,und (nachgestellt),7,x
+quidem,zwar; freilich,7,x
+nullus; - a; -um; Gen. nullius; Dat. nulli,kein,7,x
 immo,im Gegenteil; ja sogar,8,x
-ne...quidem,nicht einmal,8,x
+ne...quidem,nicht einmal,7,x
 tollere; tollo; sustuli; sublatum,hochheben; aufheben; erheben; beseitigen; wegnehmen; vernichten,8,v
 demittere; demitto; demisi; dimissum,hinabschicken; sinken lassen,8,v
 lux; lucis,das Licht; das Tageslicht,8,s
 caput; capitis,das Haupt; der Kopf,7,s
 immortalis; immortale,unsterblich; der Unsterbliche; der Gott,8,s
 fatum; -i n ,das Schicksal; der Schicksalsspruch; der Götterspruch; das Verhängnis,8,s
-auxilium; -i,die hilfe,8,s
+auxilium; -i,die hilfe,7,s
 ruere; ruo; rui,(sich) stürzen; eilen; rennen,8,v
 cedere; cedo; cessi; cessum,(weg-) gehen; weichen; nachgeben,8,v
 valere; valeo,gesund sein; vermögen; Einfluss haben,8,v
@@ -465,7 +465,7 @@ necesse est,es ist nötig,8,x
 novus; -a; -um,neu; neuartig,8,x
 condere; condo; condidi,gründen; bestatten,8,v
 torquere; torqueo; torsi,foltern; quälen; drehen,8,v
-quoque,auch,8,x
+quoque,auch,7,x
 nox; noctis f; Gen Pl noctium,die Nacht,8,s
 multa nocte,tief in der Nacht,8,x
 prima nocte,zu begin der Nacht,8,x
@@ -843,29 +843,29 @@ temptare; tempto,versuchen (zu tun - Infinitiv); angreifen; betasten (mit akk.),
 superi; superorum,(die Götter der) Oberwelt,7,s
 notus; -a; -um,bekannt,7,x
 noscere; nosco; novi; notum,kennenlernen; erkennen; Perf. kennen,7,v
-novisse,infinitiv von kennen ,8,x
-reddere; reddo; reddidi; redditum,zurückgeben,8,v
-condicio; condicionis,die Bedingung; die Lage,8,s
+novisse,infinitiv von kennen ,7,x
+reddere; reddo; reddidi; redditum,zurückgeben,7,v
+condicio; condicionis,die Bedingung; die Lage,7,s
 antecedere; anticedo; antecessi; antecessum,vorangehen; übertreffen,7,v
 remanere; remaneo; remansi; -,zrückbleiben,7,v
-supremus; -a; -um,der oberste; der letzte; der äußerste,8,x
-iterum atque iterum,immer wieder,8,x
-musica; -ae,die Musik,8,v
-pellis; pellis f; GenPl pellium,das Fell; das Vlies,8,s
-barbarus; -a;-um,fremd; barbarisch; Subst. der Barbar,8,x
-occultus; -a;-um,verborgen; geheim; versteckt,8,x
+supremus; -a; -um,der oberste; der letzte; der äußerste,7,x
+iterum atque iterum,immer wieder,7,x
+musica; -ae,die Musik,7,v
+pellis; pellis f; GenPl pellium,das Fell; das Vlies,7,s
+barbarus; -a;-um,fremd; barbarisch; Subst. der Barbar,7,x
+occultus; -a;-um,verborgen; geheim; versteckt,7,x
 idoneus; -a;-um,geeignet,7,x
-turpis; turpe,hässlihc; schändlich,8,x
+turpis; turpe,hässlihc; schändlich,7,x
 cernere; cerno,"sehen, erkennne",7,v
-privare; privo (m.Abl),(einer Sache) berauben,8,v
-Jason regem pelle privat,Jason beraubt den König des Vlieses,8,x
-telum; -i n,das Geschoss; das Wurfgeschodd; der Pfeil,8,s
-opus est,(m Dat) es ist nötig; (m Abl) jemand braucht; benötigt,8,x
-uterque; utraque; utrumque; gen utriusque; dat. utrique,jeder von beiden; beide,8,x
+privare; privo (m.Abl),(einer Sache) berauben,7,v
+Jason regem pelle privat,Jason beraubt den König des Vlieses,7,x
+telum; -i n,das Geschoss; das Wurfgeschodd; der Pfeil,7,s
+opus est,(m Dat) es ist nötig; (m Abl) jemand braucht; benötigt,7,x
+uterque; utraque; utrumque; gen utriusque; dat. utrique,jeder von beiden; beide,7,x
 saxum; -i,der Fels(brocken); der Stein,8,s
-ipse; ipsa; ipsum,selbst; gerade; persönlich,8,x
+ipse; ipsa; ipsum,selbst; gerade; persönlich,7,x
 prodere; prodo; prodidi; proditum,verraten; preisgeben; überliefern,7,v
-lumen; luminis n,das Licht; das Augenlicht; das Auge,8,s
+lumen; luminis n,das Licht; das Augenlicht; das Auge,7,s
 os; oris,der Mund; das Gesicht,8,s
 proinde, deshalb,7,x
 conicere; conico; conieci; coniectum,werfen ; vermuten,8,v
@@ -876,31 +876,31 @@ interesse; intersum; interfui (m Dat.),dazwischen sein; teilnehmen,8,v
 interest (m. Gen.),es ist wichtig (für m.Gen); es besteht ein Unterschied,8,x
 regis interest, es ist wichtig für den König,8,x
 inter odium et gaudium interest, zwischen Muße und Freude besteht ein unterschied,8,x
-praemittere; praemitto; praemisi; praemissum,vorrausschicken,8,v
+praemittere; praemitto; praemisi; praemissum,vorrausschicken,7,v
 discendere; discendo; discessi; discessum,auseiandergehen; weggehen,8,v
-inimicus; -a; -um,feindlich; (Sub) der Feind,4,x
-beneficium; - n,die Wohltat; die Gefälligkeit,4,s
-appellare; appello,ansprechen; benennen; (mit dopp. Akk.) nennen...als,4,v
-facinus; facinoris,die Tat; die Untat,4,s
-nefarius; -a; -um,frevelhaft; verbrecherisch,3,x
-manere; maneo; mansi,bleiben; warten (auf); erwarten,4,v
-quantus; -a; um,wie groß; wie viel,3,x
-committere; committo; commisi; commissum,zusammenbringen; begehen; beginnen; anvertrauen,4,v
-scelus committere,ein Verbrechen begehen,4,x
-proelium committere,eine Schlacht beginnen,4,x
-persuadere; persuadeo; persuasi; persuasum (m. Dat),(m. ut) überreden; (m. ACI) überzeugen,4,v
-"idem; eadem, idem",derselbe; dieselbe; dasselbe,4,x
+inimicus; -a; -um,feindlich; (Sub) der Feind,3,x
+beneficium; - n,die Wohltat; die Gefälligkeit,3,s
+appellare; appello,ansprechen; benennen; (mit dopp. Akk.) nennen...als,3,v
+facinus; facinoris,die Tat; die Untat,3,s
+nefarius; -a; -um,frevelhaft; verbrecherisch,2,x
+manere; maneo; mansi,bleiben; warten (auf); erwarten,3,v
+quantus; -a; um,wie groß; wie viel,2,x
+committere; committo; commisi; commissum,zusammenbringen; begehen; beginnen; anvertrauen,3,v
+scelus committere,ein Verbrechen begehen,3,x
+proelium committere,eine Schlacht beginnen,3,x
+persuadere; persuadeo; persuasi; persuasum (m. Dat),(m. ut) überreden; (m. ACI) überzeugen,3,v
+"idem; eadem, idem",derselbe; dieselbe; dasselbe,3,x
 accipere; accipio; accepi; acceptum,annehmen; empfangen; erhalten; vernehmen,1,v
-reducere; reduco; reduxi; reductum,zurückführen,2,v
-addere; addo; addidi; additum,hinzufügen,2,v
-sponte mea (tua sua nostra verstra sua),von selbst; freiwillig; auf eigenen Entschluss,2,x
-natura; -ae f,die Natur; das Wesen,2,s
-namque,denn; nämlich,2,x
-coniugium; -i n,die Ehe,2,s
-quo,wohin; dorthin (rel. Satzanschluss),2,x
+reducere; reduco; reduxi; reductum,zurückführen,1,v
+addere; addo; addidi; additum,hinzufügen,1,v
+sponte mea (tua sua nostra verstra sua),von selbst; freiwillig; auf eigenen Entschluss,1,x
+natura; -ae f,die Natur; das Wesen,1,s
+namque,denn; nämlich,1,x
+coniugium; -i n,die Ehe,1,s
+quo,wohin; dorthin (rel. Satzanschluss),1,x
 illuc,dorthin,1,x
-interficere; interficio; interfeci; interfectum,töten; vernichten,2,v
-una,zusammen,2,x
-tantum,nur,2,x
-spiritus; spiritUs,der Atem; das Leben; der Lebensgeist,2,s
-membrum; i n,das (Körper-)Göied; Pl. die Gliedmaßen,2,s
+interficere; interficio; interfeci; interfectum,töten; vernichten,1,v
+una,zusammen,1,x
+tantum,nur,1,x
+spiritus; spiritUs,der Atem; das Leben; der Lebensgeist,1,s
+membrum; i n,das (Körper-)Göied; Pl. die Gliedmaßen,1,s
