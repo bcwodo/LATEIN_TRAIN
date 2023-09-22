@@ -38,7 +38,7 @@ vinum,der Wein,7,s
 aqua,das Wasser,7,s
 vocare,rufen,7,v
 quid?,was?,7,x
-ridere; rideo; risi; risum,lachen; auslachen,2,v
+ridere; rideo; risi; risum,lachen; auslachen,1,v
 venire; venio; veni; ventum,kommen,7,v
 audire,hören; anhören,7,v
 dormire,schlafen,7,v
@@ -107,7 +107,7 @@ iterum,wiederum; ein zweies mal,7,x
 certe,sicher; gewiss,7,x
 si,wenn; falls,7,x
 theatrum,das Theater,7,s
-videre; video; vidi; visum,sehen,2,v
+videre; video; vidi; visum,sehen,1,v
 ludus,das Spiel; die Schule; die (zirkus)Spiele,7,s
 incipere; incipio; coepi; coeptum,anfangen; beginnen,7,v
 filius,der Sohn,7,s
@@ -399,7 +399,7 @@ vis;-;-;vim;vi f; PL. vires; virum,die Kraft; die Gewalt; die Menge; Pl auch Str
 sic,so; auf diese Weise,8,x
 negare; nego,leugnen; sagen - dass nicht,8,v
 putare; puto,glauben; meinen,8,v
-invidere; invideo; invidi; invisum (m Dat),beneiden,2,v
+invidere; invideo; invidi; invisum (m Dat),beneiden,1,v
 instare; insto; institi,bevorstehen; drohen; bedrängen,8,v
 iuvenis; iuvenis m,der junge Mann,8,s
 malum,der Apfel,8,s
@@ -464,7 +464,7 @@ prohibere; prohibeo,abhalten (von); hindern (an); verhindern,8,v
 necesse est,es ist nötig,8,x
 novus; -a; -um,neu; neuartig,8,x
 condere; condo; condidi,gründen; bestatten,8,v
-torquere; torqueo; torsi; tortum,foltern; quälen; drehen,2,v
+torquere; torqueo; torsi; tortum,foltern; quälen; drehen,1,v
 quoque,auch,8,x
 nox; noctis f; Gen Pl noctium,die Nacht,8,s
 multa nocte,tief in der Nacht,8,x
@@ -904,9 +904,9 @@ una,zusammen,6,x
 tantum,nur,6,x
 spiritus; spiritUs,der Atem; das Leben; der Lebensgeist,6,s
 membrum; i n,das (Körper-)Göied; Pl. die Gliedmaßen,6,s
-salus; salutis,die Rettung; das Wohl(ergehen); der Gruß,2,s
-reperire; reperio; repperi; repertum,finden; wiederfinden; entdecken,2,v
-crimen; criminis,das Verbrachen; ver Vorwurf; die Anklage,2,s
-vitium; -i n,der Fehler; das Laster; die schlechte Eigenschaft,2,s
-incolumis; incolume,heil; unversehrt,2,x
-ignotus; -a; -um,unbekannt,2,x
+salus; salutis,die Rettung; das Wohl(ergehen); der Gruß,1,s
+reperire; reperio; repperi; repertum,finden; wiederfinden; entdecken,1,v
+crimen; criminis,das Verbrachen; ver Vorwurf; die Anklage,1,s
+vitium; -i n,der Fehler; das Laster; die schlechte Eigenschaft,1,s
+incolumis; incolume,heil; unversehrt,1,x
+ignotus; -a; -um,unbekannt,1,x
