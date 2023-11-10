@@ -414,28 +414,28 @@ nonnulli; -ae; -a,einige; manche,8,x
 constat; constitit,es steht fest; es ist bekannt,8,x
 poeta; -ae -m,der Dichter,8,s
 imponere; impono; imposui; impositum,hineinstellen; auferlegen; auf die Schulter legen - aufbürden,8,v
-ponere; pono; posui; positum,setzen; legen (auf); stellen,9,v
-pauci; -ae; -a,wenige,9,x
-hora; -ae f,die Stunde,9,s
+ponere; pono; posui; positum,setzen; legen (auf); stellen,8,v
+pauci; -ae; -a,wenige,8,x
+hora; -ae f,die Stunde,8,s
 saeculum; -i n,das Jahrhundert; das Zeitalter,8,s
-procul,in der Ferne; aus der Ferne; fern,9,x
-custodire; custodio,bewachen; beschützen,9,v
-interea,inzwischen,9,x
-profecto,in der Tat; tatsächlich,9,x
-augere; augeo; auxi; auctum,vermehren; vergrößern,9,v
-leo; leonis,der Löwe,9,s
-annus,das Jahr,9,s
+procul,in der Ferne; aus der Ferne; fern,8,x
+custodire; custodio,bewachen; beschützen,8,v
+interea,inzwischen,8,x
+profecto,in der Tat; tatsächlich,8,x
+augere; augeo; auxi; auctum,vermehren; vergrößern,8,v
+leo; leonis,der Löwe,8,s
+annus,das Jahr,8,s
 gloria; -ae,der Ruhm; die Ehre,8,s
-ingens; ingentis,riesig; gewaltig,9,x
+ingens; ingentis,riesig; gewaltig,8,x
 celer; celeris; celere,schnell,8,x
-mortalis; mortale,sterblich; der Stebliche; der Mensch,9,x
+mortalis; mortale,sterblich; der Stebliche; der Mensch,8,x
 acer; acris; acre,scharf; heftig; wild,8,x
-omnis; omne,jeder; all; ganz,9,x
-incredibilis; incredibile,unglaublich,9,x
-mens; mentis,der Gesits; der Verstand,9,s
--que,und (nachgestellt),9,x
-quidem,zwar; freilich,9,x
-nullus; - a; -um; Gen. nullius; Dat. nulli,kein,9,x
+omnis; omne,jeder; all; ganz,8,x
+incredibilis; incredibile,unglaublich,8,x
+mens; mentis,der Gesits; der Verstand,8,s
+-que,und (nachgestellt),8,x
+quidem,zwar; freilich,8,x
+nullus; - a; -um; Gen. nullius; Dat. nulli,kein,8,x
 immo,im Gegenteil; ja sogar,9,x
 ne...quidem,nicht einmal,9,x
 tollere; tollo; sustuli; sublatum,hochheben; aufheben; erheben; beseitigen; wegnehmen; vernichten,9,v
@@ -456,14 +456,14 @@ meus; -a; -um,mein,9,x
 vester; vestra; vestrum,euer,9,x
 tuus; -a; -um,dein,9,x
 noster; nostra; nostrum,unser,9,x
-suus; -a; -um,sein; ihr,9,x
+suus; -a; -um,sein; ihr,8,x
 sui; -orum m (pl),die Seine; die Ihre,9,x
 soror; sororis,die Schwester,9,s
 permittere; permitto; permisi; permissum,erlauben; überlassen,8,v
-prohibere; prohibeo,abhalten (von); hindern (an); verhindern,9,v
+prohibere; prohibeo,abhalten (von); hindern (an); verhindern,8,v
 necesse est,es ist nötig,9,x
 novus; -a; -um,neu; neuartig,9,x
-condere; condo; condidi,gründen; bestatten,9,v
+condere; condo; condidi,gründen; bestatten,8,v
 torquere; torqueo; torsi; tortum,foltern; quälen; drehen,9,v
 quoque,auch,9,x
 nox; noctis f; Gen Pl noctium,die Nacht,9,s
@@ -747,27 +747,27 @@ trahere; traho; traxi; tractum,ziehen; schleppen,9,v
 aurum; -i,das Gold,9,s
 argentium; -i,das Silber; das Geld,9,s
 complere; compleo; complevi; completum,ausfüllen; anfüllen (mit); erfüllen,9,v
-ornamentum; -i,das Schmuckstück; der Schmuck,9,s
+ornamentum; -i,das Schmuckstück; der Schmuck,8,s
 tribunus; -i,der Tribun,9,s
 tribuere; tribuo; tribui; tributum,zuteilen,9,v
-provincia; -ae f,die Provinz,9,s
-comperire; comperio; comperi; compertum,erfahren; in Erfahrung bringen,9,v
-sentire; sentio; sensi; sensum,fühlen; spühren; meinen,9,v
+provincia; -ae f,die Provinz,8,s
+comperire; comperio; comperi; compertum,erfahren; in Erfahrung bringen,8,v
+sentire; sentio; sensi; sensum,fühlen; spühren; meinen,8,v
 metus; metUs,die Angst; die Furcht (nicht timor),9,s
-pars; partis f; Gen P partium,der Teil; die Seite; die Richtung,9,s
+pars; partis f; Gen P partium,der Teil; die Seite; die Richtung,8,s
 sol; solis,die Sonne,9,s
 currus; currUs,der Wagen,9,s
-aer; aeris m; Akk sg. auch aera,die Luft,9,s
+aer; aeris m; Akk sg. auch aera,die Luft,8,s
 ascendere; ascendo; ascendi; ascensum,hinaufsteigen; besteigen,9,v
 tantus; -a ;-um,so groß,8,x
-uxor; uxoris f,die Ehefrau,9,s
+uxor; uxoris f,die Ehefrau,8,s
 vetare; veto; vetui; vetitum,verbieten,8,v
-preces; precum f (PL),die Bitten,9,s
-repellere; repello; reppulli; repulsum,zurückstoßen; abwehren; zurückweisen,9,v
-abducere; abduco; abduxi; abductum,wegführen; wegbringen; entführen,9,v
+preces; precum f (PL),die Bitten,8,s
+repellere; repello; reppulli; repulsum,zurückstoßen; abwehren; zurückweisen,8,v
+abducere; abduco; abduxi; abductum,wegführen; wegbringen; entführen,8,v
 flos; floris m,die Blume; die Blüte,8,s
 cura; -ae f,die Sorge; die Pflege,8,s
-mora; -ae f,die Verzögerung; der Aufenthalt,9,s
+mora; -ae f,die Verzögerung; der Aufenthalt,8,s
 iratus; -a; -um,zornig; erzürnt,8,x
 fundere; fundo; fudi; fusum,(vergießen); ausschütten,8,v
 simulare; simulo ,vortäuschen; heucheln,9,v
@@ -792,26 +792,26 @@ quod,weil; dass,8,x
 quiescere; quiesco; quievi; -,ruhen; sich ausruhen,8,v
 bos; bovis,das Rind; der Ochse; die Kuh,9,s
 taurus,der Stier,8,s
-ludere; ludo; lusi; lusum,speilen,9,v
+ludere; ludo; lusi; lusum,speilen,8,v
 quoniam,weil ja; da ja,8,x
 considere; consido; consedi; consessum,sich setzen; sich niederlassen,8,v
-tergum; i n,der Rücken,9,s
+tergum; i n,der Rücken,8,s
 surgere; surgo; surrexi; surrectum,aufstehen; siche erheben,8,v
-dext(e)r; dext(e)ra; dext(e)rum,rechts,9,x
-dext(e)ra; -ae f,die rechte Hand,9,s
-cornu; cornUs n ,das Horn; der Heeresflügel,9,s
-sinister; sinistra; sinistrum,links,9,x
-ventus; -i m,der Wind,9,s
+dext(e)r; dext(e)ra; dext(e)rum,rechts,8,x
+dext(e)ra; -ae f,die rechte Hand,8,s
+cornu; cornUs n ,das Horn; der Heeresflügel,8,s
+sinister; sinistra; sinistrum,links,8,x
+ventus; -i m,der Wind,8,s
 dum haec geruntur,währendessen,8,x
-insula; -ae f,die Insel; des (mehrstöckige) Mietshaus,9,s
-spes; spei f,die Hoffnung; die Erwartung,9,s
-spem deponere,die Hoffnung aufgeben,9,x
-cavere; caveo; cavi; cautum,sich hüten (vor) sich in Acht nehmen (vor),9,v
-cave bestiam!,Hüte dich vor dem wilden Tier!,9,x
+insula; -ae f,die Insel; des (mehrstöckige) Mietshaus,8,s
+spes; spei f,die Hoffnung; die Erwartung,8,s
+spem deponere,die Hoffnung aufgeben,8,x
+cavere; caveo; cavi; cautum,sich hüten (vor) sich in Acht nehmen (vor),8,v
+cave bestiam!,Hüte dich vor dem wilden Tier!,8,x
 crescere; cresco; crevi; -,wachsen; zunehmen,8,v
-adeo,so sehr,9,x
+adeo,so sehr,8,x
 impedire; impedio (a/ab),hindern; verhindern,8,v
-at,aber; jedoch,9,x
+at,aber; jedoch,8,x
 aut,oder,8,x
 aut...aut,etweder---oder,8,x
 medius; -a; -um,der mittlere,8,x
@@ -973,14 +973,14 @@ interrogare; interrogo,fragen,8,v
 accidre; accidit; accidit,geschehen; sich reignen; zustoßen,8,v
 edere; edo; edidi; editum,herausgeben; äußern; gebären,8,v
 bono animo esse,guten Mutes sein,8,x
-praeterea,außerdem,5,x
-unde,woher,5,x
-ire; eo; ii; itum,gehen,5,v
-redire; redeo; redii; reditum,zurückgehen; zurückkehren,5,v
-adire; adeo; adii; aditum,herangehen; (an); aufsuchen; aus sich nehmen; in Angriff nehmen; angehen,5,v
-abire; abeo; abii; abitum,weggehen,4,v
-inire; ineo; inii; initum,hineingehen; betreten; beginnen,5,v
-praeterire; praetereo; praeterii; praeteritum,vorbeigehen; vergehen; übergehen,4,v
-subire; subeo; subii; subitum,daruntertreten; auf sich nehmen,5,v
-rectus; -a; -um,richtig; gerade,5,x
-praebere; preabeo,geben; gewähren,5,v
+praeterea,außerdem,4,x
+unde,woher,4,x
+ire; eo; ii; itum,gehen,4,v
+redire; redeo; redii; reditum,zurückgehen; zurückkehren,4,v
+adire; adeo; adii; aditum,herangehen; (an); aufsuchen; aus sich nehmen; in Angriff nehmen; angehen,4,v
+abire; abeo; abii; abitum,weggehen,3,v
+inire; ineo; inii; initum,hineingehen; betreten; beginnen,4,v
+praeterire; praetereo; praeterii; praeteritum,vorbeigehen; vergehen; übergehen,3,v
+subire; subeo; subii; subitum,daruntertreten; auf sich nehmen,4,v
+rectus; -a; -um,richtig; gerade,4,x
+praebere; preabeo,geben; gewähren,4,v
