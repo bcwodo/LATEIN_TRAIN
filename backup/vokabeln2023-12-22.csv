@@ -509,49 +509,49 @@ miles; militis,der Soldat,9,s
 filia; -ae f,die Tochter,9,s
 gerere; gero; gessi; gestum,tragen; führen; ausführen,9,v
 negotia gerere,seinen Geschäften nachgehen,9,x
-bellum gerere (cum),Krieg führen (mit),10,x
-vestem gerere,ein Kleidungsstück tragen,10,x
-se gerere,sich benehmen,10,x
-res; rei f,die Sache; das Ding; die Angelegenheit,10,s
-dies; diei m,der Tag,10,s
-fides; fidei f,das Vertrauen; die Treue; die Zuverlässigkeit,10,s
-fidem dare,sein Wort geben,10,x
+bellum gerere (cum),Krieg führen (mit),9,x
+vestem gerere,ein Kleidungsstück tragen,9,x
+se gerere,sich benehmen,9,x
+res; rei f,die Sache; das Ding; die Angelegenheit,9,s
+dies; diei m,der Tag,9,s
+fides; fidei f,das Vertrauen; die Treue; die Zuverlässigkeit,9,s
+fidem dare,sein Wort geben,9,x
 fidem habere,Vertrauen schenken,9,x
-acies; aciei f,die Schärfe; der Scharfsinn; die Schlachtreihe,10,s
-acies mentis,der Scharfsinn; die Aufmerksamkeit (bc: die Schärfe des Gesites),10,x
+acies; aciei f,die Schärfe; der Scharfsinn; die Schlachtreihe,9,s
+acies mentis,der Scharfsinn; die Aufmerksamkeit (bc: die Schärfe des Gesites),9,x
 aciem institutere,eine Schlachtreihe aufstellen,9,x
 alius; alia; aliud; gen. alterius; dat. alii,ein anderer; eine andere; ein anderes... (adjektiv),9,x
 alii...alii,die einen... die anderen...,9,x
-alius aliud facit,jeder macht etwas anderes,10,x
+alius aliud facit,jeder macht etwas anderes,9,x
 accurrere; accurro; accucurri; accursum ,hinzulaufen; herbeieilen,9,v
-mortuus; -a; -um,tot (adjektiv),10,x
-facies; faciei f,das Gesicht; das Aussehen,10,s
-facie cognoscrere,am Gesicht erkennen,10,x
-regnare; regno,König sein; herrschen; regieren,10,v
+mortuus; -a; -um,tot (adjektiv),9,x
+facies; faciei f,das Gesicht; das Aussehen,9,s
+facie cognoscrere,am Gesicht erkennen,9,x
+regnare; regno,König sein; herrschen; regieren,9,v
 aliquando,einst; (irgendwann) einmal,9,x
-militaris; militare,militärisch; soldatisch,10,x
-res militaris,das Kriegswesen; die Kriegskunst,10,x
-tempestas; tempestatis f,das Unwetter; das Gewitter,10,s
-imber; imbris; gen.pl. imbrium,der Regen; der Regenguss,10,s
-nubes; nubis; gen.pl. nubium,die Wolke,10,s
-exclamare; exclamo,ausrufen; aufschreien,10,v
-protegere; protego; protexi; protectum,bedecken; schützen,10,v
-orationem habere,eine Rede halten,10,x
+militaris; militare,militärisch; soldatisch,9,x
+res militaris,das Kriegswesen; die Kriegskunst,9,x
+tempestas; tempestatis f,das Unwetter; das Gewitter,9,s
+imber; imbris; gen.pl. imbrium,der Regen; der Regenguss,9,s
+nubes; nubis; gen.pl. nubium,die Wolke,9,s
+exclamare; exclamo,ausrufen; aufschreien,9,v
+protegere; protego; protexi; protectum,bedecken; schützen,9,v
+orationem habere,eine Rede halten,9,x
 pacem facere,Frieden schließen,9,x
-auctoritas; auctoritatis f,das Ansehen; der Einfluss,10,s
-sperare; spero,hoffen; erhoffen,10,v
-lex; legis f,das Gesetz,10,s
-brevis; breve,kurz,10,x
+auctoritas; auctoritatis f,das Ansehen; der Einfluss,9,s
+sperare; spero,hoffen; erhoffen,9,v
+lex; legis f,das Gesetz,9,s
+brevis; breve,kurz,9,x
 brevi (tempore),in Kürze; in kurzer Zeit,10,x
 hostis; hostis m/f,der/die Feind(in),10,s
-indicare; indico,anzeigen; melden; verraten,10,v
+indicare; indico,anzeigen; melden; verraten,9,v
 exercitus; exercitUs m,das Heer,10,s
 manus; manUs f,die Hand; die Schar,10,s
 vultus; vultUs m,das Gesicht; die Miene; der Gesichtsausdruck,10,s
 cultus; cultUs m,die Pflege; die Verehrung,10,s
 domus; domUs f,das Haus,10,s
 domo,von zu Hause weg,10,x
-severus; -a; -um,ernst; streng,10,x
+severus; -a; -um,ernst; streng,9,x
 apertus; -a; -um,offen; offenkundig,10,x
 finitimus; -a; -um,benachbart; Subst. der Nachbar,10,x
 pietas; pietatis,die Frömmigkeit; das Pflichtgefühl; das Verantwortungsbewusstsein,10,s
@@ -561,9 +561,9 @@ situs; -a; -um,gelegen,10,x
 minister; ministri m,der Diener,10,s
 nympha; -ae,die Nymphe,10,s
 divus; -a; -um,göttlich,10,x
-cinis; cineris m,die Asche,10,s
+cinis; cineris m,die Asche,9,s
 villa; -ae f,die Villa; das Landhaus,10,s
-avunculus; -i m,der Onkel,10,s
+avunculus; -i m,der Onkel,9,s
 liber; libri,das Buch,10,s
 publicus; -a; -um,öffentlich; staatlich,10,x
 postea,nachher; später,10,x
@@ -583,16 +583,16 @@ insidae; -arum Pl.,der Hinterhalt; die Falle,10,s
 promittere; promitto; promisi,versprechen,10,v
 fere,fast; ungefähr,10,x
 orbis; orbis; GenPl orbium,der Kreis; die Scheibe,10,s
-velut,wie; wie zum Beispiel,10,x
+velut,wie; wie zum Beispiel,9,x
 ignoscere; ignosco; ignovi,verzeihen,10,v
 modo,nur; eben noch; gerade,10,x
 exilium; -i,die Verbannung; das Exil,10,s
-restitutere; restituo; restitui; restitutum,wiederharstellen,10,v
+restitutere; restituo; restitui; restitutum,wiederharstellen,9,v
 magistratus; magistratUs m,der Beamte; das Amt,10,s
 moenia; moenium n Pl,die Mauer(n); die Stadtmauer(n),10,s
 fortis; forte,tapfer; stark; tatkräftig,10,x
 honestus; -a; -um,ehrenhaft; tapfer,10,x
-neque/nec,und nicht; auch nicht,10,x
+neque/nec,und nicht; auch nicht,9,x
 neque...neque / nec...nec,weder... noch,10,x
 nobilis; nobile,vornehm; adelig; berühmt,10,x
 exstinquere; exstinguo; exstinxi; exstinctum,auslöchen; löschen; vernichten,10,v
@@ -725,12 +725,12 @@ tolerare; tolero,erdulden; ertragen,10,v
 tristis; triste,traurig; düster,10,x
 nuntius; i m,der Bote; die Nachricht,10,s
 sepulcrum; i n,das Grab; das Grabmal,10,s
-ornare; orno,schmücken; auszeichnen; ausstatten,10,v
-adicere; adicio; adieci; adiectum,hinzufügen,10,v
+ornare; orno,schmücken; auszeichnen; ausstatten,9,v
+adicere; adicio; adieci; adiectum,hinzufügen,9,v
 avaritia; -ae,die Habgier; der Geiz,10,s
 calamitas; calamitatis,das Unglück; das Unheil; der Schaden,10,s
-potens; Gen potentis,mächtig; stark,10,x
-proelium; -i,die Schlacht; das Gefecht,10,s
+potens; Gen potentis,mächtig; stark,9,x
+proelium; -i,die Schlacht; das Gefecht,9,s
 dubitare; dubito,zweifeln; unschlüssig sein; mit infitiniv: zögern zu tun,10,v
 dubitare de fide,an der Treue zweifeln,10,x
 impellere; impello; impuli; impulsum,in Bewegung setzen; antreiben; veranlassen,10,v
@@ -738,14 +738,14 @@ vindicare; vindico,in Anspruch nehmen; befreien; retten; bestrafen,10,v
 testamentum; -i,das Testament,10,s
 confirmare; confirmo,(be)kräftigen; verstärken; ermutigen,10,v
 nemo,niemand,10,x
-"patres, patrum m (PL)",die Senatoren (tipp väterlich),10,s
-quam, wie; als (Vergleich),10,x
-tam...quam,so...wie,10,x
-igitur,also,10,x
-expellere; expello; exppuli; expulsum,vertreiben; verjagen; verbannen,10,v
-trahere; traho; traxi; tractum,ziehen; schleppen,10,v
+"patres, patrum m (PL)",die Senatoren (tipp väterlich),9,s
+quam, wie; als (Vergleich),9,x
+tam...quam,so...wie,9,x
+igitur,also,9,x
+expellere; expello; exppuli; expulsum,vertreiben; verjagen; verbannen,9,v
+trahere; traho; traxi; tractum,ziehen; schleppen,9,v
 aurum; -i,das Gold,9,s
-argentium; -i,das Silber; das Geld,10,s
+argentium; -i,das Silber; das Geld,9,s
 complere; compleo; complevi; completum,ausfüllen; anfüllen (mit); erfüllen,9,v
 ornamentum; -i,das Schmuckstück; der Schmuck,9,s
 tribunus; -i,der Tribun,10,s
@@ -791,24 +791,24 @@ cum (primum); ubi (primum); ut (primum) (m Ind Perf),sobald,9,x
 quod,weil; dass,9,x
 quiescere; quiesco; quievi; -,ruhen; sich ausruhen,9,v
 bos; bovis,das Rind; der Ochse; die Kuh,9,s
-taurus,der Stier,10,s
-ludere; ludo; lusi; lusum,speilen,10,v
+taurus,der Stier,9,s
+ludere; ludo; lusi; lusum,speilen,9,v
 quoniam,weil ja; da ja,9,x
-considere; consido; consedi; consessum,sich setzen; sich niederlassen,10,v
-tergum; i n,der Rücken,10,s
-surgere; surgo; surrexi; surrectum,aufstehen; siche erheben,10,v
-dext(e)r; dext(e)ra; dext(e)rum,rechts,10,x
+considere; consido; consedi; consessum,sich setzen; sich niederlassen,9,v
+tergum; i n,der Rücken,9,s
+surgere; surgo; surrexi; surrectum,aufstehen; siche erheben,9,v
+dext(e)r; dext(e)ra; dext(e)rum,rechts,9,x
 dext(e)ra; -ae f,die rechte Hand,9,s
-cornu; cornUs n ,das Horn; der Heeresflügel,10,s
-sinister; sinistra; sinistrum,links,10,x
-ventus; -i m,der Wind,10,s
+cornu; cornUs n ,das Horn; der Heeresflügel,9,s
+sinister; sinistra; sinistrum,links,9,x
+ventus; -i m,der Wind,9,s
 dum haec geruntur,währendessen,9,x
-insula; -ae f,die Insel; des (mehrstöckige) Mietshaus,10,s
-spes; spei f,die Hoffnung; die Erwartung,10,s
-spem deponere,die Hoffnung aufgeben,10,x
-cavere; caveo; cavi; cautum,sich hüten (vor) sich in Acht nehmen (vor),10,v
-cave bestiam!,Hüte dich vor dem wilden Tier!,10,x
-crescere; cresco; crevi; -,wachsen; zunehmen,10,v
+insula; -ae f,die Insel; des (mehrstöckige) Mietshaus,9,s
+spes; spei f,die Hoffnung; die Erwartung,9,s
+spem deponere,die Hoffnung aufgeben,9,x
+cavere; caveo; cavi; cautum,sich hüten (vor) sich in Acht nehmen (vor),9,v
+cave bestiam!,Hüte dich vor dem wilden Tier!,9,x
+crescere; cresco; crevi; -,wachsen; zunehmen,9,v
 adeo,so sehr,9,x
 impedire; impedio (a/ab),hindern; verhindern,9,v
 at,aber; jedoch,9,x
@@ -1018,10 +1018,3 @@ tegere; tego; texi; tectum,bedecken; schützen; verbergen,9,v
 praedicare; praedico,rühmen; vrkünden; predigen,9,v
 canis; canis,der Hund,9,s
 di,gGötter (Nom/Vok pl),3,s
-classis; classis; gen Pl classium,die Flotte; die Abteilung,1,s
-subicere; subicio; subieci; subiectum,unterwerfen,1,v
-perficere; perficio; perfeci; prefectum,durchsetzen; vollenden,1,v
-ultimus; -a; -um,der letzte; der entferneste; der äußerste,1,x
-procedere; peocedo; processi; processum,vorrücken; Fortschritte machen,1,v
-infestus; -a; -um,feindselig; kampfbereit,1,x
-humanus; -a; -um,menschlich; gebildet,1,x
