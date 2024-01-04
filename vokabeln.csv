@@ -479,36 +479,36 @@ lacrima; -ae,die Träne,9,s
 pius; -a ; -um,fromm; verantwortungsbewusst; pflichtbewusst,9,
 nullo modo,auf keine Weise,9,x
 mai; -orum m (Pl),die Meinen; meine Leute,9,s
-et...et,sowohl... als auch,9,x
-ex eo tempore,seit dieser Zeit,9,x
-de vita decedere,aus dem Leben scheiden,9,x
-in mentem venire,in den sinn kommen,9,x
-prima luce,bei Tagesanbruch,9,x
-causa; -ae,der Grund; die Ursache; der Fall; der (Gerichts-)Prozess,9,s
-ceteri; -ae; -a,die übrigen; die andren,9,x
-infelix; infelicis,unglücklich,9,x
-superbus; -a; -um,hochmütig; stolz,9,x
-mox,bald; dann,9,x
-umbra; -ae,der Schatten,9,s
+et...et,sowohl... als auch,10,x
+ex eo tempore,seit dieser Zeit,10,x
+de vita decedere,aus dem Leben scheiden,10,x
+in mentem venire,in den sinn kommen,10,x
+prima luce,bei Tagesanbruch,10,x
+causa; -ae,der Grund; die Ursache; der Fall; der (Gerichts-)Prozess,10,s
+ceteri; -ae; -a,die übrigen; die andren,10,x
+infelix; infelicis,unglücklich,10,x
+superbus; -a; -um,hochmütig; stolz,10,x
+mox,bald; dann,10,x
+umbra; -ae,der Schatten,10,s
 inter,zwischen; während,9,x
-vertere; verto; verti; versum,drehen; (um)wenden,9,v
+vertere; verto; verti; versum,drehen; (um)wenden,10,v
 -ne,unübersetztes Fragepartikel,9,x
-iurare; iuro,schwören,9,x
-per deos iurare,bei den Göttern schwören,9,x
-lacrimas tenere,Tränen zurückhalten,9,x
-oculos vertere,seinen Blick richten auf,9,x
-regnum; -i,die Herrschaft; die Königsherrschaft; das Reich,9,s
-dum,(solange) bis; solange; (m. Ind. Präs) während,9,x
-postquam,nachdem,9,x
-quamquam,obwohl,9,x
-murus,die Mauer,9,s
-lupa; -ae,die Wölfin,9,s
-fama; -ae f,das Gerücht; der (gute oder schlechte) Ruf,9,s
-orare; oro,beten (zu); bitten,9,v
+iurare; iuro,schwören,10,x
+per deos iurare,bei den Göttern schwören,10,x
+lacrimas tenere,Tränen zurückhalten,10,x
+oculos vertere,seinen Blick richten auf,10,x
+regnum; -i,die Herrschaft; die Königsherrschaft; das Reich,10,s
+dum,(solange) bis; solange; (m. Ind. Präs) während,10,x
+postquam,nachdem,10,x
+quamquam,obwohl,10,x
+murus,die Mauer,10,s
+lupa; -ae,die Wölfin,10,s
+fama; -ae f,das Gerücht; der (gute oder schlechte) Ruf,10,s
+orare; oro,beten (zu); bitten,10,v
 miles; militis,der Soldat,9,s
-filia; -ae f,die Tochter,9,s
-gerere; gero; gessi; gestum,tragen; führen; ausführen,9,v
-negotia gerere,seinen Geschäften nachgehen,9,x
+filia; -ae f,die Tochter,10,s
+gerere; gero; gessi; gestum,tragen; führen; ausführen,10,v
+negotia gerere,seinen Geschäften nachgehen,10,x
 bellum gerere (cum),Krieg führen (mit),10,x
 vestem gerere,ein Kleidungsstück tragen,10,x
 se gerere,sich benehmen,10,x
@@ -516,19 +516,19 @@ res; rei f,die Sache; das Ding; die Angelegenheit,10,s
 dies; diei m,der Tag,10,s
 fides; fidei f,das Vertrauen; die Treue; die Zuverlässigkeit,10,s
 fidem dare,sein Wort geben,10,x
-fidem habere,Vertrauen schenken,9,x
+fidem habere,Vertrauen schenken,10,x
 acies; aciei f,die Schärfe; der Scharfsinn; die Schlachtreihe,10,s
 acies mentis,der Scharfsinn; die Aufmerksamkeit (bc: die Schärfe des Gesites),10,x
-aciem institutere,eine Schlachtreihe aufstellen,9,x
-alius; alia; aliud; gen. alterius; dat. alii,ein anderer; eine andere; ein anderes... (adjektiv),9,x
-alii...alii,die einen... die anderen...,9,x
+aciem institutere,eine Schlachtreihe aufstellen,10,x
+alius; alia; aliud; gen. alterius; dat. alii,ein anderer; eine andere; ein anderes... (adjektiv),10,x
+alii...alii,die einen... die anderen...,10,x
 alius aliud facit,jeder macht etwas anderes,10,x
 accurrere; accurro; accucurri; accursum ,hinzulaufen; herbeieilen,9,v
 mortuus; -a; -um,tot (adjektiv),10,x
 facies; faciei f,das Gesicht; das Aussehen,10,s
 facie cognoscrere,am Gesicht erkennen,10,x
 regnare; regno,König sein; herrschen; regieren,10,v
-aliquando,einst; (irgendwann) einmal,9,x
+aliquando,einst; (irgendwann) einmal,10,x
 militaris; militare,militärisch; soldatisch,10,x
 res militaris,das Kriegswesen; die Kriegskunst,10,x
 tempestas; tempestatis f,das Unwetter; das Gewitter,10,s
@@ -970,30 +970,30 @@ blandus; -a; -um,schmeichelnd; freundlich; angenehm,9,x
 aedis; aedis f; gen pl. aedium,der Tempel; pl. das Haus,9,s
 tot (indekl),so viele,9,x
 interrogare; interrogo,fragen,9,v
-accidre; accidit; accidit,geschehen; sich reignen; zustoßen,9,v
-edere; edo; edidi; editum,herausgeben; äußern; gebären,9,v
-bono animo esse,guten Mutes sein,9,x
-praeterea,außerdem,9,x
-unde,woher,9,x
-ire; eo; ii; itum,gehen,9,v
-redire; redeo; redii; reditum,zurückgehen; zurückkehren,9,v
-adire; adeo; adii; aditum,herangehen; (an); aufsuchen; aus sich nehmen; in Angriff nehmen; angehen,9,v
+accidre; accidit; accidit,geschehen; sich reignen; zustoßen,10,v
+edere; edo; edidi; editum,herausgeben; äußern; gebären,10,v
+bono animo esse,guten Mutes sein,10,x
+praeterea,außerdem,10,x
+unde,woher,10,x
+ire; eo; ii; itum,gehen,10,v
+redire; redeo; redii; reditum,zurückgehen; zurückkehren,10,v
+adire; adeo; adii; aditum,herangehen; (an); aufsuchen; aus sich nehmen; in Angriff nehmen; angehen,10,v
 abire; abeo; abii; abitum,weggehen,9,v
-inire; ineo; inii; initum,hineingehen; betreten; beginnen,9,v
-praeterire; praetereo; praeterii; praeteritum,vorbeigehen; vergehen; übergehen,9,v
-subire; subeo; subii; subitum,daruntertreten; auf sich nehmen,9,v
-rectus; -a; -um,richtig; gerade,9,x
-praebere; preabeo,geben; gewähren,9,v
-Concedere; concedo; concessi; concessum,weichen; nachgeben; erlauben; zugestehen,9,v
+inire; ineo; inii; initum,hineingehen; betreten; beginnen,10,v
+praeterire; praetereo; praeterii; praeteritum,vorbeigehen; vergehen; übergehen,10,v
+subire; subeo; subii; subitum,daruntertreten; auf sich nehmen,10,v
+rectus; -a; -um,richtig; gerade,10,x
+praebere; preabeo,geben; gewähren,10,v
+Concedere; concedo; concessi; concessum,weichen; nachgeben; erlauben; zugestehen,10,v
 flagitium; -i n,die Schandtat; die Gemeinheit,9,s
-propter (m.Akk),wegen,9,x
+propter (m.Akk),wegen,10,x
 constituere; constituo; constitui; constitutum,aufstellen; festsetzten; einrichten; (m. inf) beschließen zu tun,9,v
-poenam constituere,eine strafe festsetzen,9,x
-Patrem quaerere constitui,ich habe beschlossen meinen Vater zu besuchen,9,x
-pes; pedis,der Fuß,9,s
+poenam constituere,eine strafe festsetzen,10,x
+Patrem quaerere constitui,ich habe beschlossen meinen Vater zu besuchen,10,x
+pes; pedis,der Fuß,10,s
 laedere; laedo; laesi; laesum,verletzen; beschädigen,9,v
 deinde,hierauf; dann,9,x
-civitas; civitatis,der Staat; die Bürgerschaft; das Bürgerrecht,9,s
+civitas; civitatis,der Staat; die Bürgerschaft; das Bürgerrecht,10,s
 vitare; vito,meiden; vermeiden,9,v
 angustus; -a; -um,eng,9,x
 casus; casUs,der Fall; der Zufall; der Unglücksfall,9,s
@@ -1010,18 +1010,26 @@ vivus;- a;- um,lebend; lebendig; zu Lebzeiten,9,x
 campus; -i,das Feld,9,s
 ferus; -a; -um,wild,9,x
 statuere; statuo; statui; statutum,aufstellen; festsetzen; beschließen,9,v
-contendere; contendo; contendi; contentum,sich anstrengen; kämpfen; eilen; mit AcI behaupten,9,v
-iuvare; iovo; iuvi; iutum,helfen; unterstutzen; erfreuen,9,v
-quando?,wann?,9,x
-humus; -i,die Erde; der Erdboden,9,s
-tegere; tego; texi; tectum,bedecken; schützen; verbergen,9,v
-praedicare; praedico,rühmen; vrkünden; predigen,9,v
+contendere; contendo; contendi; contentum,sich anstrengen; kämpfen; eilen; mit AcI behaupten,10,v
+iuvare; iovo; iuvi; iutum,helfen; unterstutzen; erfreuen,10,v
+quando?,wann?,10,x
+humus; -i,die Erde; der Erdboden,10,s
+tegere; tego; texi; tectum,bedecken; schützen; verbergen,10,v
+praedicare; praedico,rühmen; vrkünden; predigen,10,v
 canis; canis,der Hund,9,s
-di,gGötter (Nom/Vok pl),3,s
-classis; classis; gen Pl classium,die Flotte; die Abteilung,1,s
-subicere; subicio; subieci; subiectum,unterwerfen,1,v
-perficere; perficio; perfeci; prefectum,durchsetzen; vollenden,1,v
-ultimus; -a; -um,der letzte; der entferneste; der äußerste,1,x
-procedere; peocedo; processi; processum,vorrücken; Fortschritte machen,1,v
-infestus; -a; -um,feindselig; kampfbereit,1,x
-humanus; -a; -um,menschlich; gebildet,1,x
+di,Götter (Nom/Vok pl),4,s
+classis; classis; gen Pl classium,die Flotte; die Abteilung,2,s
+subicere; subicio; subieci; subiectum,unterwerfen,2,v
+perficere; perficio; perfeci; prefectum,durchsetzen; vollenden,2,v
+ultimus; -a; -um,der letzte; der entferneste; der äußerste,2,x
+procedere; procedo; processi; processum,vorrücken; Fortschritte machen,2,v
+infestus; -a; -um,feindselig; kampfbereit,2,x
+humanus; -a; -um,menschlich; gebildet,2,x
+auris; auris; gen Pl aurium,das Ohr,1,s
+flumen; fluminis,der Fluss,1,s
+transire; transeo; transii; transitum (m Akk),hinübergehen; überquere; überschreiten,1,v
+Alpes transeo,ich überquere die Alpen,1,x
+perpetuus; -a; -um,ununterbrochen; dauerhaft; ewig,1,x
+undique,von überall her; von allen Seiten,1,x
+exire; exeo; exii; exitum,herausgehen; verlassen,1,v
+monumentum; -i n,das Denkmal; das Grabmal,1,s
