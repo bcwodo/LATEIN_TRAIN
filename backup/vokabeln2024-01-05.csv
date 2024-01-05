@@ -418,34 +418,34 @@ ponere; pono; posui; positum,setzen; legen (auf); stellen,9,v
 pauci; -ae; -a,wenige,9,x
 hora; -ae f,die Stunde,9,s
 saeculum; -i n,das Jahrhundert; das Zeitalter,9,s
-procul,in der Ferne; aus der Ferne; fern,10,x
-custodire; custodio,bewachen; beschützen,10,v
-interea,inzwischen,10,x
-profecto,in der Tat; tatsächlich,10,x
+procul,in der Ferne; aus der Ferne; fern,9,x
+custodire; custodio,bewachen; beschützen,9,v
+interea,inzwischen,9,x
+profecto,in der Tat; tatsächlich,9,x
 augere; augeo; auxi; auctum,vermehren; vergrößern,9,v
-leo; leonis,der Löwe,10,s
-annus,das Jahr,10,s
-gloria; -ae,der Ruhm; die Ehre,10,s
-ingens; ingentis,riesig; gewaltig,10,x
+leo; leonis,der Löwe,9,s
+annus,das Jahr,9,s
+gloria; -ae,der Ruhm; die Ehre,9,s
+ingens; ingentis,riesig; gewaltig,9,x
 celer; celeris; celere,schnell,9,x
-mortalis; mortale,sterblich; der Stebliche; der Mensch,10,x
-acer; acris; acre,scharf; heftig; wild,10,x
-omnis; omne,jeder; all; ganz,10,x
-incredibilis; incredibile,unglaublich,10,x
-mens; mentis,der Gesits; der Verstand,10,s
--que,und (nachgestellt),10,x
-quidem,zwar; freilich,10,x
+mortalis; mortale,sterblich; der Stebliche; der Mensch,9,x
+acer; acris; acre,scharf; heftig; wild,9,x
+omnis; omne,jeder; all; ganz,9,x
+incredibilis; incredibile,unglaublich,9,x
+mens; mentis,der Gesits; der Verstand,9,s
+-que,und (nachgestellt),9,x
+quidem,zwar; freilich,9,x
 nullus; - a; -um; Gen. nullius; Dat. nulli,kein,9,x
-immo,im Gegenteil; ja sogar,10,x
-ne...quidem,nicht einmal,10,x
-tollere; tollo; sustuli; sublatum,hochheben; aufheben; erheben; beseitigen; wegnehmen; vernichten,10,v
-demittere; demitto; demisi; dimissum,hinabschicken; sinken lassen,10,v
-lux; lucis,das Licht; das Tageslicht,10,s
-caput; capitis,das Haupt; der Kopf,10,s
-immortalis; immortale,unsterblich; der Unsterbliche; der Gott,10,s
-fatum; -i n ,das Schicksal; der Schicksalsspruch; der Götterspruch; das Verhängnis,10,s
-auxilium; -i,die hilfe,10,s
-ruere; ruo; rui,(sich) stürzen; eilen; rennen,10,v
+immo,im Gegenteil; ja sogar,9,x
+ne...quidem,nicht einmal,9,x
+tollere; tollo; sustuli; sublatum,hochheben; aufheben; erheben; beseitigen; wegnehmen; vernichten,9,v
+demittere; demitto; demisi; dimissum,hinabschicken; sinken lassen,9,v
+lux; lucis,das Licht; das Tageslicht,9,s
+caput; capitis,das Haupt; der Kopf,9,s
+immortalis; immortale,unsterblich; der Unsterbliche; der Gott,9,s
+fatum; -i n ,das Schicksal; der Schicksalsspruch; der Götterspruch; das Verhängnis,9,s
+auxilium; -i,die hilfe,9,s
+ruere; ruo; rui,(sich) stürzen; eilen; rennen,9,v
 cedere; cedo; cessi; cessum,(weg-) gehen; weichen; nachgeben,10,v
 valere; valeo,gesund sein; vermögen; Einfluss haben,9,v
 vale/valete,lebe wohl,10,x
@@ -465,7 +465,7 @@ necesse est,es ist nötig,10,x
 novus; -a; -um,neu; neuartig,10,x
 condere; condo; condidi,gründen; bestatten,10,v
 torquere; torqueo; torsi; tortum,foltern; quälen; drehen,10,v
-quoque,auch,10,x
+quoque,auch,9,x
 nox; noctis f; Gen Pl noctium,die Nacht,10,s
 multa nocte,tief in der Nacht,10,x
 prima nocte,zu begin der Nacht,10,x
@@ -490,9 +490,9 @@ infelix; infelicis,unglücklich,10,x
 superbus; -a; -um,hochmütig; stolz,10,x
 mox,bald; dann,10,x
 umbra; -ae,der Schatten,10,s
-inter,zwischen; während,10,x
+inter,zwischen; während,9,x
 vertere; verto; verti; versum,drehen; (um)wenden,10,v
--ne,unübersetztes Fragepartikel,10,x
+-ne,unübersetztes Fragepartikel,9,x
 iurare; iuro,schwören,10,x
 per deos iurare,bei den Göttern schwören,10,x
 lacrimas tenere,Tränen zurückhalten,10,x
@@ -523,7 +523,7 @@ aciem institutere,eine Schlachtreihe aufstellen,10,x
 alius; alia; aliud; gen. alterius; dat. alii,ein anderer; eine andere; ein anderes... (adjektiv),10,x
 alii...alii,die einen... die anderen...,10,x
 alius aliud facit,jeder macht etwas anderes,10,x
-accurrere; accurro; accucurri; accursum ,hinzulaufen; herbeieilen,10,v
+accurrere; accurro; accucurri; accursum ,hinzulaufen; herbeieilen,9,v
 mortuus; -a; -um,tot (adjektiv),10,x
 facies; faciei f,das Gesicht; das Aussehen,10,s
 facie cognoscrere,am Gesicht erkennen,10,x
@@ -537,7 +537,7 @@ nubes; nubis; gen.pl. nubium,die Wolke,10,s
 exclamare; exclamo,ausrufen; aufschreien,10,v
 protegere; protego; protexi; protectum,bedecken; schützen,10,v
 orationem habere,eine Rede halten,10,x
-pacem facere,Frieden schließen,10,x
+pacem facere,Frieden schließen,9,x
 auctoritas; auctoritatis f,das Ansehen; der Einfluss,10,s
 sperare; spero,hoffen; erhoffen,10,v
 lex; legis f,das Gesetz,10,s
@@ -949,24 +949,24 @@ os; ossis; Gel Pl ossium,der Knochen,9,s
 commovere; commoveo; commovi; commotum,bewegen; beunruhigen; veranlassen,9,v
 implere; impleo; implevi; impletum,anfüllen; erfüllen,9,v
 caedes; caedis; Gen Plu caedium,der Mord; das Blutbad,9,s
-virgo; virginis,die Jungfrau; die junge Frau; das Mädchen,10,s
-futurus; -a; -um,zukünftig; künftig,10,x
+virgo; virginis,die Jungfrau; die junge Frau; das Mädchen,9,s
+futurus; -a; -um,zukünftig; künftig,9,x
 futura; futororum n Pl // res futurae // rerum futurarum,die Zukunft,9,s
 ingenium; -i n,die Begabung; der Geist; der Charakter,9,s
 nex; necis f,der Mord; der (gewaltsame) Tod,9,s
 memor (m gen),eingedenk; in Erinnerung (an); (sich einer Sache) bewusst,9,x
 cupidus; -a; -um (m gen),gierig; begierig (nach),9,x
 conscius; -a; um (m gen),mitwissend; eingeweiht; sich bewsst; der Mitwisser,9,x
-ignarus; -a; um (m gen),unwissend; ohne wissen,10,x
+ignarus; -a; um (m gen),unwissend; ohne wissen,9,x
 iste; ista; istud,dieser; dieser da,9,x
-verus; -a; -um,echt; richtig; wahr,10,x
+verus; -a; -um,echt; richtig; wahr,9,x
 facile (Adv),einfach; leicht; mühelos,10,x
 currumpere; currumpo; corrupi; corruptum,verderben; bestechen,9,v
-adducere; adduco; adduxi; adductum,heranführen; veranlassen,10,v
+adducere; adduco; adduxi; adductum,heranführen; veranlassen,9,v
 appetere; appeto; appetivi; appetitum,begehren; anstreben; streben nach,10,v
 regina; ae,die Königin,10,s
 egregius; -a; -um,hervorragend; ausgezeichnet,10,x
-blandus; -a; -um,schmeichelnd; freundlich; angenehm,10,x
+blandus; -a; -um,schmeichelnd; freundlich; angenehm,9,x
 aedis; aedis f; gen pl. aedium,der Tempel; pl. das Haus,9,s
 tot (indekl),so viele,9,x
 interrogare; interrogo,fragen,9,v
@@ -987,7 +987,7 @@ praebere; preabeo,geben; gewähren,10,v
 Concedere; concedo; concessi; concessum,weichen; nachgeben; erlauben; zugestehen,10,v
 flagitium; -i n,die Schandtat; die Gemeinheit,10,s
 propter (m.Akk),wegen,10,x
-constituere; constituo; constitui; constitutum,aufstellen; festsetzten; einrichten; (m. inf) beschließen zu tun,10,v
+constituere; constituo; constitui; constitutum,aufstellen; festsetzten; einrichten; (m. inf) beschließen zu tun,9,v
 poenam constituere,eine strafe festsetzen,10,x
 Patrem quaerere constitui,ich habe beschlossen meinen Vater zu besuchen,10,x
 pes; pedis,der Fuß,10,s
@@ -1003,39 +1003,39 @@ familiaris; familiare,freundschaftlich; verwandt; Sub: der Freund; der Verwandte
 demum,endlich; erst,10,x
 pudor; pudoris m,die Scham; das Ehrgefühl; der Ansatand,10,s
 solus; -a; -um Gen solius Dat soli,einzig; alleine,10,x
-oppugnare; oppugno,angreifen,10,v
+oppugnare; oppugno,angreifen,9,v
 sepelire; sepelio; sepelivi; sepultum,bestatten,10,v
-corripere; corripio; corripui; correptum,packen; (gewaltsam) ergeifen,10,v
+corripere; corripio; corripui; correptum,packen; (gewaltsam) ergeifen,9,v
 vivus;- a;- um,lebend; lebendig; zu Lebzeiten,10,x
 campus; -i,das Feld,10,s
 ferus; -a; -um,wild,9,x
-statuere; statuo; statui; statutum,aufstellen; festsetzen; beschließen,10,v
+statuere; statuo; statui; statutum,aufstellen; festsetzen; beschließen,9,v
 contendere; contendo; contendi; contentum,sich anstrengen; kämpfen; eilen; mit AcI behaupten,10,v
 iuvare; iovo; iuvi; iutum,helfen; unterstutzen; erfreuen,10,v
 quando?,wann?,10,x
 humus; -i,die Erde; der Erdboden,10,s
 tegere; tego; texi; tectum,bedecken; schützen; verbergen,10,v
 praedicare; praedico,rühmen; vrkünden; predigen,10,v
-canis; canis,der Hund,10,s
-di,Götter (Nom/Vok pl),6,s
-classis; classis; gen Pl classium,die Flotte; die Abteilung,4,s
-subicere; subicio; subieci; subiectum,unterwerfen,4,v
-perficere; perficio; perfeci; prefectum,durchsetzen; vollenden,4,v
-ultimus; -a; -um,der letzte; der entferneste; der äußerste,4,x
-procedere; procedo; processi; processum,vorrücken; Fortschritte machen,4,v
-infestus; -a; -um,feindselig; kampfbereit,4,x
-humanus; -a; -um,menschlich; gebildet,4,x
-auris; auris; gen Pl aurium,das Ohr,3,s
-flumen; fluminis,der Fluss,3,s
-transire; transeo; transii; transitum (m Akk),hinübergehen; überquere; überschreiten,3,v
-Alpes transeo,ich überquere die Alpen,3,x
-perpetuus; -a; -um,ununterbrochen; dauerhaft; ewig,3,x
-undique,von überall her; von allen Seiten,2,x
-exire; exeo; exii; exitum,herausgehen; verlassen,2,v
-monumentum; -i n,das Denkmal; das Grabmal,3,s
-demonstrare; demonstro,zeigen; beweisen; (demonstrieren :-)),2,v
-invitus; -a; -um,unwillig; gegen den Willen,2,x
-res gestae; rerum gestarum f (Plural!),die Taten; die Geschichte,2,s
-equidem,(ich) allerdings; freilich,2,x
-sedes; sedis,der Sitz; der Wohnsitz,2,s
-aio; (ais; ait; aiunt),ich sage; ich behaupte,2,v
+canis; canis,der Hund,9,s
+di,Götter (Nom/Vok pl),5,s
+classis; classis; gen Pl classium,die Flotte; die Abteilung,3,s
+subicere; subicio; subieci; subiectum,unterwerfen,3,v
+perficere; perficio; perfeci; prefectum,durchsetzen; vollenden,3,v
+ultimus; -a; -um,der letzte; der entferneste; der äußerste,3,x
+procedere; procedo; processi; processum,vorrücken; Fortschritte machen,3,v
+infestus; -a; -um,feindselig; kampfbereit,3,x
+humanus; -a; -um,menschlich; gebildet,3,x
+auris; auris; gen Pl aurium,das Ohr,2,s
+flumen; fluminis,der Fluss,2,s
+transire; transeo; transii; transitum (m Akk),hinübergehen; überquere; überschreiten,2,v
+Alpes transeo,ich überquere die Alpen,2,x
+perpetuus; -a; -um,ununterbrochen; dauerhaft; ewig,2,x
+undique,von überall her; von allen Seiten,1,x
+exire; exeo; exii; exitum,herausgehen; verlassen,1,v
+monumentum; -i n,das Denkmal; das Grabmal,2,s
+demonstrare; demonstro,zeigen; beweisen; (demonstrieren :-)),1,v
+invitus; -a; -um,unwillig; gegen den Willen,1,x
+res gestae; rerum gestarum f (Plural!),die Taten; die Geschichte,1,s
+equidem,(ich) allerdings; freilich,1,x
+sedes; sedis,der Sitz; der Wohnsitz,1,s
+aio; (ais; ait; aiunt),ich sage; ich behaupte,1,v
