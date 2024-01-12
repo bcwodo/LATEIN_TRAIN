@@ -1,20 +1,20 @@
 Latein,Deutsch,Kartei,Wortart
 quis es?,Wer bist Du?; Wie heißt Du?,10,x
 Ego sum,Ich bin; ich heiße,9,x
-familia,die Familie,10,s
-servus,der Diener; der Sklave,10,s
+familia,die Familie,9,s
+servus,der Diener; der Sklave,9,s
 serva,die Dienerin; die Sklavin,9,s
-dominus,der Herr; der Hausherr,10,s
-domina,die Herrin; die Hausherrin,10,s
-negotium,das Geschäft (machen); die Aufgabe,10,s
-est,er/sie/es ist; es gibt,10,v
-amicus,der Freund,10,s
-et,und,10,x
-amica,die Freundin,10,s
-ubi,wo,10,x
+dominus,der Herr; der Hausherr,9,s
+domina,die Herrin; die Hausherrin,9,s
+negotium,das Geschäft (machen); die Aufgabe,9,s
+est,er/sie/es ist; es gibt,9,v
+amicus,der Freund,9,s
+et,und,9,x
+amica,die Freundin,9,s
+ubi,wo,9,x
 non,nicht,9,x
 hic,hier,9,x
-properare,eilen; sich beeilen,10,v
+properare,eilen; sich beeilen,9,v
 laborare,leiden; arbeiten,9,v
 clamare,(laut) rufen; schreien,9,v
 sedere; sedeo; sedi; sessum,sitzen; dasitzen,9,v
@@ -330,28 +330,28 @@ quam,als,9,x
 coniunx; coniugis,der Ehemann; die Ehefrau,9,s
 cena,Hauptmalzeit; Gastmahl,9,s
 clelebrare; celebro,feiern,9,v
-quia,weil,10,x
-susinere; sustineo,aushalten; ertragen,10,v
-nonne?,etwa nicht?,10,x
-placere; placeo,gefallen,10,v
+quia,weil,9,x
+susinere; sustineo,aushalten; ertragen,9,v
+nonne?,etwa nicht?,9,x
+placere; placeo,gefallen,9,v
 hospes; hospetis,der Gast; der Gastgeber,9,s
 fames; famis,der Hunger,10,s
 frater; fratris,der Bruder,10,s
 ecce!,sieh da! schaut!,10,x
 tam,so,10,x
-seavus; -a; um,wild; wütend; grimmig,10,x
+seavus; -a; um,wild; wütend; grimmig,9,x
 certare; certo,streiten; kämpfen,10,v
 quondam,einmal; einst,10,x
 instituere; instituo; institui; institutum,unterrichten; einführen; errichten,10,s
 pax; pacis,der Friede,10,s
-parcere; parco; peperci (mit Dat),verschonen; sparen,10,v
+parcere; parco; peperci (mit Dat),verschonen; sparen,9,v
 ira; -ae,der Zorn; die Wut,10,s
 mater; matris,die Mutter,10,S
 abesse; absum; afui,fort sein; weg sein; fehlen,10,v
 adesse; adsum; affui,da sein; helfen,10,v
 velle; volo; volui,wollen,10,v
 nolle; nolo; nolui,nicht wollen,10,v
-malle; malo; malui,lieber wollen,10,v
+malle; malo; malui,lieber wollen,9,v
 conspicere; conspicio; conspexi; conspectum,erblicken; sehen,10,v
 iter; itineris,die Reise; der Weg; der Marsch,10,s
 movere; moveo; movi; motum,bewegen; erregen,10,v
@@ -906,23 +906,23 @@ spiritus; spiritUs,der Atem; das Leben; der Lebensgeist,9,s
 membrum; i n,das (Körper-)Göied; Pl. die Gliedmaßen,9,s
 salus; salutis,die Rettung; das Wohl(ergehen); der Gruß,9,s
 reperire; reperio; repperi; repertum,finden; wiederfinden; entdecken,9,v
-crimen; criminis,das Verbrachen; ver Vorwurf; die Anklage,10,s
+crimen; criminis,das Verbrachen; ver Vorwurf; die Anklage,9,s
 vitium; -i n,der Fehler; das Laster; die schlechte Eigenschaft,9,s
-incolumis; incolume,heil; unversehrt,10,x
+incolumis; incolume,heil; unversehrt,9,x
 ignotus; -a; -um,unbekannt,9,x
-crimini dare (quod),zum Vorwurf machen (dass),10,x
+crimini dare (quod),zum Vorwurf machen (dass),9,x
 consulere; consulo; consului; consultum,(m Dat) sorgen für; (m Akk) um Rat fragen; (de) beraten (über),9,v
-prospicere; prospicio; prospexi; prospectum,(Dat) sorgen für; (Akk) vor sich erblicken; vorhersehen,10,v
-providere; provideo; providi; provisum,(Dat) sorgen für) (Akk) vorhersehen,10,v
+prospicere; prospicio; prospexi; prospectum,(Dat) sorgen für; (Akk) vor sich erblicken; vorhersehen,9,v
+providere; provideo; providi; provisum,(Dat) sorgen für) (Akk) vorhersehen,9,v
 communis; commune,allgemein; gemeinsam,10,x
 impius; -a; -um,gottlos; frevelhaft,10,x
 exitus; exitUs,der Ausgang; der Untergang,10,s
-quisnam; quidnam,wer denn? was denn?,10,x
-ater; atra; atrum,schwarz; finster,10,x
+quisnam; quidnam,wer denn? was denn?,9,x
+ater; atra; atrum,schwarz; finster,9,x
 albus; -a; -um,weiß,10,x
-luctus; luctUs,die Trauer,10,s
-quare,weswegen; deswegen,10,x
-praeceps; Gen praeciptis,Hals über Kopf; kopfüber; überstürtzt,10,x
+luctus; luctUs,die Trauer,9,s
+quare,weswegen; deswegen,9,x
+praeceps; Gen praeciptis,Hals über Kopf; kopfüber; überstürtzt,9,x
 arx; arcis f; gen pl arcium,die Burg,10,s
 universus; -a; -um,all; ganz;sämtlich,10,x
 acerbus; -a; -um,bitter; schmerzlich; rücksichtslos,10,x
@@ -1018,44 +1018,44 @@ tegere; tego; texi; tectum,bedecken; schützen; verbergen,10,v
 praedicare; praedico,rühmen; vrkünden; predigen,10,v
 canis; canis,der Hund,10,s
 di,Götter (Nom/Vok pl),10,s
-classis; classis; gen Pl classium,die Flotte; die Abteilung,9,s
-subicere; subicio; subieci; subiectum,unterwerfen,9,v
-perficere; perficio; perfeci; prefectum,durchsetzen; vollenden,9,v
-ultimus; -a; -um,der letzte; der entferneste; der äußerste,9,x
-procedere; procedo; processi; processum,vorrücken; Fortschritte machen,9,v
-infestus; -a; -um,feindselig; kampfbereit,9,x
-humanus; -a; -um,menschlich; gebildet,9,x
-auris; auris; gen Pl aurium,das Ohr,8,s
-flumen; fluminis,der Fluss,8,s
-transire; transeo; transii; transitum (m Akk),hinübergehen; überquere; überschreiten,8,v
-Alpes transeo,ich überquere die Alpen,8,x
-perpetuus; -a; -um,ununterbrochen; dauerhaft; ewig,8,x
-undique,von überall her; von allen Seiten,5,x
-exire; exeo; exii; exitum,herausgehen; verlassen,6,v
-monumentum; -i n,das Denkmal; das Grabmal,8,s
-demonstrare; demonstro,zeigen; beweisen; (demonstrieren :-)),7,v
-invitus; -a; -um,unwillig; gegen den Willen,7,x
-res gestae; rerum gestarum f (Plural!),die Taten; die Geschichte,7,s
-equidem,(ich) allerdings; freilich,7,x
-sedes; sedis,der Sitz; der Wohnsitz,7,s
+classis; classis; gen Pl classium,die Flotte; die Abteilung,8,s
+subicere; subicio; subieci; subiectum,unterwerfen,8,v
+perficere; perficio; perfeci; prefectum,durchsetzen; vollenden,8,v
+ultimus; -a; -um,der letzte; der entferneste; der äußerste,8,x
+procedere; procedo; processi; processum,vorrücken; Fortschritte machen,8,v
+infestus; -a; -um,feindselig; kampfbereit,8,x
+humanus; -a; -um,menschlich; gebildet,8,x
+auris; auris; gen Pl aurium,das Ohr,7,s
+flumen; fluminis,der Fluss,7,s
+transire; transeo; transii; transitum (m Akk),hinübergehen; überquere; überschreiten,7,v
+Alpes transeo,ich überquere die Alpen,7,x
+perpetuus; -a; -um,ununterbrochen; dauerhaft; ewig,7,x
+undique,von überall her; von allen Seiten,4,x
+exire; exeo; exii; exitum,herausgehen; verlassen,5,v
+monumentum; -i n,das Denkmal; das Grabmal,7,s
+demonstrare; demonstro,zeigen; beweisen; (demonstrieren :-)),6,v
+invitus; -a; -um,unwillig; gegen den Willen,6,x
+res gestae; rerum gestarum f (Plural!),die Taten; die Geschichte,6,s
+equidem,(ich) allerdings; freilich,6,x
+sedes; sedis,der Sitz; der Wohnsitz,6,s
 aio; (ais; ait; aiunt),ich sage; ich behaupte,5,v
-regius; -a; -um,königlich,6,x
-sanguis; sanguinis m,das Blut,6,s
-spargere; spargo; sparsi; sparsum,steuern; aussteuern; bespritzen,6,v
-inde,von dort; von da an; daher; daraufhin,6,x
-umquam,jemals,6,x
-talis; tale,"solche; von solcher Art; so beschaffen""",5,x
+regius; -a; -um,königlich,5,x
+sanguis; sanguinis m,das Blut,5,s
+spargere; spargo; sparsi; sparsum,steuern; aussteuern; bespritzen,5,v
+inde,von dort; von da an; daher; daraufhin,5,x
+umquam,jemals,5,x
+talis; tale,"solche; von solcher Art; so beschaffen""",4,x
 cupiditas; cupiditatis,die Begierde; das Verlangen; die Leidenschaft,1,s
-incedere; incedo; incessi; incensum,einherschreiten; eintreten,2,v
-Ceasar ut rex incedit,Caesar schreitet wie ein König (einher),2,x
+incedere; incedo; incessi; incensum,einherschreiten; eintreten,1,v
+Ceasar ut rex incedit,Caesar schreitet wie ein König (einher),1,x
 palam Adv. ,offen; öffentlich; offenkundig,1,x
-restare; resto; restiti; -,übrig bleiben; widerstehen,2,v
+restare; resto; restiti; -,übrig bleiben; widerstehen,1,v
 (id/hoc) restat. ut..., es fehlt noch. dass...,1,x
-pariter Adv.,in gleicher Weise,2,x
+pariter Adv.,in gleicher Weise,1,x
 pariter atque/ac,in gleicher Weise wie,1,x
-dignitas; dignitatis f,die Würde; das Ansehen,2,s
-qui; quae; quod,Welcher; welche; welches?,2,x
-(utrum)...an...?,...oder...?,2,x
-num (indirekte Frage),ob (indirekte Frage),2,x
-Rogo num veniat,ich frage ob es kommt,2,x
+dignitas; dignitatis f,die Würde; das Ansehen,1,s
+qui; quae; quod,Welcher; welche; welches?,1,x
+(utrum)...an...?,...oder...?,1,x
+num (indirekte Frage),ob (indirekte Frage),1,x
+Rogo num veniat,ich frage ob es kommt,1,x
 (utrum) ... an ...? (indirekte Frage),ob ... oder ... (indirekte Frage),1,x
