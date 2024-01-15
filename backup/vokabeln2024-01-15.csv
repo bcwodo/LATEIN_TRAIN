@@ -3,7 +3,7 @@ quis es?,Wer bist Du?; Wie heißt Du?,10,x
 Ego sum,Ich bin; ich heiße,9,x
 familia,die Familie,10,s
 servus,der Diener; der Sklave,10,s
-serva,die Dienerin; die Sklavin,10,s
+serva,die Dienerin; die Sklavin,9,s
 dominus,der Herr; der Hausherr,10,s
 domina,die Herrin; die Hausherrin,10,s
 negotium,das Geschäft (machen); die Aufgabe,10,s
@@ -13,18 +13,18 @@ et,und,10,x
 amica,die Freundin,10,s
 ubi,wo,10,x
 non,nicht,9,x
-hic,hier,10,x
+hic,hier,9,x
 properare,eilen; sich beeilen,10,v
-laborare,leiden; arbeiten,10,v
-clamare,(laut) rufen; schreien,10,v
-sedere; sedeo; sedi; sessum,sitzen; dasitzen,10,v
-gaudere,sich freuen; froh sein,10,v
-sunt,sie sind; es gibt/findet statt,10,x
-nam,denn ; nämlich,10,x
-etiam,auch ; sogar,10,x
+laborare,leiden; arbeiten,9,v
+clamare,(laut) rufen; schreien,9,v
+sedere; sedeo; sedi; sessum,sitzen; dasitzen,9,v
+gaudere,sich freuen; froh sein,9,v
+sunt,sie sind; es gibt/findet statt,9,x
+nam,denn ; nämlich,9,x
+etiam,auch ; sogar,9,x
 ibi,dort,9,x
 debere,müssen; schulden,9,v
-nunc,nun; jetzt,10,x
+nunc,nun; jetzt,9,x
 sed,aber; doch; sondern,9,x
 cur?,warum?,9,x
 otium,die Freizeit; die Ruhe; die Muße,9,s
@@ -324,12 +324,12 @@ clarus; -a; -um,berühmt; klar,9,x
 diu,lange (Zeit),9,x
 reprehendere; reprehendo; reprehendi; reprehensum,tadeln; kritisieren,9,v
 perdere; perdo; perdidi; perditum,vernichten; verlieren; umbringen; verderben,9,v
-sceleratus; -a; um,verbrecherisch; frevelhaft; subst: der Verbrecher,10,x
-magis,mehr,10,x
-quam,als,10,x
-coniunx; coniugis,der Ehemann; die Ehefrau,10,s
-cena,Hauptmalzeit; Gastmahl,10,s
-clelebrare; celebro,feiern,10,v
+sceleratus; -a; um,verbrecherisch; frevelhaft; subst: der Verbrecher,9,x
+magis,mehr,9,x
+quam,als,9,x
+coniunx; coniugis,der Ehemann; die Ehefrau,9,s
+cena,Hauptmalzeit; Gastmahl,9,s
+clelebrare; celebro,feiern,9,v
 quia,weil,10,x
 susinere; sustineo,aushalten; ertragen,10,v
 nonne?,etwa nicht?,10,x
@@ -899,7 +899,7 @@ namque,denn; nämlich,9,x
 coniugium; -i n,die Ehe,9,s
 quo,wohin; dorthin (rel. Satzanschluss),9,x
 illuc,dorthin,9,x
-interficere; interficio; interfeci; interfectum,töten; vernichten,10,v
+interficere; interficio; interfeci; interfectum,töten; vernichten,9,v
 una,zusammen,9,x
 tantum,nur,9,x
 spiritus; spiritUs,der Atem; das Leben; der Lebensgeist,9,s
@@ -907,11 +907,11 @@ membrum; i n,das (Körper-)Göied; Pl. die Gliedmaßen,9,s
 salus; salutis,die Rettung; das Wohl(ergehen); der Gruß,9,s
 reperire; reperio; repperi; repertum,finden; wiederfinden; entdecken,9,v
 crimen; criminis,das Verbrachen; ver Vorwurf; die Anklage,10,s
-vitium; -i n,der Fehler; das Laster; die schlechte Eigenschaft,10,s
+vitium; -i n,der Fehler; das Laster; die schlechte Eigenschaft,9,s
 incolumis; incolume,heil; unversehrt,10,x
-ignotus; -a; -um,unbekannt,10,x
+ignotus; -a; -um,unbekannt,9,x
 crimini dare (quod),zum Vorwurf machen (dass),10,x
-consulere; consulo; consului; consultum,(m Dat) sorgen für; (m Akk) um Rat fragen; (de) beraten (über),10,v
+consulere; consulo; consului; consultum,(m Dat) sorgen für; (m Akk) um Rat fragen; (de) beraten (über),9,v
 prospicere; prospicio; prospexi; prospectum,(Dat) sorgen für; (Akk) vor sich erblicken; vorhersehen,10,v
 providere; provideo; providi; provisum,(Dat) sorgen für) (Akk) vorhersehen,10,v
 communis; commune,allgemein; gemeinsam,10,x
@@ -1018,53 +1018,53 @@ tegere; tego; texi; tectum,bedecken; schützen; verbergen,10,v
 praedicare; praedico,rühmen; vrkünden; predigen,10,v
 canis; canis,der Hund,10,s
 di,Götter (Nom/Vok pl),10,s
-classis; classis; gen Pl classium,die Flotte; die Abteilung,10,s
+classis; classis; gen Pl classium,die Flotte; die Abteilung,9,s
 subicere; subicio; subieci; subiectum,unterwerfen,9,v
-perficere; perficio; perfeci; prefectum,durchsetzen; vollenden,10,v
-ultimus; -a; -um,der letzte; der entferneste; der äußerste,10,x
-procedere; procedo; processi; processum,vorrücken; Fortschritte machen,10,v
-infestus; -a; -um,feindselig; kampfbereit,10,x
-humanus; -a; -um,menschlich; gebildet,10,x
-auris; auris; gen Pl aurium,das Ohr,9,s
-flumen; fluminis,der Fluss,9,s
-transire; transeo; transii; transitum (m Akk),hinübergehen; überquere; überschreiten,9,v
-Alpes transeo,ich überquere die Alpen,9,x
-perpetuus; -a; -um,ununterbrochen; dauerhaft; ewig,9,x
-undique,von überall her; von allen Seiten,6,x
-exire; exeo; exii; exitum,herausgehen; verlassen,7,v
-monumentum; -i n,das Denkmal; das Grabmal,9,s
-demonstrare; demonstro,zeigen; beweisen; (demonstrieren :-)),8,v
-invitus; -a; -um,unwillig; gegen den Willen,8,x
-res gestae; rerum gestarum f (Plural!),die Taten; die Geschichte,8,s
-equidem,(ich) allerdings; freilich,8,x
-sedes; sedis,der Sitz; der Wohnsitz,8,s
-aio; (ais; ait; aiunt),ich sage; ich behaupte,6,v
-regius; -a; -um,königlich,7,x
-sanguis; sanguinis m,das Blut,7,s
-spargere; spargo; sparsi; sparsum,steuern; aussteuern; bespritzen,7,v
-inde,von dort; von da an; daher; daraufhin,7,x
-umquam,jemals,7,x
-talis; tale,"solche; von solcher Art; so beschaffen""",6,x
-cupiditas; cupiditatis,die Begierde; das Verlangen; die Leidenschaft,2,s
-incedere; incedo; incessi; incensum,einherschreiten; eintreten,3,v
-Ceasar ut rex incedit,Caesar schreitet wie ein König (einher),3,x
-palam Adv. ,offen; öffentlich; offenkundig,2,x
-restare; resto; restiti; -,übrig bleiben; widerstehen,3,v
-(id/hoc) restat. ut..., es fehlt noch. dass...,2,x
-pariter Adv.,in gleicher Weise,3,x
+perficere; perficio; perfeci; prefectum,durchsetzen; vollenden,9,v
+ultimus; -a; -um,der letzte; der entferneste; der äußerste,9,x
+procedere; procedo; processi; processum,vorrücken; Fortschritte machen,9,v
+infestus; -a; -um,feindselig; kampfbereit,9,x
+humanus; -a; -um,menschlich; gebildet,9,x
+auris; auris; gen Pl aurium,das Ohr,8,s
+flumen; fluminis,der Fluss,8,s
+transire; transeo; transii; transitum (m Akk),hinübergehen; überquere; überschreiten,8,v
+Alpes transeo,ich überquere die Alpen,8,x
+perpetuus; -a; -um,ununterbrochen; dauerhaft; ewig,8,x
+undique,von überall her; von allen Seiten,5,x
+exire; exeo; exii; exitum,herausgehen; verlassen,6,v
+monumentum; -i n,das Denkmal; das Grabmal,8,s
+demonstrare; demonstro,zeigen; beweisen; (demonstrieren :-)),7,v
+invitus; -a; -um,unwillig; gegen den Willen,7,x
+res gestae; rerum gestarum f (Plural!),die Taten; die Geschichte,7,s
+equidem,(ich) allerdings; freilich,7,x
+sedes; sedis,der Sitz; der Wohnsitz,7,s
+aio; (ais; ait; aiunt),ich sage; ich behaupte,5,v
+regius; -a; -um,königlich,6,x
+sanguis; sanguinis m,das Blut,6,s
+spargere; spargo; sparsi; sparsum,steuern; aussteuern; bespritzen,6,v
+inde,von dort; von da an; daher; daraufhin,6,x
+umquam,jemals,6,x
+talis; tale,"solche; von solcher Art; so beschaffen""",5,x
+cupiditas; cupiditatis,die Begierde; das Verlangen; die Leidenschaft,1,s
+incedere; incedo; incessi; incensum,einherschreiten; eintreten,2,v
+Ceasar ut rex incedit,Caesar schreitet wie ein König (einher),2,x
+palam Adv. ,offen; öffentlich; offenkundig,1,x
+restare; resto; restiti; -,übrig bleiben; widerstehen,2,v
+(id/hoc) restat. ut..., es fehlt noch. dass...,1,x
+pariter Adv.,in gleicher Weise,2,x
 pariter atque/ac,in gleicher Weise wie,1,x
 dignitas; dignitatis f,die Würde; das Ansehen,2,s
-qui; quae; quod,Welcher; welche; welches?,3,x
-(utrum)...an...?,...oder...?,3,x
-num (indirekte Frage),ob (indirekte Frage),3,x
-Rogo num veniat,ich frage ob es kommt,3,x
-(utrum) ... an ...? (indirekte Frage),ob ... oder ... (indirekte Frage),2,x
-circumdare; circumdo; circumdedi; circumdatum,umgeben; umzingeln,2,v
-ultro (adv),freiwillig; darüber hinaus,2,x
-despicere; despicio; despexi; despectum,herabsehen auf; verachten,2,v
-pudet; puduit,es beschämt (jemanden),2,v
-Me pudet sceleris,ich schäme mich fds Verbrechens,2,x
-dedere; dedo; dedidi; deditum,ausliefern; übergeben,2,v
+qui; quae; quod,Welcher; welche; welches?,2,x
+(utrum)...an...?,...oder...?,2,x
+num (indirekte Frage),ob (indirekte Frage),2,x
+Rogo num veniat,ich frage ob es kommt,2,x
+(utrum) ... an ...? (indirekte Frage),ob ... oder ... (indirekte Frage),1,x
+circumdare; circumdo; circumdedi; circumdatum,umgeben; umzingeln,1,v
+ultro (adv),freiwillig; darüber hinaus,1,x
+despicere; despicio; despexi; despectum,herabsehen auf; verachten,1,v
+pudet; puduit,es beschämt (jemanden),1,v
+Me pudet sceleris,ich schäme mich fds Verbrechens,1,x
+dedere; dedo; dedidi; deditum,ausliefern; übergeben,1,v
 se dedere,sich hingeben; sich widmen,1,x
-me fugit,es entgeht mir,2,x
+me fugit,es entgeht mir,1,x
 salutem dicere,grüßen; (bc: hallo sagen),1,x
