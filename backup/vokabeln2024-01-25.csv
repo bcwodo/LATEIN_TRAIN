@@ -193,7 +193,7 @@ supplicium,die Strafe; die Todesstrafe; die Hinrichtung; das Gebet,9,s
 populus; -i,das Volk,9,s
 exercere; exerceo,üben; trainieren,9,v
 medicus; -i,der Arzt,9,s
-carere; careo,entbehren; nicht haben; frei sein von,10,v
+carere; careo,entbehren; nicht haben; frei sein von,9,v
 ferrum,Eisen,9,s
 se,sich,9,x
 afficere; afficio; affeci (mit Abl.) ,versehen (mit),9,v
@@ -207,39 +207,39 @@ non solum sed etiam,nicht nur sondern auch,10,x
 recreare; recreo,erholen,10,v
 corpus; corporis,der Körper; der Leichnam,10,s
 raro,selten,10,x
-vulnus; vulneris,die Wunde,10,s
+vulnus; vulneris,die Wunde,9,s
 labor; laboris,die Arbeit; die Mühe,9,s
-domum,heim;  nach Hause,10,x
-decedere; decedo; decessi; decessum,weggehen; sterben,10,v
-vestis; vestis f; vestium,das Kleid; die Kleidung,10,s
-tunica,die Tunika,10,s
-toga,die Toga,10,s
-consul; -is m,der Konsul,10,s
+domum,heim;  nach Hause,9,x
+decedere; decedo; decessi; decessum,weggehen; sterben,9,v
+vestis; vestis f; vestium,das Kleid; die Kleidung,9,s
+tunica,die Tunika,9,s
+toga,die Toga,9,s
+consul; -is m,der Konsul,9,s
 currere; curro; cucurri; cursum,laufen; rennen,9,v
-habitare,wohnen; bewohnen,10,v
-stare; sto; steti,stehen; dastehen,10,v
-de,von...herab; von; über; um/wegen,10,x
-de amico narrare,vom Freund erzählen,10,x
-de amicis timere,um die Freunde angst haben,10,x
-ad (akk),zu (...hin); bei; an; nach,10,x
-per (akk),durch (...hindurch); über,10,x
-post (akk),nach; hinter,10,x
-e/ex (abl),aus; aus...heraus; von....her; seit,10,x
-super (akk),über,10,x
-cum (abl),mit,10,x
-sine,ohne,10,x
+habitare,wohnen; bewohnen,9,v
+stare; sto; steti,stehen; dastehen,9,v
+de,von...herab; von; über; um/wegen,9,x
+de amico narrare,vom Freund erzählen,9,x
+de amicis timere,um die Freunde angst haben,9,x
+ad (akk),zu (...hin); bei; an; nach,9,x
+per (akk),durch (...hindurch); über,9,x
+post (akk),nach; hinter,9,x
+e/ex (abl),aus; aus...heraus; von....her; seit,9,x
+super (akk),über,9,x
+cum (abl),mit,9,x
+sine,ohne,9,x
 in,(akk): in (...hinein); nach(...hin); gegen (wohin?) (abl): in an auf bei (wo),10,x
 sub,(akk) unter (wohin); (abl) unter (wo),10,x
 sermo; sermonis,das Gespräch; die Sprache,10,s
 abdere; abdo; abdidi; abditum,verstecken; verbergen,10,v
 oculus; -i,Auge,10,s
-amittere; amitto; amisi; amissum,verlieren,10,v
+amittere; amitto; amisi; amissum,verlieren,9,v
 vicus; -i,die Gasse; das Dorf,10,s
 plebs; plebis f,das (einfache) Volk,10,s
 pecunia; -ae,das Geld,10,s
 timor; timoris m,die Angst; die Furcht,10,s
 mutare; muto,ändern; verändern; verwandeln,10,v
-possidere; possideo; possedi; possessum,besitzen,10,v
+possidere; possideo; possedi; possessum,besitzen,9,v
 donum; -i,das Geschenk,10,s
 poena; -ae,die Strafe,10,s
 ponea/poenis afficere,bestrafen,10,x
@@ -882,22 +882,22 @@ inimicus; -a; -um,feindlich; (Sub) der Feind,9,x
 beneficium; - n,die Wohltat; die Gefälligkeit,9,s
 appellare; appello,ansprechen; benennen; (mit dopp. Akk.) nennen...als,9,v
 facinus; facinoris,die Tat; die Untat,9,s
-nefarius; -a; -um,frevelhaft; verbrecherisch,10,x
+nefarius; -a; -um,frevelhaft; verbrecherisch,9,x
 manere; maneo; mansi,bleiben; warten (auf); erwarten,9,v
-quantus; -a; um,wie groß; wie viel,10,x
+quantus; -a; um,wie groß; wie viel,9,x
 committere; committo; commisi; commissum,zusammenbringen; begehen; beginnen; anvertrauen,9,v
-scelus committere,ein Verbrechen begehen,10,x
+scelus committere,ein Verbrechen begehen,9,x
 proelium committere,eine Schlacht beginnen,9,x
-persuadere; persuadeo; persuasi; persuasum (m. Dat),(m. ut) überreden; (m. ACI) überzeugen,10,v
+persuadere; persuadeo; persuasi; persuasum (m. Dat),(m. ut) überreden; (m. ACI) überzeugen,9,v
 "idem; eadem, idem",derselbe; dieselbe; dasselbe,9,x
-accipere; accipio; accepi; acceptum,annehmen; empfangen; erhalten; vernehmen,10,v
+accipere; accipio; accepi; acceptum,annehmen; empfangen; erhalten; vernehmen,9,v
 reducere; reduco; reduxi; reductum,zurückführen,10,v
-addere; addo; addidi; additum,hinzufügen,10,v
+addere; addo; addidi; additum,hinzufügen,9,v
 sponte mea (tua sua nostra verstra sua),von selbst; freiwillig; auf eigenen Entschluss,10,x
 natura; -ae f,die Natur; das Wesen,10,s
 namque,denn; nämlich,10,x
-coniugium; -i n,die Ehe,10,s
-quo,wohin; dorthin (rel. Satzanschluss),10,x
+coniugium; -i n,die Ehe,9,s
+quo,wohin; dorthin (rel. Satzanschluss),9,x
 illuc,dorthin,10,x
 interficere; interficio; interfeci; interfectum,töten; vernichten,10,v
 una,zusammen,10,x
@@ -1045,35 +1045,33 @@ spargere; spargo; sparsi; sparsum,steuern; aussteuern; bespritzen,10,v
 inde,von dort; von da an; daher; daraufhin,10,x
 umquam,jemals,10,x
 talis; tale,"solche; von solcher Art; so beschaffen""",10,x
-cupiditas; cupiditatis,die Begierde; das Verlangen; die Leidenschaft,8,s
+cupiditas; cupiditatis,die Begierde; das Verlangen; die Leidenschaft,7,s
 incedere; incedo; incessi; incensum,einherschreiten; eintreten,9,v
 Ceasar ut rex incedit,Caesar schreitet wie ein König (einher),9,x
-palam Adv. ,offen; öffentlich; offenkundig,9,x
+palam Adv. ,offen; öffentlich; offenkundig,8,x
 restare; resto; restiti; -,übrig bleiben; widerstehen,9,v
-(id/hoc) restat. ut..., es fehlt noch. dass...,9,x
+(id/hoc) restat. ut..., es fehlt noch. dass...,8,x
 pariter Adv.,in gleicher Weise,9,x
-pariter atque/ac,in gleicher Weise wie,8,x
-dignitas; dignitatis f,die Würde; das Ansehen,9,s
+pariter atque/ac,in gleicher Weise wie,7,x
+dignitas; dignitatis f,die Würde; das Ansehen,8,s
 qui; quae; quod,Welcher; welche; welches?,9,x
 (utrum)...an...?,...oder...?,9,x
-num (indirekte Frage),ob (indirekte Frage),9,x
+num (indirekte Frage),ob (indirekte Frage),8,x
 Rogo num veniat,ich frage ob es kommt,9,x
-(utrum) ... an ...? (indirekte Frage),ob ... oder ... (indirekte Frage),9,x
-circumdare; circumdo; circumdedi; circumdatum,umgeben; umzingeln,9,v
-ultro (adv),freiwillig; darüber hinaus,9,x
-despicere; despicio; despexi; despectum,herabsehen auf; verachten,8,v
-pudet; puduit (mit Akk und Gen) ,es beschämt (jemanden),9,v
-Me pudet sceleris,ich schäme mich fds Verbrechens,9,x
-dedere; dedo; dedidi; deditum,ausliefern; übergeben,8,v
-se dedere,sich hingeben; sich widmen,7,x
-me fugit,es entgeht mir,8,x
-salutem dicere,grüßen; (bc: hallo sagen),8,x
-perspicere; perspicio; perspexi; perspectum,durchschauen; untersuchen; erkennen,3,v
-manifestus; -a; -um,offenbar; offenkundig,3,x
-occasio; occasionis,die Möglichkeit; die Gelegenheit,3,x
-liber; libera; liberum (mit Abl/a/ab mit Abl),frei (von),3,x
-multitudo; multitudinis f,die Vielzahl; die Menge,3,s
-memorare; memoro,(an etwas) erinnern; erwähnen; erzählen,3,v
-obicere; obicio; cbieci; obiectum,entgegenwerfen; vorwerfen,3,v
-contingere; contingo; contigi; cantactum,berühren; gelingen,2,v
-contigit ut,es gelingt/es glückt  dass,2,x
+(utrum) ... an ...? (indirekte Frage),ob ... oder ... (indirekte Frage),8,x
+circumdare; circumdo; circumdedi; circumdatum,umgeben; umzingeln,8,v
+ultro (adv),freiwillig; darüber hinaus,8,x
+despicere; despicio; despexi; despectum,herabsehen auf; verachten,7,v
+pudet; puduit (mit Akk und Gen) ,es beschämt (jemanden),8,v
+Me pudet sceleris,ich schäme mich fds Verbrechens,8,x
+dedere; dedo; dedidi; deditum,ausliefern; übergeben,7,v
+se dedere,sich hingeben; sich widmen,6,x
+me fugit,es entgeht mir,7,x
+salutem dicere,grüßen; (bc: hallo sagen),7,x
+perspicere; perspicio; perspexi; perspectum,durchschauen; untersuchen; erkennen,2,v
+manifestus; -a; -um,offenbar; offenkundig,2,x
+occasio; occasionis,die Möglichkeit; die Gelegenheit,2,x
+liber; libera; liberum (mit Abl/a/ab mit Abl),frei (von),2,x
+multitudo; multitudinis f,die Vielzahl; die Menge,2,s
+memorare; memoro,(an etwas) erinnern; erwähnen; erzählen,2,v
+obicere; obicio; cbieci; obiectum,entgegenwerfen; vorwerfen,2,v
