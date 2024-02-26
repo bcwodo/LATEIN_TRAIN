@@ -595,31 +595,31 @@ honestus; -a; -um,ehrenhaft; tapfer,10,x
 neque/nec,und nicht; auch nicht,10,x
 neque...neque / nec...nec,weder... noch,10,x
 nobilis; nobile,vornehm; adelig; berühmt,10,x
-exstinquere; exstinguo; exstinxi; exstinctum,auslöchen; löschen; vernichten,11,v
+exstinquere; exstinguo; exstinxi; exstinctum,auslöchen; löschen; vernichten,10,v
 parere; pario; peperi; partum,zur Welt bringen; erzeugen; erwerben,10,v
 flectere; flecto; flexi; flexum,biegen; beugen; umstimmen,10,v
-hic; haec; hoc,dieser (hier); diese (hier); dieses (hier),11,x
-ille; illa; illud,jener; jene; jenes,11,x
+hic; haec; hoc,dieser (hier); diese (hier); dieses (hier),10,x
+ille; illa; illud,jener; jene; jenes,10,x
 mandare; mando,übergeben; anvertrauen; auftragen,10,v
-dux; ducis m/f,der Anführer / die Anführerin,11,s
+dux; ducis m/f,der Anführer / die Anführerin,10,s
 caedere; ceado; cecidi; caesum,fällen; niederschlagen; töten,10,v
-alter; altera; alterum; gen alterius dat alteri,der eine (von beiden) ; der andere,11,x
-alter...alter,der eine...der andere...,11,x
-nuntiare; nuntio,melden; mitteilen,11,v
-femina; feminae,die Frau,11,s
-castra; -orum n Pl,das Lager; das Kriegslager,11,s
-comes; comitis,der/die Gefährte*in; der/die Begleiter*in,11,s
-nisi,wenn nicht; außer,11,x
+alter; altera; alterum; gen alterius dat alteri,der eine (von beiden) ; der andere,10,x
+alter...alter,der eine...der andere...,10,x
+nuntiare; nuntio,melden; mitteilen,10,v
+femina; feminae,die Frau,10,s
+castra; -orum n Pl,das Lager; das Kriegslager,10,s
+comes; comitis,der/die Gefährte*in; der/die Begleiter*in,10,s
+nisi,wenn nicht; außer,10,x
 non...nisi,nur ...wenn,10,x
-an (im Fragesatz),oder (im Fragesatz),11,x
-aspicere; aspicio; aspexi; aspectum,ansehen; erblicken,11,v
-intra,innerhalb,11,x
-odium; -i n,der Hass,11,s
-numerus; -i,die Zahl; dei Anzahl,11,s
-pugna; -ae f,der Kampf; die Schlacht,11,s
-magnitudo; magnitudinis f,die Größe; die Erhabenheit,11,s
-tacitus; -a; um,schweigend; still (adjktiv),11,x
-elephantus; -i m,der Elefant,11,s
+an (im Fragesatz),oder (im Fragesatz),10,x
+aspicere; aspicio; aspexi; aspectum,ansehen; erblicken,10,v
+intra,innerhalb,10,x
+odium; -i n,der Hass,10,s
+numerus; -i,die Zahl; dei Anzahl,10,s
+pugna; -ae f,der Kampf; die Schlacht,10,s
+magnitudo; magnitudinis f,die Größe; die Erhabenheit,10,s
+tacitus; -a; um,schweigend; still (adjktiv),10,x
+elephantus; -i m,der Elefant,10,s
 fuga; -ae f,die Flucht,10,s
 litus; litoris,der Strand; die Küste,10,s
 salvus; -a; -um,heil; unversehrt,10,x
@@ -635,18 +635,18 @@ transcendere; transcendo; transcendi; transcensum,hinübergehen; überqueren,11,
 colligere; colligo; collegi; collectum,sammeln,11,v
 eques; equitis m,der Reiter; der ritter,11,s
 utilis; utile,nützlich,11,x
-onus; oneris n,die Last,11,s
+onus; oneris n,die Last,10,s
 portare; porto,"tragen, bringen",10,v
-ubi (sugj),sobald,11,x
-auxilium negare,die Hilfe verweigern,11,x
-übertreffen,superare (mit Abl.),11,v
-imperator; imperatoris,der Feldherr; der Kaiser,11,s
+ubi (sugj),sobald,10,x
+auxilium negare,die Hilfe verweigern,10,x
+übertreffen,superare (mit Abl.),10,v
+imperator; imperatoris,der Feldherr; der Kaiser,10,s
 excitare; excito,auntreiben; erregen; ermuntern; aufwecken,10,v
 imperium; -i,der Befehl; die Herrschaft; das Reich,11,s
 finis; finis; gen.pl. finium,das Ende; die Grenze; das Zeil; Pl. das Gebiet,11,s
 perterrere; perterreo,(jemanden) heftig erschrecken; einschüchtern,11,v
 occidere (langes i); occido; occidi; occisum,niederschlagen; töten,11,v
-praeesse; praesum; praefui (mit Dativ); [exercitui praeest],an der Spitze stehen; leiten; [das Herr leiten],11,v
+praeesse; praesum; praefui (mit Dativ); [exercitui praeest],an der Spitze stehen; leiten; [das Herr leiten],10,v
 animadvertere; animadverto; animadverti; animadversum,wahrnehmen; bemerken (in m. Akk); vorgehen gegen; einschreiten,11,v
 inquam; inquis; inquit; inquiunt,sagte ich; du; er; sie; es; sagten sie,11,x
 agmen; agminis n,der Heereszug; die Schar,11,s
@@ -776,23 +776,23 @@ apud ...dies noctesque / ...sub monte,bei Tag und Nacht // am Fuß des Berges,11
 corona; -ae f,der Kranz,11,s
 laurus; -i f !!,der Lorbeer(baum),11,s
 mundus; -i m,das Weltall; die Welt,11,s
-evenire; evenio; eveni; eventum,geschehen; sich ereignen,11,v
+evenire; evenio; eveni; eventum,geschehen; sich ereignen,10,v
 evenit; evEnit,es geschieht; es ereignet sich,11,x
 unda; -ae f,die Welle; die Wogen,11,s
-primum,zuerst; erstmals; zum ersten Mal,11,x
+primum,zuerst; erstmals; zum ersten Mal,10,x
 solere; soleo,gewohnt sein; pflegen zu tun,10,v
-cogitare; cogito,(nach) denken; beabsichtigen (zu tun),11,v
-puellam cogitare,an das Mädchen denken,11,x
-secum cogitare,bei sich denken; im Stillen denken,11,x
+cogitare; cogito,(nach) denken; beabsichtigen (zu tun),10,v
+puellam cogitare,an das Mädchen denken,10,x
+secum cogitare,bei sich denken; im Stillen denken,10,x
 respicere; respicio; respexi; respectum,zurückblicken auf; berücksichtigen,11,v
-convertere; converto; converti; conversum,wenden; verwandeln; (ver)ändern,11,v
-cum (m. Ind.),(damals) als; (dann) wenn; (immer) wenn; als (plötzlich); sobald,11,x
-cum (primum); ubi (primum); ut (primum) (m Ind Perf),sobald,11,x
-quod,weil; dass,11,x
-quiescere; quiesco; quievi; -,ruhen; sich ausruhen,11,v
-bos; bovis,das Rind; der Ochse; die Kuh,11,s
-taurus,der Stier,11,s
-ludere; ludo; lusi; lusum,speilen,11,v
+convertere; converto; converti; conversum,wenden; verwandeln; (ver)ändern,10,v
+cum (m. Ind.),(damals) als; (dann) wenn; (immer) wenn; als (plötzlich); sobald,10,x
+cum (primum); ubi (primum); ut (primum) (m Ind Perf),sobald,10,x
+quod,weil; dass,10,x
+quiescere; quiesco; quievi; -,ruhen; sich ausruhen,10,v
+bos; bovis,das Rind; der Ochse; die Kuh,10,s
+taurus,der Stier,10,s
+ludere; ludo; lusi; lusum,speilen,10,v
 quoniam,weil ja; da ja,10,x
 considere; consido; consedi; consessum,sich setzen; sich niederlassen,10,v
 tergum; i n,der Rücken,10,s
@@ -1082,26 +1082,26 @@ improbus; -a; um,schlecht; unanständig; niederträchtig,10,x
 deesse; desum; defui,fehlen,10,v
 gemitus; gemitUs,das Seifzen; das Stöhnen,10,s
 avertere; averto; averti; aversum,abwenden; fernhalten,10,v
-conspectus; -Us m,der Anblick; das Blickfeld,5,s
-simulacrum; -i,das Bild; das Götterbild; die Götterstatue,4,s
-legio; legionis,die Legion,5,s
-inferre; infero; intuli; illatum,hineintragen; einflößen,5,v
-ferre; fero; tuli; latum,tragen; bringen; ertragen,5,v
-conferre; confero; contuli; collatum,zusammentragen; zusammenbringen; vergleichen,5,v
-auferre; aufero; abstuli; ablatum,wegtragen; wegbringen; wegnehmen,4,v
-afferre; affeto; attuli; allatum,herbeibringen; bringen; melden,2,v
-referre; refero; rettuli; relatum,zurückbringen; berichten,5,v
-imago; imaginis,des Bild; das Gemälde,5,s
-varius; -a; -um,vielfältig; verschieden; bunt,4,x
-perferre; perfero; pertuli; perlatum,überbringen; ertragen,5,v
-longus; -a; -um,lang,4,
-ordo; ordinis,die Ordnung; die Reihe; der (gesellschaftliche) Stand,4,s
-sinus; sunUs,der Bogen; die bucht; die Brust,5,s
-felix; felicis,glücklich; erfolgreich,2,x
+conspectus; -Us m,der Anblick; das Blickfeld,4,s
+simulacrum; -i,das Bild; das Götterbild; die Götterstatue,3,s
+legio; legionis,die Legion,4,s
+inferre; infero; intuli; illatum,hineintragen; einflößen,4,v
+ferre; fero; tuli; latum,tragen; bringen; ertragen,4,v
+conferre; confero; contuli; collatum,zusammentragen; zusammenbringen; vergleichen,4,v
+auferre; aufero; abstuli; ablatum,wegtragen; wegbringen; wegnehmen,3,v
+afferre; affeto; attuli; allatum,herbeibringen; bringen; melden,1,v
+referre; refero; rettuli; relatum,zurückbringen; berichten,4,v
+imago; imaginis,des Bild; das Gemälde,4,s
+varius; -a; -um,vielfältig; verschieden; bunt,3,x
+perferre; perfero; pertuli; perlatum,überbringen; ertragen,4,v
+longus; -a; -um,lang,3,
+ordo; ordinis,die Ordnung; die Reihe; der (gesellschaftliche) Stand,3,s
+sinus; sunUs,der Bogen; die bucht; die Brust,4,s
+felix; felicis,glücklich; erfolgreich,1,x
 probare; probo,billigen; für gut befinden; prüfen,1,v
-diligens; Gen diligentis,sorgfältig; gewissenhaft,2,x
-dignus; -a; -um,würdig; wert,2,x
-amplus; -a; -um,weit; geräumig; bedeutend,2,x
-opus; operis,das Werk; die Arbeit,2,s
-visere; viso; visi,besuchen; besichtigen,2,v
-natio; nationis,da Volk; der Volksstamm,2,s
+diligens; Gen diligentis,sorgfältig; gewissenhaft,1,x
+dignus; -a; -um,würdig; wert,1,x
+amplus; -a; -um,weit; geräumig; bedeutend,1,x
+opus; operis,das Werk; die Arbeit,1,s
+visere; viso; visi,besuchen; besichtigen,1,v
+natio; nationis,da Volk; der Volksstamm,1,s
