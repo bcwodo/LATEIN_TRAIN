@@ -557,12 +557,12 @@ finitimus; -a; -um,benachbart; Subst. der Nachbar,10,x
 pietas; pietatis,die Frömmigkeit; das Pflichtgefühl; das Verantwortungsbewusstsein,10,s
 humanitats; humanitatis,die Menschlichkeit; die Bildung,10,s
 lacus; lacUs m,der See,10,s
-situs; -a; -um,gelegen,11,x
-minister; ministri m,der Diener,11,s
-nympha; -ae,die Nymphe,11,s
-divus; -a; -um,göttlich,11,x
-cinis; cineris m,die Asche,11,s
-villa; -ae f,die Villa; das Landhaus,11,s
+situs; -a; -um,gelegen,10,x
+minister; ministri m,der Diener,10,s
+nympha; -ae,die Nymphe,10,s
+divus; -a; -um,göttlich,10,x
+cinis; cineris m,die Asche,10,s
+villa; -ae f,die Villa; das Landhaus,10,s
 avunculus; -i m,der Onkel,10,s
 liber; libri,das Buch,10,s
 publicus; -a; -um,öffentlich; staatlich,10,x
@@ -570,7 +570,7 @@ postea,nachher; später,10,x
 regere; rego; rexi; rectum,lenken; leiten; beherrschen,10,v
 civis; civis; m/f; genPl civium,der Bürger; die Bürgerin,10,s
 opprimere; opprimo; oppressi; oppressum,überfallen; überwältigen; unterdrücken,10,v
-servitus; servitutis f,die Sklaverei,11,s
+servitus; servitutis f,die Sklaverei,10,s
 pellere; pello; pepuli; pulsum,schlagen; stoßen; treiben; vertreiben,10,v
 numquam,niemals,10,x
 adiuvare; adiuvo; adiuvi; adiutum,helfen; unterstützen,10,v
@@ -580,23 +580,23 @@ vel,oder,10,x
 vel... vel,entweder ... oder,10,x
 stultus; -a; -um,dumm,10,x
 insidae; -arum Pl.,der Hinterhalt; die Falle,10,s
-promittere; promitto; promisi,versprechen,11,v
+promittere; promitto; promisi,versprechen,10,v
 fere,fast; ungefähr,10,x
 orbis; orbis; GenPl orbium,der Kreis; die Scheibe,10,s
 velut,wie; wie zum Beispiel,10,x
 ignoscere; ignosco; ignovi,verzeihen,10,v
-modo,nur; eben noch; gerade,11,x
-exilium; -i,die Verbannung; das Exil,11,s
+modo,nur; eben noch; gerade,10,x
+exilium; -i,die Verbannung; das Exil,10,s
 restitutere; restituo; restitui; restitutum,wiederharstellen,11,v
-magistratus; magistratUs m,der Beamte; das Amt,11,s
-moenia; moenium n Pl,die Mauer(n); die Stadtmauer(n),11,s
+magistratus; magistratUs m,der Beamte; das Amt,10,s
+moenia; moenium n Pl,die Mauer(n); die Stadtmauer(n),10,s
 fortis; forte,tapfer; stark; tatkräftig,10,x
 honestus; -a; -um,ehrenhaft; tapfer,10,x
 neque/nec,und nicht; auch nicht,10,x
-neque...neque / nec...nec,weder... noch,11,x
+neque...neque / nec...nec,weder... noch,10,x
 nobilis; nobile,vornehm; adelig; berühmt,11,x
 exstinquere; exstinguo; exstinxi; exstinctum,auslöchen; löschen; vernichten,11,v
-parere; pario; peperi; partum,zur Welt bringen; erzeugen; erwerben,11,v
+parere; pario; peperi; partum,zur Welt bringen; erzeugen; erwerben,10,v
 flectere; flecto; flexi; flexum,biegen; beugen; umstimmen,11,v
 hic; haec; hoc,dieser (hier); diese (hier); dieses (hier),11,x
 ille; illa; illud,jener; jene; jenes,11,x
@@ -796,7 +796,7 @@ ludere; ludo; lusi; lusum,speilen,11,v
 quoniam,weil ja; da ja,11,x
 considere; consido; consedi; consessum,sich setzen; sich niederlassen,11,v
 tergum; i n,der Rücken,11,s
-surgere; surgo; surrexi; surrectum,aufstehen; siche erheben,11,v
+surgere; surgo; surrexi; surrectum,aufstehen; siche erheben,10,v
 dext(e)r; dext(e)ra; dext(e)rum,rechts,11,x
 dext(e)ra; -ae f,die rechte Hand,11,s
 cornu; cornUs n ,das Horn; der Heeresflügel,11,s
@@ -806,16 +806,16 @@ dum haec geruntur,währendessen,11,x
 insula; -ae f,die Insel; des (mehrstöckige) Mietshaus,11,s
 spes; spei f,die Hoffnung; die Erwartung,11,s
 spem deponere,die Hoffnung aufgeben,11,x
-cavere; caveo; cavi; cautum,sich hüten (vor) sich in Acht nehmen (vor),11,v
-cave bestiam!,Hüte dich vor dem wilden Tier!,11,x
-crescere; cresco; crevi; -,wachsen; zunehmen,11,v
+cavere; caveo; cavi; cautum,sich hüten (vor) sich in Acht nehmen (vor),10,v
+cave bestiam!,Hüte dich vor dem wilden Tier!,10,x
+crescere; cresco; crevi; -,wachsen; zunehmen,10,v
 adeo,so sehr,10,x
 impedire; impedio (a/ab),hindern; verhindern,10,v
-at,aber; jedoch,11,x
-aut,oder,11,x
-aut...aut,etweder---oder,11,x
-medius; -a; -um,der mittlere,11,x
-ut (m. Konj.),dass; sodass; damit,11,x
+at,aber; jedoch,10,x
+aut,oder,10,x
+aut...aut,etweder---oder,10,x
+medius; -a; -um,der mittlere,10,x
+ut (m. Konj.),dass; sodass; damit,10,x
 ne (m. Konj.),dass nicht; damit nicht; um nicht--zu,10,x
 desiderare; desidero,sich sehnen nach; vermissen; (m.Inf.) ersehnen (zu tun),10,v
 decernere; decerno; decrevi; decretum,beschließen; entscheiden,10,v
@@ -1082,32 +1082,32 @@ improbus; -a; um,schlecht; unanständig; niederträchtig,10,x
 deesse; desum; defui,fehlen,10,v
 gemitus; gemitUs,das Seifzen; das Stöhnen,10,s
 avertere; averto; averti; aversum,abwenden; fernhalten,10,v
-conspectus; -Us m,der Anblick; das Blickfeld,6,s
-simulacrum; -i,das Bild; das Götterbild; die Götterstatue,6,s
-legio; legionis,die Legion,7,s
+conspectus; -Us m,der Anblick; das Blickfeld,5,s
+simulacrum; -i,das Bild; das Götterbild; die Götterstatue,5,s
+legio; legionis,die Legion,6,s
 inferre; infero; intuli; illatum,hineintragen; einflößen,6,v
-ferre; fero; tuli; latum,tragen; bringen; ertragen,7,v
-conferre; confero; contuli; collatum,zusammentragen; zusammenbringen; vergleichen,7,v
-auferre; aufero; abstuli; ablatum,wegtragen; wegbringen; wegnehmen,6,v
-afferre; affeto; attuli; allatum,herbeibringen; bringen; melden,4,v
-referre; refero; rettuli; relatum,zurückbringen; berichten,7,v
-imago; imaginis,des Bild; das Gemälde,7,s
-varius; -a; -um,vielfältig; verschieden; bunt,6,x
-perferre; perfero; pertuli; perlatum,überbringen; ertragen,7,v
-longus; -a; -um,lang,6,
-ordo; ordinis,die Ordnung; die Reihe; der (gesellschaftliche) Stand,6,s
-sinus; sunUs,der Bogen; die bucht; die Brust,7,s
-felix; felicis,glücklich; erfolgreich,4,x
-probare; probo,billigen; für gut befinden; prüfen,3,v
-diligens; Gen diligentis,sorgfältig; gewissenhaft,3,x
-dignus; -a; -um,würdig; wert,3,x
-amplus; -a; -um,weit; geräumig; bedeutend,3,x
-opus; operis,das Werk; die Arbeit,4,s
-visere; viso; visi,besuchen; besichtigen,4,v
-natio; nationis,da Volk; der Volksstamm,4,s
+ferre; fero; tuli; latum,tragen; bringen; ertragen,6,v
+conferre; confero; contuli; collatum,zusammentragen; zusammenbringen; vergleichen,6,v
+auferre; aufero; abstuli; ablatum,wegtragen; wegbringen; wegnehmen,5,v
+afferre; affeto; attuli; allatum,herbeibringen; bringen; melden,3,v
+referre; refero; rettuli; relatum,zurückbringen; berichten,6,v
+imago; imaginis,des Bild; das Gemälde,6,s
+varius; -a; -um,vielfältig; verschieden; bunt,5,x
+perferre; perfero; pertuli; perlatum,überbringen; ertragen,6,v
+longus; -a; -um,lang,5,
+ordo; ordinis,die Ordnung; die Reihe; der (gesellschaftliche) Stand,5,s
+sinus; sunUs,der Bogen; die bucht; die Brust,6,s
+felix; felicis,glücklich; erfolgreich,3,x
+probare; probo,billigen; für gut befinden; prüfen,2,v
+diligens; Gen diligentis,sorgfältig; gewissenhaft,2,x
+dignus; -a; -um,würdig; wert,2,x
+amplus; -a; -um,weit; geräumig; bedeutend,2,x
+opus; operis,das Werk; die Arbeit,3,s
+visere; viso; visi,besuchen; besichtigen,3,v
+natio; nationis,da Volk; der Volksstamm,3,s
 aetas; aetatis,das Lebensalter; das Zeitalter; die Zeit,1,s
-frons; frontis,die Vorderseite; die Stirn,2,s
-sacer; sacra; sacrum,heilig,2,x
-cella; -ae,die Kammer; das Tempelinnere,2,s
-placidus;- a; -um,sanft; ruhig; friedlich,2,x
-latus; -a; -um,breit; weit; ausgedehnt,2,x
+frons; frontis,die Vorderseite; die Stirn,1,s
+sacer; sacra; sacrum,heilig,1,x
+cella; -ae,die Kammer; das Tempelinnere,1,s
+placidus;- a; -um,sanft; ruhig; friedlich,1,x
+latus; -a; -um,breit; weit; ausgedehnt,1,x
