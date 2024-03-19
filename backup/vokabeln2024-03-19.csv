@@ -461,37 +461,37 @@ sui; -orum m (pl),die Seine; die Ihre,10,x
 soror; sororis,die Schwester,10,s
 permittere; permitto; permisi; permissum,erlauben; überlassen,10,v
 prohibere; prohibeo,abhalten (von); hindern (an); verhindern,10,v
-necesse est,es ist nötig,11,x
-novus; -a; -um,neu; neuartig,11,x
-condere; condo; condidi,gründen; bestatten,11,v
-torquere; torqueo; torsi; tortum,foltern; quälen; drehen,11,v
+necesse est,es ist nötig,10,x
+novus; -a; -um,neu; neuartig,10,x
+condere; condo; condidi,gründen; bestatten,10,v
+torquere; torqueo; torsi; tortum,foltern; quälen; drehen,10,v
 quoque,auch,10,x
-nox; noctis f; Gen Pl noctium,die Nacht,11,s
-multa nocte,tief in der Nacht,11,x
-prima nocte,zu begin der Nacht,11,x
-ardere; ardeo; arsi,brennen; glühen,11,v
-capere; capio; cepi; captum,nehmen; fangen; ergreifen; einnehmen,11,v
+nox; noctis f; Gen Pl noctium,die Nacht,10,s
+multa nocte,tief in der Nacht,10,x
+prima nocte,zu begin der Nacht,10,x
+ardere; ardeo; arsi,brennen; glühen,10,v
+capere; capio; cepi; captum,nehmen; fangen; ergreifen; einnehmen,10,v
 patria; -ae f,das Vaterland; die Heimat,10,s
-mare; maris; (Abl. S mari / Nom Akk Pl maria / Gen Pl marium),das Meer,11,s
-errare; erro,sich irren; (umher)irren,11,v
-ante,vor,11,x
-lacrima; -ae,die Träne,11,s
-pius; -a ; -um,fromm; verantwortungsbewusst; pflichtbewusst,11,
-nullo modo,auf keine Weise,11,x
-mai; -orum m (Pl),die Meinen; meine Leute,11,s
-et...et,sowohl... als auch,11,x
+mare; maris; (Abl. S mari / Nom Akk Pl maria / Gen Pl marium),das Meer,10,s
+errare; erro,sich irren; (umher)irren,10,v
+ante,vor,10,x
+lacrima; -ae,die Träne,10,s
+pius; -a ; -um,fromm; verantwortungsbewusst; pflichtbewusst,10,
+nullo modo,auf keine Weise,10,x
+mai; -orum m (Pl),die Meinen; meine Leute,10,s
+et...et,sowohl... als auch,10,x
 ex eo tempore,seit dieser Zeit,11,x
-de vita decedere,aus dem Leben scheiden,11,x
+de vita decedere,aus dem Leben scheiden,10,x
 in mentem venire,in den sinn kommen,11,x
 prima luce,bei Tagesanbruch,11,x
 causa; -ae,der Grund; die Ursache; der Fall; der (Gerichts-)Prozess,11,s
 ceteri; -ae; -a,die übrigen; die andren,11,x
 infelix; infelicis,unglücklich,11,x
-superbus; -a; -um,hochmütig; stolz,11,x
+superbus; -a; -um,hochmütig; stolz,10,x
 mox,bald; dann,11,x
 umbra; -ae,der Schatten,11,s
 inter,zwischen; während,11,x
-vertere; verto; verti; versum,drehen; (um)wenden,11,v
+vertere; verto; verti; versum,drehen; (um)wenden,10,v
 -ne,unübersetztes Fragepartikel,11,x
 iurare; iuro,schwören,11,x
 per deos iurare,bei den Göttern schwören,11,x
@@ -516,7 +516,7 @@ res; rei f,die Sache; das Ding; die Angelegenheit,11,s
 dies; diei m,der Tag,11,s
 fides; fidei f,das Vertrauen; die Treue; die Zuverlässigkeit,11,s
 fidem dare,sein Wort geben,11,x
-fidem habere,Vertrauen schenken,11,x
+fidem habere,Vertrauen schenken,10,x
 acies; aciei f,die Schärfe; der Scharfsinn; die Schlachtreihe,11,s
 acies mentis,der Scharfsinn; die Aufmerksamkeit (bc: die Schärfe des Gesites),11,x
 aciem institutere,eine Schlachtreihe aufstellen,11,x
@@ -854,28 +854,28 @@ musica; -ae,die Musik,11,v
 pellis; pellis f; GenPl pellium,das Fell; das Vlies,11,s
 barbarus; -a;-um,fremd; barbarisch; Subst. der Barbar,11,x
 occultus; -a;-um,verborgen; geheim; versteckt,11,x
-idoneus; -a;-um,geeignet,11,x
+idoneus; -a;-um,geeignet,10,x
 turpis; turpe,hässlihc; schändlich,11,x
-cernere; cerno,"sehen, erkennne",11,v
+cernere; cerno,"sehen, erkennne",10,v
 privare; privo (m.Abl),(einer Sache) berauben,11,v
 Jason regem pelle privat,Jason beraubt den König des Vlieses,11,x
-telum; -i n,das Geschoss; das Wurfgeschodd; der Pfeil,11,s
-opus est,(m Dat) es ist nötig; (m Abl) jemand braucht; benötigt,11,x
+telum; -i n,das Geschoss; das Wurfgeschodd; der Pfeil,10,s
+opus est,(m Dat) es ist nötig; (m Abl) jemand braucht; benötigt,10,x
 uterque; utraque; utrumque; gen utriusque; dat. utrique,jeder von beiden; beide,11,x
 saxum; -i,der Fels(brocken); der Stein,11,s
 ipse; ipsa; ipsum,selbst; gerade; persönlich,11,x
 prodere; prodo; prodidi; proditum,verraten; preisgeben; überliefern,10,v
 lumen; luminis n,das Licht; das Augenlicht; das Auge,10,s
-os; oris,der Mund; das Gesicht,11,s
+os; oris,der Mund; das Gesicht,10,s
 proinde, deshalb,10,x
 conicere; conico; conieci; coniectum,werfen ; vermuten,10,v
-navigare; navigo,"(mit dem Sciff) fahren, segeln",11,v
+navigare; navigo,"(mit dem Sciff) fahren, segeln",10,v
 impetus; impetUs,der Schwung; der Angriff; der Ansturm,10,s
-concurrere; concurro; concurri; concursum,zusammenlaufen,11,v
-interesse; intersum; interfui (m Dat.),dazwischen sein; teilnehmen,11,v
-interest (m. Gen.),es ist wichtig (für m.Gen); es besteht ein Unterschied,11,x
+concurrere; concurro; concurri; concursum,zusammenlaufen,10,v
+interesse; intersum; interfui (m Dat.),dazwischen sein; teilnehmen,10,v
+interest (m. Gen.),es ist wichtig (für m.Gen); es besteht ein Unterschied,10,x
 regis interest, es ist wichtig für den König,10,x
-inter odium et gaudium interest, zwischen Muße und Freude besteht ein unterschied,11,x
+inter odium et gaudium interest, zwischen Muße und Freude besteht ein unterschied,10,x
 praemittere; praemitto; praemisi; praemissum,vorrausschicken,10,v
 discendere; discendo; discessi; discessum,auseiandergehen; weggehen,10,v
 inimicus; -a; -um,feindlich; (Sub) der Feind,10,x
@@ -889,7 +889,7 @@ committere; committo; commisi; commissum,zusammenbringen; begehen; beginnen; anv
 scelus committere,ein Verbrechen begehen,10,x
 proelium committere,eine Schlacht beginnen,10,x
 persuadere; persuadeo; persuasi; persuasum (m. Dat),(m. ut) überreden; (m. ACI) überzeugen,10,v
-"idem; eadem, idem",derselbe; dieselbe; dasselbe,11,x
+"idem; eadem, idem",derselbe; dieselbe; dasselbe,10,x
 accipere; accipio; accepi; acceptum,annehmen; empfangen; erhalten; vernehmen,10,v
 reducere; reduco; reduxi; reductum,zurückführen,10,v
 addere; addo; addidi; additum,hinzufügen,10,v
@@ -1085,11 +1085,11 @@ avertere; averto; averti; aversum,abwenden; fernhalten,10,v
 conspectus; -Us m,der Anblick; das Blickfeld,10,s
 simulacrum; -i,das Bild; das Götterbild; die Götterstatue,10,s
 legio; legionis,die Legion,10,s
-inferre; infero; intuli; illatum,hineintragen; einflößen,10,v
+inferre; infero; intuli; illatum,hineintragen; einflößen,9,v
 ferre; fero; tuli; latum,tragen; bringen; ertragen,10,v
 conferre; confero; contuli; collatum,zusammentragen; zusammenbringen; vergleichen,10,v
-auferre; aufero; abstuli; ablatum,wegtragen; wegbringen; wegnehmen,10,v
-afferre; affeto; attuli; allatum,herbeibringen; bringen; melden,7,v
+auferre; aufero; abstuli; ablatum,wegtragen; wegbringen; wegnehmen,9,v
+afferre; affeto; attuli; allatum,herbeibringen; bringen; melden,6,v
 referre; refero; rettuli; relatum,zurückbringen; berichten,10,v
 imago; imaginis,des Bild; das Gemälde,10,s
 varius; -a; -um,vielfältig; verschieden; bunt,10,x
@@ -1097,27 +1097,27 @@ perferre; perfero; pertuli; perlatum,überbringen; ertragen,10,v
 longus; -a; -um,lang,10,
 ordo; ordinis,die Ordnung; die Reihe; der (gesellschaftliche) Stand,10,s
 sinus; sunUs,der Bogen; die bucht; die Brust,10,s
-felix; felicis,glücklich; erfolgreich,9,x
-probare; probo,billigen; für gut befinden; prüfen,8,v
-diligens; Gen diligentis,sorgfältig; gewissenhaft,8,x
-dignus; -a; -um,würdig; wert,7,x
-amplus; -a; -um,weit; geräumig; bedeutend,8,x
-opus; operis,das Werk; die Arbeit,8,s
-visere; viso; visi,besuchen; besichtigen,9,v
-natio; nationis,da Volk; der Volksstamm,9,s
-aetas; aetatis,das Lebensalter; das Zeitalter; die Zeit,4,s
-frons; frontis,die Vorderseite; die Stirn,7,s
-sacer; sacra; sacrum,heilig,7,x
-cella; -ae,die Kammer; das Tempelinnere,7,s
-placidus;- a; -um,sanft; ruhig; friedlich,6,x
-latus; -a; -um,breit; weit; ausgedehnt,4,x
-praetor; praetoris,der Prätor,3,s
-nominare; nomino,nennen; (m. sopp Akk) bezeichnen...als,3,v
-iniquus; -a; -um,ungleich; ungerecht,3,x
-iudicare; iudico,urteilen; beurteilen; entscheiden,3,v
-inauditus; -a;-um,unerhört; beispiellos,3,x
-immanis; immane,riesig; ungeheuerlich; entsetzlich,3,x
-cupido; cupidinis,die Gier; das Verlangen; die Leidenschaft,2,s
+felix; felicis,glücklich; erfolgreich,8,x
+probare; probo,billigen; für gut befinden; prüfen,7,v
+diligens; Gen diligentis,sorgfältig; gewissenhaft,7,x
+dignus; -a; -um,würdig; wert,6,x
+amplus; -a; -um,weit; geräumig; bedeutend,7,x
+opus; operis,das Werk; die Arbeit,7,s
+visere; viso; visi,besuchen; besichtigen,8,v
+natio; nationis,da Volk; der Volksstamm,8,s
+aetas; aetatis,das Lebensalter; das Zeitalter; die Zeit,3,s
+frons; frontis,die Vorderseite; die Stirn,6,s
+sacer; sacra; sacrum,heilig,6,x
+cella; -ae,die Kammer; das Tempelinnere,6,s
+placidus;- a; -um,sanft; ruhig; friedlich,5,x
+latus; -a; -um,breit; weit; ausgedehnt,3,x
+praetor; praetoris,der Prätor,2,s
+nominare; nomino,nennen; (m. sopp Akk) bezeichnen...als,2,v
+iniquus; -a; -um,ungleich; ungerecht,2,x
+iudicare; iudico,urteilen; beurteilen; entscheiden,2,v
+inauditus; -a;-um,unerhört; beispiellos,2,x
+immanis; immane,riesig; ungeheuerlich; entsetzlich,2,x
+cupido; cupidinis,die Gier; das Verlangen; die Leidenschaft,1,s
 vehemes; gen vehementis,heftig; nachdrücklich; energisch,1,x
 inducere; inducpo; induxi; inductum,hinenführen; veranlassen,1,v
-deferre; defero; detuli; delatum,(weg)bringen; abführen; melden; übertragen,2,v
+deferre; defero; detuli; delatum,(weg)bringen; abführen; melden; übertragen,1,v
