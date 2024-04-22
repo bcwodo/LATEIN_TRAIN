@@ -292,29 +292,29 @@ mirus; -a ; um,erstaunlich; sonderbar; wunderbar,10,x
 copia; -ae f,die Menge; der Vorrat; die Truppen,10,s
 scelus; sceleris n,das Verbrechen; deer Frevel,10,s
 parare; paro,bereiten; vorbereiten; erwerben; (mit Infinitiv) vorhaben zu,10,v
-ita,so,11,x
-descendere; descendo; descendi; descensum,herabsteigen; hinabsteigen,11,v
-quaerere; quaero; quaesivi; quaesitum,suchen; (ex) jemanden fragen,11,v
-invenire; invenio; inveni; inventum,finden; auffinden; erfinden,11,v
-qui; quae; qod,der die das; welcher welche welches,11,x
-mulier; mulieris f,die Frau,11,s
-propinquus; a; um,nahe; benachbart; S der Verwandte,11,x
-nepos; nepotis,der Neffe; der Enkel; der Nachfahre,11,s
-maritus -i,der Ehemann,11,s
-pugnare; pugno,kämpfen,11,v
-scire; scio,wissen; kennen,11,v
-modus; -i,die Art; Weise; das Maß,11,s
-eiusmodi,derartig; solche,11,x
-arcessere; arcesso; arcessivi; arcessitum,herbeirufen; holen (lassen),11,v
-vinculum,die Fessel,11,s
-via; -ae,der Weg; die Straße,11,s
+ita,so,10,x
+descendere; descendo; descendi; descensum,herabsteigen; hinabsteigen,10,v
+quaerere; quaero; quaesivi; quaesitum,suchen; (ex) jemanden fragen,10,v
+invenire; invenio; inveni; inventum,finden; auffinden; erfinden,10,v
+qui; quae; qod,der die das; welcher welche welches,10,x
+mulier; mulieris f,die Frau,10,s
+propinquus; a; um,nahe; benachbart; S der Verwandte,10,x
+nepos; nepotis,der Neffe; der Enkel; der Nachfahre,10,s
+maritus -i,der Ehemann,10,s
+pugnare; pugno,kämpfen,10,v
+scire; scio,wissen; kennen,10,v
+modus; -i,die Art; Weise; das Maß,10,s
+eiusmodi,derartig; solche,10,x
+arcessere; arcesso; arcessivi; arcessitum,herbeirufen; holen (lassen),10,v
+vinculum,die Fessel,10,s
+via; -ae,der Weg; die Straße,10,s
 unus; -a; -um; gen:unius dat:uni,ein(er); ein einziger,11,x
-accedere; accedo; accessi; accessum,herbeikommen; herantreten; sich nähern,11,v
-oratio; orationis,die Rede,11,s
-ergo,also; folglich,11,x
-urbs; urbis; gen.plu urbium,die Stadt; die Großstadt; die Hauptstadt,11,s
-componere; compono; composui; compositum,zusammenstellen; verfassen; ordnen,11,v
-quomodo,wie; auf welche Weise,11,x
+accedere; accedo; accessi; accessum,herbeikommen; herantreten; sich nähern,10,v
+oratio; orationis,die Rede,10,s
+ergo,also; folglich,10,x
+urbs; urbis; gen.plu urbium,die Stadt; die Großstadt; die Hauptstadt,10,s
+componere; compono; composui; compositum,zusammenstellen; verfassen; ordnen,10,v
+quomodo,wie; auf welche Weise,10,x
 indicium; -i n,de Beweis,10,s
 animus; -i,die Gesinung; der Sinn; Mut; der Geist,11,s
 pergere; pergo; perrexi,fortsetzen; weitermachen; aufbrechen,11,v
@@ -334,13 +334,13 @@ quia,weil,11,x
 susinere; sustineo,aushalten; ertragen,11,v
 nonne?,etwa nicht?,11,x
 placere; placeo,gefallen,11,v
-hospes; hospetis,der Gast; der Gastgeber,11,s
+hospes; hospetis,der Gast; der Gastgeber,10,s
 fames; famis,der Hunger,11,s
 frater; fratris,der Bruder,11,s
 ecce!,sieh da! schaut!,11,x
 tam,so,11,x
 seavus; -a; um,wild; wütend; grimmig,11,x
-certare; certo,streiten; kämpfen,11,v
+certare; certo,streiten; kämpfen,10,v
 quondam,einmal; einst,11,x
 instituere; instituo; institui; institutum,unterrichten; einführen; errichten,11,s
 pax; pacis,der Friede,11,s
@@ -930,10 +930,10 @@ furor; -oris m,der Wahnsinn; das Wüten; die Wut,11,s
 metuere; metuo; metui; - ,fürchten; sich fürchten,11,v
 aestimare,schätzen; einschätzen; meinen,11,v
 sors; sortis f; gen pl sortium,das Los; das Schicksal,11,s
-tutus; -a; -um,sicher (vor); geschutzt (vor/gegen),11,x
+tutus; -a; -um,sicher (vor); geschutzt (vor/gegen),10,x
 praestare; praesto; praestiti,(m. Dat) übertreffen (...Abl an); (m Akk) erweisen; geben,11,v
 ceteris vi praesto,ich übertreffe die anderen an Kraft,11,x
-populus regi honores praestat,Das Volk erweist dem König Ehren,11,x
+populus regi honores praestat,Das Volk erweist dem König Ehren,10,x
 magni / parvi / nihili - aestimare; facere; ducere; putare,hoch sehr / gering wenig / für nichts wert - achten; schätzen,11,x
 magni / parvi / nihili - esse,viel / wenig / nichts - wert sein,11,x
 tanti ... quanti esse,"so viel wert sein, wie ...",11,x
@@ -950,7 +950,7 @@ commovere; commoveo; commovi; commotum,bewegen; beunruhigen; veranlassen,11,v
 implere; impleo; implevi; impletum,anfüllen; erfüllen,11,v
 caedes; caedis; Gen Plu caedium,der Mord; das Blutbad,11,s
 virgo; virginis,die Jungfrau; die junge Frau; das Mädchen,11,s
-futurus; -a; -um,zukünftig; künftig,11,x
+futurus; -a; -um,zukünftig; künftig,10,x
 futura; futororum n Pl // res futurae // rerum futurarum,die Zukunft,11,s
 ingenium; -i n,die Begabung; der Geist; der Charakter,11,s
 nex; necis f,der Mord; der (gewaltsame) Tod,11,s
@@ -979,30 +979,30 @@ ire; eo; ii; itum,gehen,11,v
 redire; redeo; redii; reditum,zurückgehen; zurückkehren,11,v
 adire; adeo; adii; aditum,herangehen; (an); aufsuchen; aus sich nehmen; in Angriff nehmen; angehen,11,v
 abire; abeo; abii; abitum,weggehen,11,v
-inire; ineo; inii; initum,hineingehen; betreten; beginnen,11,v
+inire; ineo; inii; initum,hineingehen; betreten; beginnen,10,v
 praeterire; praetereo; praeterii; praeteritum,vorbeigehen; vergehen; übergehen,11,v
-subire; subeo; subii; subitum,daruntertreten; auf sich nehmen,11,v
+subire; subeo; subii; subitum,daruntertreten; auf sich nehmen,10,v
 rectus; -a; -um,richtig; gerade,11,x
 praebere; preabeo,geben; gewähren,10,v
-Concedere; concedo; concessi; concessum,weichen; nachgeben; erlauben; zugestehen,11,v
-flagitium; -i n,die Schandtat; die Gemeinheit,11,s
+Concedere; concedo; concessi; concessum,weichen; nachgeben; erlauben; zugestehen,10,v
+flagitium; -i n,die Schandtat; die Gemeinheit,10,s
 propter (m.Akk),wegen,11,x
-constituere; constituo; constitui; constitutum,aufstellen; festsetzten; einrichten; (m. inf) beschließen zu tun,11,v
+constituere; constituo; constitui; constitutum,aufstellen; festsetzten; einrichten; (m. inf) beschließen zu tun,10,v
 poenam constituere,eine strafe festsetzen,11,x
-Patrem quaerere constitui,ich habe beschlossen meinen Vater zu besuchen,11,x
-pes; pedis,der Fuß,11,s
+Patrem quaerere constitui,ich habe beschlossen meinen Vater zu besuchen,10,x
+pes; pedis,der Fuß,10,s
 laedere; laedo; laesi; laesum,verletzen; beschädigen,10,v
 deinde,hierauf; dann,10,x
 civitas; civitatis,der Staat; die Bürgerschaft; das Bürgerrecht,10,s
-vitare; vito,meiden; vermeiden,11,v
+vitare; vito,meiden; vermeiden,10,v
 angustus; -a; -um,eng,10,x
-casus; casUs,der Fall; der Zufall; der Unglücksfall,11,s
-alienus; -a; -um,fremd,11,x
+casus; casUs,der Fall; der Zufall; der Unglücksfall,10,s
+alienus; -a; -um,fremd,10,x
 terribilis; terribile,schrecklich,10,x
-familiaris; familiare,freundschaftlich; verwandt; Sub: der Freund; der Verwandte,11,x
-demum,endlich; erst,11,x
-pudor; pudoris m,die Scham; das Ehrgefühl; der Ansatand,11,s
-solus; -a; -um Gen solius Dat soli,einzig; alleine,11,x
+familiaris; familiare,freundschaftlich; verwandt; Sub: der Freund; der Verwandte,10,x
+demum,endlich; erst,10,x
+pudor; pudoris m,die Scham; das Ehrgefühl; der Ansatand,10,s
+solus; -a; -um Gen solius Dat soli,einzig; alleine,10,x
 oppugnare; oppugno,angreifen,10,v
 sepelire; sepelio; sepelivi; sepultum,bestatten,10,v
 corripere; corripio; corripui; correptum,packen; (gewaltsam) ergeifen,10,v
@@ -1116,37 +1116,15 @@ nominare; nomino,nennen; (m. sopp Akk) bezeichnen...als,10,v
 iniquus; -a; -um,ungleich; ungerecht,10,x
 iudicare; iudico,urteilen; beurteilen; entscheiden,10,v
 inauditus; -a;-um,unerhört; beispiellos,10,x
-immanis; immane,riesig; ungeheuerlich; entsetzlich,10,x
-cupido; cupidinis,die Gier; das Verlangen; die Leidenschaft,9,s
-vehemes; gen vehementis,heftig; nachdrücklich; energisch,9,x
-inducere; inducpo; induxi; inductum,hinenführen; veranlassen,8,v
-deferre; defero; detuli; delatum,(weg)bringen; abführen; melden; übertragen,7,v
-repente,prötzlich,6,x
-sanctus; -a; -um,heilig; geweiht,9,x
-immensus; -a; -um,riesig; gewaltig; ungeheuerlich (III),4,x
-conscribere; conscribo; consripsi; canscriptum,verfassen; anwerben; ausheben,8,v
-innocens; gen innocentis,unschuldig,9,x
-crux; crucis,das Kreuz,8,s
-usus; usUs,der Gebrauch; der Nutzen,9,s
-imprimis (adv.),hauptsächlich; besonders,1,x
-commodus; -a; -um,vorteilhaft; günstig; bequem,1,x
-opinio; opinionis,die Minung; die Erwartung,1,s
-mea opinione,meiner Meinung nach,1,x
-officium; -i,die Pflicht; die Aufgabe,1,s
-seditio; seditionis,der Aufstand,1,s
-coercere; coerceo,bändigen; einschränken,1,v
-punire; punio,strafen; bestrafen,1,v
-multo (m. Komperativ),viel; um vieles,1,x
-disputare; disputo,diskutieren; sprechen über,1,v
-probus; -a; -um,anständig; gut,1,x
-volvere; volvo; volvi; volutum,rollen; wälzen,1,v
-librum volvere,ein Buch lesen,1,x
-in animo volvere,überlegen; erwägen; (im hirn wäzlen :-)),1,x
-decet; decuit (m. akk),es schickt sich; es steht (jemanden),1,x
-convivium; -i,das Gastmahl; das Gelage,1,s
-cubare; cubo; cubui; cubitum,liegen; schlafen; zu Tisch liegen; speisen,1,v
-aquaeductus; -Us,die Wasserleitung; der Aquädukt,1,s
-thermae; thermarum,die therme; die öffentliche Badeanstalt,1,s
-quotiens,wie oft,1,x
-cottidie,täglich,1,x
-ambulare; ambulo,spazieren gehen,1,v
+immanis; immane,riesig; ungeheuerlich; entsetzlich,9,x
+cupido; cupidinis,die Gier; das Verlangen; die Leidenschaft,8,s
+vehemes; gen vehementis,heftig; nachdrücklich; energisch,8,x
+inducere; inducpo; induxi; inductum,hinenführen; veranlassen,7,v
+deferre; defero; detuli; delatum,(weg)bringen; abführen; melden; übertragen,6,v
+repente,prötzlich,5,x
+sanctus; -a; -um,heilig; geweiht,8,x
+immensus; -a; -um,riesig; gewaltig; ungeheuerlich (III),3,x
+conscribere; conscribo; consripsi; canscriptum,verfassen; anwerben; ausheben,7,v
+innocens; gen innocentis,unschuldig,8,x
+crux; crucis,das Kreuz,7,s
+usus; usUs,der Gebrauch; der Nutzen,8,s
