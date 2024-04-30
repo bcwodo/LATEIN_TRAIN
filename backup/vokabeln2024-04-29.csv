@@ -158,20 +158,20 @@ statim,sofort; auf der Stelle,10,x
 venia,die Nachsicht; die Verzeihung,10,s
 veniam dare,verzeihen,10,x
 resistere; resisto; resisti,sich widersetzen; Widerstand leisten,10,v
-adhuc,bis jetzt; immer noch,11,x
-explicare; explico,erklären,11,v
-nuper,neulich,11,x
-signum,das Zeichen; das Feldzeichen,11,s
-vincere; vinco; vici; victum,siegen; besiegen,11,v
-praemium,die Belohnung; der Lohn; der Preis,11,s
-honor,die Ehre; das Eherenamt,11,s
-studere; studeo,sich bemühen; (tum) wollen; studieren,11,v
-vincere studere,siegen wollen,11,x
-amico studere,sich um den Freund bemühen,11,x
-vix,kaum; nur mit Mühe,11,x
-equus,das Pferd,11,s
-frustra,vergeblich; umsonst,11,x
-denique,schließlich,11,x
+adhuc,bis jetzt; immer noch,10,x
+explicare; explico,erklären,10,v
+nuper,neulich,10,x
+signum,das Zeichen; das Feldzeichen,10,s
+vincere; vinco; vici; victum,siegen; besiegen,10,v
+praemium,die Belohnung; der Lohn; der Preis,10,s
+honor,die Ehre; das Eherenamt,10,s
+studere; studeo,sich bemühen; (tum) wollen; studieren,10,v
+vincere studere,siegen wollen,10,x
+amico studere,sich um den Freund bemühen,10,x
+vix,kaum; nur mit Mühe,10,x
+equus,das Pferd,10,s
+frustra,vergeblich; umsonst,10,x
+denique,schließlich,10,x
 petere; peto; petivi; petitum,bitte; verlangen; haben wollen; streben nach; erreichen wollen; aufsuchen; angreifen,10,v
 senex; senis,der alte Mann; Greis,10,s
 adulescens; adulescentis; adulescentium (gen. pl),der Jugendliche; der junge Mann,10,s
@@ -179,7 +179,7 @@ vox; vocis,die Stimme; das Wort,10,s
 credere; credo; credidi; cretitum,glauben; vertrauen,10,v
 incendium,der Brand; das Feuer,10,s
 auctor; auctoris,der Urheber; der Grümder; der Schriftsteller,10,s
-taberna,der Laden; das Wirtshaus,11,s
+taberna,der Laden; das Wirtshaus,10,s
 forte,zufällig,10,x
 intellegere; intellego; intellexi; intellectum,erkennen; verstehen; einsehen,10,v
 comprehendere; comprehendo; comprehendi; comprehensum,ergreifen; festnehmen; erfassen,10,v
@@ -188,50 +188,50 @@ sollicitare; sollicito,beunruhigen; eregen,10,v
 convincere; convinco; convici; convictum,überführen,10,v
 gaudium,die Freude,10,s
 gladius,das Schwert,10,s
-arma; orum n,die Waffe,11,s
+arma; orum n,die Waffe,10,s
 supplicium,die Strafe; die Todesstrafe; die Hinrichtung; das Gebet,10,s
-populus; -i,das Volk,11,s
+populus; -i,das Volk,10,s
 exercere; exerceo,üben; trainieren,10,v
-medicus; -i,der Arzt,11,s
-carere; careo,entbehren; nicht haben; frei sein von,11,v
-ferrum,Eisen,11,s
-se,sich,11,x
-afficere; afficio; affeci (mit Abl.) ,versehen (mit),11,v
-doloribus afficere,Schmerz zufügen,11,x
-gaudio afficere,erfereuen,11,x
-honor afficere,Ehre erweisen,11,x
-supplicio afficere,hinrichten,11,x
-licet,es ist jemanden möglich ; erlaubt,11,x
-solum,nur,11,x
-non solum sed etiam,nicht nur sondern auch,11,x
-recreare; recreo,erholen,11,v
-corpus; corporis,der Körper; der Leichnam,11,s
-raro,selten,11,x
-vulnus; vulneris,die Wunde,11,s
-labor; laboris,die Arbeit; die Mühe,11,s
-domum,heim;  nach Hause,11,x
-decedere; decedo; decessi; decessum,weggehen; sterben,11,v
-vestis; vestis f; vestium,das Kleid; die Kleidung,11,s
-tunica,die Tunika,11,s
-toga,die Toga,11,s
-consul; -is m,der Konsul,11,s
-currere; curro; cucurri; cursum,laufen; rennen,11,v
-habitare,wohnen; bewohnen,11,v
-stare; sto; steti,stehen; dastehen,11,v
+medicus; -i,der Arzt,10,s
+carere; careo,entbehren; nicht haben; frei sein von,10,v
+ferrum,Eisen,10,s
+se,sich,10,x
+afficere; afficio; affeci (mit Abl.) ,versehen (mit),10,v
+doloribus afficere,Schmerz zufügen,10,x
+gaudio afficere,erfereuen,10,x
+honor afficere,Ehre erweisen,10,x
+supplicio afficere,hinrichten,10,x
+licet,es ist jemanden möglich ; erlaubt,10,x
+solum,nur,10,x
+non solum sed etiam,nicht nur sondern auch,10,x
+recreare; recreo,erholen,10,v
+corpus; corporis,der Körper; der Leichnam,10,s
+raro,selten,10,x
+vulnus; vulneris,die Wunde,10,s
+labor; laboris,die Arbeit; die Mühe,10,s
+domum,heim;  nach Hause,10,x
+decedere; decedo; decessi; decessum,weggehen; sterben,10,v
+vestis; vestis f; vestium,das Kleid; die Kleidung,10,s
+tunica,die Tunika,10,s
+toga,die Toga,10,s
+consul; -is m,der Konsul,10,s
+currere; curro; cucurri; cursum,laufen; rennen,10,v
+habitare,wohnen; bewohnen,10,v
+stare; sto; steti,stehen; dastehen,10,v
 de,von...herab; von; über; um/wegen,11,x
 de amico narrare,vom Freund erzählen,11,x
-de amicis timere,um die Freunde angst haben,11,x
-ad (akk),zu (...hin); bei; an; nach,11,x
-per (akk),durch (...hindurch); über,11,x
-post (akk),nach; hinter,11,x
-e/ex (abl),aus; aus...heraus; von....her; seit,11,x
-super (akk),über,11,x
+de amicis timere,um die Freunde angst haben,10,x
+ad (akk),zu (...hin); bei; an; nach,10,x
+per (akk),durch (...hindurch); über,10,x
+post (akk),nach; hinter,10,x
+e/ex (abl),aus; aus...heraus; von....her; seit,10,x
+super (akk),über,10,x
 cum (abl),mit,11,x
 sine,ohne,11,x
 in,(akk): in (...hinein); nach(...hin); gegen (wohin?) (abl): in an auf bei (wo),11,x
 sub,(akk) unter (wohin); (abl) unter (wo),11,x
 sermo; sermonis,das Gespräch; die Sprache,11,s
-abdere; abdo; abdidi; abditum,verstecken; verbergen,11,v
+abdere; abdo; abdidi; abditum,verstecken; verbergen,10,v
 oculus; -i,Auge,11,s
 amittere; amitto; amisi; amissum,verlieren,11,v
 vicus; -i,die Gasse; das Dorf,11,s
@@ -239,7 +239,7 @@ plebs; plebis f,das (einfache) Volk,11,s
 pecunia; -ae,das Geld,11,s
 timor; timoris m,die Angst; die Furcht,11,s
 mutare; muto,ändern; verändern; verwandeln,11,v
-possidere; possideo; possedi; possessum,besitzen,11,v
+possidere; possideo; possedi; possessum,besitzen,10,v
 donum; -i,das Geschenk,11,s
 poena; -ae,die Strafe,11,s
 ponea/poenis afficere,bestrafen,11,x
@@ -1035,28 +1035,28 @@ exire; exeo; exii; exitum,herausgehen; verlassen,11,v
 monumentum; -i n,das Denkmal; das Grabmal,11,s
 demonstrare; demonstro,zeigen; beweisen; (demonstrieren :-)),11,v
 invitus; -a; -um,unwillig; gegen den Willen,11,x
-res gestae; rerum gestarum f (Plural!),die Taten; die Geschichte,11,s
+res gestae; rerum gestarum f (Plural!),die Taten; die Geschichte,10,s
 equidem,(ich) allerdings; freilich,10,x
 sedes; sedis,der Sitz; der Wohnsitz,11,s
-aio; (ais; ait; aiunt),ich sage; ich behaupte,11,v
+aio; (ais; ait; aiunt),ich sage; ich behaupte,10,v
 regius; -a; -um,königlich,11,x
 sanguis; sanguinis m,das Blut,11,s
 spargere; spargo; sparsi; sparsum,steuern; aussteuern; bespritzen,11,v
 inde,von dort; von da an; daher; daraufhin,11,x
-umquam,jemals,11,x
+umquam,jemals,10,x
 talis; tale,"solche; von solcher Art; so beschaffen""",11,x
-cupiditas; cupiditatis,die Begierde; das Verlangen; die Leidenschaft,11,s
-incedere; incedo; incessi; incensum,einherschreiten; eintreten,11,v
-Ceasar ut rex incedit,Caesar schreitet wie ein König (einher),11,x
-palam Adv. ,offen; öffentlich; offenkundig,11,x
-restare; resto; restiti; -,übrig bleiben; widerstehen,11,v
-(id/hoc) restat. ut..., es fehlt noch. dass...,11,x
-pariter Adv.,in gleicher Weise,11,x
-pariter atque/ac,in gleicher Weise wie,11,x
+cupiditas; cupiditatis,die Begierde; das Verlangen; die Leidenschaft,10,s
+incedere; incedo; incessi; incensum,einherschreiten; eintreten,10,v
+Ceasar ut rex incedit,Caesar schreitet wie ein König (einher),10,x
+palam Adv. ,offen; öffentlich; offenkundig,10,x
+restare; resto; restiti; -,übrig bleiben; widerstehen,10,v
+(id/hoc) restat. ut..., es fehlt noch. dass...,10,x
+pariter Adv.,in gleicher Weise,10,x
+pariter atque/ac,in gleicher Weise wie,10,x
 dignitas; dignitatis f,die Würde; das Ansehen,10,s
-qui; quae; quod,Welcher; welche; welches?,11,x
+qui; quae; quod,Welcher; welche; welches?,10,x
 (utrum)...an...?,...oder...?,10,x
-num (indirekte Frage),ob (indirekte Frage),11,x
+num (indirekte Frage),ob (indirekte Frage),10,x
 Rogo num veniat,ich frage ob es kommt,10,x
 (utrum) ... an ...? (indirekte Frage),ob ... oder ... (indirekte Frage),10,x
 circumdare; circumdo; circumdedi; circumdatum,umgeben; umzingeln,10,v
@@ -1123,30 +1123,30 @@ inducere; inducpo; induxi; inductum,hinenführen; veranlassen,10,v
 deferre; defero; detuli; delatum,(weg)bringen; abführen; melden; übertragen,10,v
 repente,prötzlich,10,x
 sanctus; -a; -um,heilig; geweiht,10,x
-immensus; -a; -um,riesig; gewaltig; ungeheuerlich (III),10,x
+immensus; -a; -um,riesig; gewaltig; ungeheuerlich (III),8,x
 conscribere; conscribo; consripsi; canscriptum,verfassen; anwerben; ausheben,10,v
 innocens; gen innocentis,unschuldig,10,x
 crux; crucis,das Kreuz,10,s
 usus; usUs,der Gebrauch; der Nutzen,10,s
-imprimis (adv.),hauptsächlich; besonders,7,x
-commodus; -a; -um,vorteilhaft; günstig; bequem,7,x
-opinio; opinionis,die Minung; die Erwartung,7,s
-mea opinione,meiner Meinung nach,7,x
-officium; -i,die Pflicht; die Aufgabe,7,s
-seditio; seditionis,der Aufstand,7,s
-coercere; coerceo,bändigen; einschränken,7,v
-punire; punio,strafen; bestrafen,7,v
-multo (m. Komperativ),viel; um vieles,7,x
-disputare; disputo,diskutieren; sprechen über,6,v
-probus; -a; -um,anständig; gut,7,x
-volvere; volvo; volvi; volutum,rollen; wälzen,7,v
-librum volvere,ein Buch lesen,7,x
-in animo volvere,überlegen; erwägen; (im hirn wäzlen :-)),7,x
-decet; decuit (m. akk),es schickt sich; es steht (jemanden),7,x
-convivium; -i,das Gastmahl; das Gelage,7,s
-cubare; cubo; cubui; cubitum,liegen; schlafen; zu Tisch liegen; speisen,7,v
-aquaeductus; -Us,die Wasserleitung; der Aquädukt,7,s
-thermae; thermarum,die therme; die öffentliche Badeanstalt,7,s
-quotiens,wie oft,6,x
-cottidie,täglich,7,x
-ambulare; ambulo,spazieren gehen,8,v
+imprimis (adv.),hauptsächlich; besonders,5,x
+commodus; -a; -um,vorteilhaft; günstig; bequem,5,x
+opinio; opinionis,die Minung; die Erwartung,5,s
+mea opinione,meiner Meinung nach,5,x
+officium; -i,die Pflicht; die Aufgabe,5,s
+seditio; seditionis,der Aufstand,5,s
+coercere; coerceo,bändigen; einschränken,5,v
+punire; punio,strafen; bestrafen,5,v
+multo (m. Komperativ),viel; um vieles,5,x
+disputare; disputo,diskutieren; sprechen über,5,v
+probus; -a; -um,anständig; gut,5,x
+volvere; volvo; volvi; volutum,rollen; wälzen,5,v
+librum volvere,ein Buch lesen,5,x
+in animo volvere,überlegen; erwägen; (im hirn wäzlen :-)),5,x
+decet; decuit (m. akk),es schickt sich; es steht (jemanden),5,x
+convivium; -i,das Gastmahl; das Gelage,5,s
+cubare; cubo; cubui; cubitum,liegen; schlafen; zu Tisch liegen; speisen,5,v
+aquaeductus; -Us,die Wasserleitung; der Aquädukt,5,s
+thermae; thermarum,die therme; die öffentliche Badeanstalt,5,s
+quotiens,wie oft,4,x
+cottidie,täglich,5,x
+ambulare; ambulo,spazieren gehen,6,v
