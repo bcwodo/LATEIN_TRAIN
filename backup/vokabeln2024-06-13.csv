@@ -1,5 +1,5 @@
 Latein,Deutsch,Kartei,Wortart
-quis es?,Wer bist Du?; Wie heißt Du?,2,x
+quis es?,Wer bist Du?; Wie heißt Du?,1,x
 Ego sum,Ich bin; ich heiße,1,x
 familia,die Familie,1,s
 servus,der Diener; der Sklave,1,s
@@ -592,7 +592,7 @@ magistratus; magistratUs m,der Beamte; das Amt,1,s
 moenia; moenium n Pl,die Mauer(n); die Stadtmauer(n),1,s
 fortis; forte,tapfer; stark; tatkräftig,1,x
 honestus; -a; -um,ehrenhaft; tapfer,1,x
-neque/nec,und nicht; auch nicht,2,x
+neque/nec,und nicht; auch nicht,1,x
 neque...neque / nec...nec,weder... noch,1,x
 nobilis; nobile,vornehm; adelig; berühmt,1,x
 exstinquere; exstinguo; exstinxi; exstinctum,auslöchen; löschen; vernichten,1,v
@@ -736,9 +736,9 @@ dubitare de fide,an der Treue zweifeln,1,x
 impellere; impello; impuli; impulsum,in Bewegung setzen; antreiben; veranlassen,1,v
 vindicare; vindico,in Anspruch nehmen; befreien; retten; bestrafen,1,v
 testamentum; -i,das Testament,1,s
-confirmare; confirmo,(be)kräftigen; verstärken; ermutigen,2,v
-nemo,niemand,2,x
-"patres, patrum m (PL)",die Senatoren (tipp väterlich),2,s
+confirmare; confirmo,(be)kräftigen; verstärken; ermutigen,1,v
+nemo,niemand,1,x
+"patres, patrum m (PL)",die Senatoren (tipp väterlich),1,s
 quam, wie; als (Vergleich),1,x
 tam...quam,so...wie,1,x
 igitur,also,1,x
@@ -756,74 +756,74 @@ sentire; sentio; sensi; sensum,fühlen; spühren; meinen,1,v
 metus; metUs,die Angst; die Furcht (nicht timor),1,s
 pars; partis f; Gen P partium,der Teil; die Seite; die Richtung,1,s
 sol; solis,die Sonne,1,s
-currus; currUs,der Wagen,2,s
-aer; aeris m; Akk sg. auch aera,die Luft,2,s
+currus; currUs,der Wagen,1,s
+aer; aeris m; Akk sg. auch aera,die Luft,1,s
 ascendere; ascendo; ascendi; ascensum,hinaufsteigen; besteigen,1,v
-tantus; -a ;-um,so groß,2,x
+tantus; -a ;-um,so groß,1,x
 uxor; uxoris f,die Ehefrau,1,s
 vetare; veto; vetui; vetitum,verbieten,1,v
-preces; precum f (PL),die Bitten,2,s
-repellere; repello; reppulli; repulsum,zurückstoßen; abwehren; zurückweisen,2,v
-abducere; abduco; abduxi; abductum,wegführen; wegbringen; entführen,2,v
-flos; floris m,die Blume; die Blüte,2,s
-cura; -ae f,die Sorge; die Pflege,2,s
-mora; -ae f,die Verzögerung; der Aufenthalt,2,s
-iratus; -a; -um,zornig; erzürnt,2,x
+preces; precum f (PL),die Bitten,1,s
+repellere; repello; reppulli; repulsum,zurückstoßen; abwehren; zurückweisen,1,v
+abducere; abduco; abduxi; abductum,wegführen; wegbringen; entführen,1,v
+flos; floris m,die Blume; die Blüte,1,s
+cura; -ae f,die Sorge; die Pflege,1,s
+mora; -ae f,die Verzögerung; der Aufenthalt,1,s
+iratus; -a; -um,zornig; erzürnt,1,x
 fundere; fundo; fudi; fusum,(vergießen); ausschütten,1,v
-simulare; simulo ,vortäuschen; heucheln,2,v
-apud (m. Akk),bei,2,x
-apud ...dies noctesque / ...sub monte,bei Tag und Nacht // am Fuß des Berges,2,x
-corona; -ae f,der Kranz,2,s
+simulare; simulo ,vortäuschen; heucheln,1,v
+apud (m. Akk),bei,1,x
+apud ...dies noctesque / ...sub monte,bei Tag und Nacht // am Fuß des Berges,1,x
+corona; -ae f,der Kranz,1,s
 laurus; -i f !!,der Lorbeer(baum),1,s
-mundus; -i m,das Weltall; die Welt,2,s
+mundus; -i m,das Weltall; die Welt,1,s
 evenire; evenio; eveni; eventum,geschehen; sich ereignen,1,v
-evenit; evEnit,es geschieht; es ereignet sich,2,x
-unda; -ae f,die Welle; die Wogen,2,s
-primum,zuerst; erstmals; zum ersten Mal,2,x
-solere; soleo,gewohnt sein; pflegen zu tun,2,v
-cogitare; cogito,(nach) denken; beabsichtigen (zu tun),2,v
-puellam cogitare,an das Mädchen denken,2,x
-secum cogitare,bei sich denken; im Stillen denken,2,x
-respicere; respicio; respexi; respectum,zurückblicken auf; berücksichtigen,2,v
-convertere; converto; converti; conversum,wenden; verwandeln; (ver)ändern,2,v
-cum (m. Ind.),(damals) als; (dann) wenn; (immer) wenn; als (plötzlich); sobald,2,x
-cum (primum); ubi (primum); ut (primum) (m Ind Perf),sobald,2,x
-quod,weil; dass,2,x
-quiescere; quiesco; quievi; -,ruhen; sich ausruhen,2,v
-bos; bovis,das Rind; der Ochse; die Kuh,2,s
-taurus,der Stier,2,s
-ludere; ludo; lusi; lusum,speilen,2,v
-quoniam,weil ja; da ja,2,x
-considere; consido; consedi; consessum,sich setzen; sich niederlassen,2,v
-tergum; i n,der Rücken,2,s
-surgere; surgo; surrexi; surrectum,aufstehen; siche erheben,2,v
-dext(e)r; dext(e)ra; dext(e)rum,rechts,2,x
-dext(e)ra; -ae f,die rechte Hand,2,s
-cornu; cornUs n ,das Horn; der Heeresflügel,2,s
-sinister; sinistra; sinistrum,links,2,x
-ventus; -i m,der Wind,2,s
-dum haec geruntur,währendessen,2,x
-insula; -ae f,die Insel; des (mehrstöckige) Mietshaus,2,s
-spes; spei f,die Hoffnung; die Erwartung,2,s
-spem deponere,die Hoffnung aufgeben,2,x
-cavere; caveo; cavi; cautum,sich hüten (vor) sich in Acht nehmen (vor),2,v
-cave bestiam!,Hüte dich vor dem wilden Tier!,2,x
+evenit; evEnit,es geschieht; es ereignet sich,1,x
+unda; -ae f,die Welle; die Wogen,1,s
+primum,zuerst; erstmals; zum ersten Mal,1,x
+solere; soleo,gewohnt sein; pflegen zu tun,1,v
+cogitare; cogito,(nach) denken; beabsichtigen (zu tun),1,v
+puellam cogitare,an das Mädchen denken,1,x
+secum cogitare,bei sich denken; im Stillen denken,1,x
+respicere; respicio; respexi; respectum,zurückblicken auf; berücksichtigen,1,v
+convertere; converto; converti; conversum,wenden; verwandeln; (ver)ändern,1,v
+cum (m. Ind.),(damals) als; (dann) wenn; (immer) wenn; als (plötzlich); sobald,1,x
+cum (primum); ubi (primum); ut (primum) (m Ind Perf),sobald,1,x
+quod,weil; dass,1,x
+quiescere; quiesco; quievi; -,ruhen; sich ausruhen,1,v
+bos; bovis,das Rind; der Ochse; die Kuh,1,s
+taurus,der Stier,1,s
+ludere; ludo; lusi; lusum,speilen,1,v
+quoniam,weil ja; da ja,1,x
+considere; consido; consedi; consessum,sich setzen; sich niederlassen,1,v
+tergum; i n,der Rücken,1,s
+surgere; surgo; surrexi; surrectum,aufstehen; siche erheben,1,v
+dext(e)r; dext(e)ra; dext(e)rum,rechts,1,x
+dext(e)ra; -ae f,die rechte Hand,1,s
+cornu; cornUs n ,das Horn; der Heeresflügel,1,s
+sinister; sinistra; sinistrum,links,1,x
+ventus; -i m,der Wind,1,s
+dum haec geruntur,währendessen,1,x
+insula; -ae f,die Insel; des (mehrstöckige) Mietshaus,1,s
+spes; spei f,die Hoffnung; die Erwartung,1,s
+spem deponere,die Hoffnung aufgeben,1,x
+cavere; caveo; cavi; cautum,sich hüten (vor) sich in Acht nehmen (vor),1,v
+cave bestiam!,Hüte dich vor dem wilden Tier!,1,x
 crescere; cresco; crevi; -,wachsen; zunehmen,1,v
-adeo,so sehr,2,x
-impedire; impedio (a/ab),hindern; verhindern,2,v
-at,aber; jedoch,2,x
+adeo,so sehr,1,x
+impedire; impedio (a/ab),hindern; verhindern,1,v
+at,aber; jedoch,1,x
 aut,oder,1,x
-aut...aut,etweder---oder,2,x
-medius; -a; -um,der mittlere,2,x
-ut (m. Konj.),dass; sodass; damit,2,x
-ne (m. Konj.),dass nicht; damit nicht; um nicht--zu,2,x
-desiderare; desidero,sich sehnen nach; vermissen; (m.Inf.) ersehnen (zu tun),2,v
+aut...aut,etweder---oder,1,x
+medius; -a; -um,der mittlere,1,x
+ut (m. Konj.),dass; sodass; damit,1,x
+ne (m. Konj.),dass nicht; damit nicht; um nicht--zu,1,x
+desiderare; desidero,sich sehnen nach; vermissen; (m.Inf.) ersehnen (zu tun),1,v
 decernere; decerno; decrevi; decretum,beschließen; entscheiden,1,v
-portus; portUs,der Hafen,2,s
-volare; volo,fliegen; eilen,2,v
-gravis; grave,schwer; gewichtig; ernst; bedeutend,2,x
-aura; -ae,der Lufthauch; die Luft,2,s
-primo,zuerst,2,x
+portus; portUs,der Hafen,1,s
+volare; volo,fliegen; eilen,1,v
+gravis; grave,schwer; gewichtig; ernst; bedeutend,1,x
+aura; -ae,der Lufthauch; die Luft,1,s
+primo,zuerst,1,x
 deserere; desero; deserui; desertum,verlassen; im Stich lassen,1,v
 paulatim,allmählich,1,x
 coniungere; coniungo; coniunxi; coniunctum,verbinden; vereinigen,1,v

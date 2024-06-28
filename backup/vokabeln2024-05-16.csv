@@ -60,14 +60,14 @@ rogare,fragen; bitte (um),10,v
 respondere; respondeo; respondi; responsum,antworten,10,v
 docere; doceo; docui; doctum,lehren; beibringen; unterrichten,10,v
 fabula,die Geschichte; die Erzähliung; das Theaterstück,10,s
-laudare,loben,10,v
-bene,gut,10,x
-tu,du,10,x
-tabula,die Tafel; das Brett,10,s
-amare,lieben; germe mögen,10,v
-curare,sich kümmern; soregen (für); pflegen,10,v
-ego,ich,10,x
-spectare,(an)schauen; betrachten,10,v
+laudare,loben,11,v
+bene,gut,11,x
+tu,du,11,x
+tabula,die Tafel; das Brett,11,s
+amare,lieben; germe mögen,11,v
+curare,sich kümmern; soregen (für); pflegen,11,v
+ego,ich,11,x
+spectare,(an)schauen; betrachten,11,v
 monere,mahnen; erinnern,11,v
 tandem,endlich; schließlich,11,x
 puella,das Mädchen,11,s
@@ -94,7 +94,7 @@ colere; colo; colui; cultum,bewirtschaften; bebauen; pflegen; verehren,11,v
 emere; emo; emi; emptum,kaufen,11,v
 vendere; vendo; vendidi; venditum,verkaufen,11,v
 dicere; dico; dixi; dictum,sagen; sprechen; reden; nennen,11,v
-facere; facio; feci; factum,tun; machen; ausführen,10,v
+facere; facio; feci; factum,tun; machen; ausführen,11,v
 cupere; cupio; cupivi; cupitum ,wünschen; haben wolln; begehren,11,v
 novem,neun,11,x
 mille,tausend,11,x
@@ -1115,22 +1115,22 @@ praetor; praetoris,der Prätor,11,s
 nominare; nomino,nennen; (m. sopp Akk) bezeichnen...als,11,v
 iniquus; -a; -um,ungleich; ungerecht,11,x
 iudicare; iudico,urteilen; beurteilen; entscheiden,11,v
-inauditus; -a;-um,unerhört; beispiellos,10,x
+inauditus; -a;-um,unerhört; beispiellos,11,x
 immanis; immane,riesig; ungeheuerlich; entsetzlich,11,x
-cupido; cupidinis,die Gier; das Verlangen; die Leidenschaft,10,s
-vehemes; gen vehementis,heftig; nachdrücklich; energisch,10,x
+cupido; cupidinis,die Gier; das Verlangen; die Leidenschaft,11,s
+vehemes; gen vehementis,heftig; nachdrücklich; energisch,11,x
 inducere; inducpo; induxi; inductum,hinenführen; veranlassen,10,v
 deferre; defero; detuli; delatum,(weg)bringen; abführen; melden; übertragen,10,v
-repente,prötzlich,10,x
+repente,prötzlich,11,x
 sanctus; -a; -um,heilig; geweiht,11,x
-immensus; -a; -um,riesig; gewaltig; ungeheuerlich (III),10,x
-conscribere; conscribo; consripsi; canscriptum,verfassen; anwerben; ausheben,10,v
-innocens; gen innocentis,unschuldig,10,x
-crux; crucis,das Kreuz,10,s
-usus; usUs,der Gebrauch; der Nutzen,10,s
-imprimis (adv.),hauptsächlich; besonders,10,x
-commodus; -a; -um,vorteilhaft; günstig; bequem,10,x
-opinio; opinionis,die Meinung; die Erwartung,10,s
+immensus; -a; -um,riesig; gewaltig; ungeheuerlich (III),11,x
+conscribere; conscribo; consripsi; canscriptum,verfassen; anwerben; ausheben,11,v
+innocens; gen innocentis,unschuldig,11,x
+crux; crucis,das Kreuz,11,s
+usus; usUs,der Gebrauch; der Nutzen,11,s
+imprimis (adv.),hauptsächlich; besonders,11,x
+commodus; -a; -um,vorteilhaft; günstig; bequem,11,x
+opinio; opinionis,die Meinung; die Erwartung,11,s
 mea opinione,meiner Meinung nach,11,x
 officium; -i,die Pflicht; die Aufgabe,11,s
 seditio; seditionis,der Aufstand,11,s
@@ -1150,40 +1150,40 @@ thermae; thermarum,die therme; die öffentliche Badeanstalt,11,s
 quotiens,wie oft,11,x
 cottidie,täglich,11,x
 ambulare; ambulo,spazieren gehen,11,v
-convocare; convoco,herbeirufen; zusammenrufen; versammeln,7,v
-eicere; eicio; eieci; eiectum,hinauswerfen; vertreiben,5,v
-initium; -i,der Eingang; der Anfang,7,s
-complures; complura (PL); complurium (gen),mehrere,4,x
-iniuria; -ae f,das Unrecht; die Beleidigung,7,s
-indignus; -a; -um,unwürdig; empörend,6,x
-finire; finio,beenden; begrenzen,7,v
-incitare; incito,antreiben; anfeuern; reizen,7,v
-vastare; vasto,verwüsten,7,v
-superesse; supersum; superfui; -,übrig sein; im Überfluss vorhanden sein; überleben (m. dat),7,v
-obire; obeo; obii; obitum,entgegengehen; sterben,5,v
-post,später,7,x
-multo post,viel später,7,x
-duobus annis post,zwei Jahre später,7,x
-paulum/paulo,ein wenig; ein bisschen,6,x
-ambo; ambae; ambo,beide,7,x
-trans (m akk),"über ... hinüber, jenseits",7,x
-fluctus; fluctUs,die Flut,6,s
+convocare; convoco,herbeirufen; zusammenrufen; versammeln,8,v
+eicere; eicio; eieci; eiectum,hinauswerfen; vertreiben,6,v
+initium; -i,der Eingang; der Anfang,8,s
+complures; complura (PL); complurium (gen),mehrere,5,x
+iniuria; -ae f,das Unrecht; die Beleidigung,8,s
+indignus; -a; -um,unwürdig; empörend,7,x
+finire; finio,beenden; begrenzen,8,v
+incitare; incito,antreiben; anfeuern; reizen,8,v
+vastare; vasto,verwüsten,8,v
+superesse; supersum; superfui; -,übrig sein; im Überfluss vorhanden sein; überleben (m. dat),8,v
+obire; obeo; obii; obitum,entgegengehen; sterben,6,v
+post,später,8,x
+multo post,viel später,8,x
+duobus annis post,zwei Jahre später,8,x
+paulum/paulo,ein wenig; ein bisschen,7,x
+ambo; ambae; ambo,beide,8,x
+trans (m akk),"über ... hinüber, jenseits",8,x
+fluctus; fluctUs,die Flut,7,s
 spatium; -i n,der Raum; der Zeitraum,1,s
-regio; regionis f,das Gebiet; die Gegend; die Richtung,1,s
+regio; regionis f,das Gebiet; die Gegend; die Richtung,2,s
 epistula; -ae f,der Brief,1,s
-durus; -a; -um,hart; hartherzig,1,x
-asper; aspera; asperum,rau; grob; hart,1,x
-vastus; -a; -um,öde; weit; unermesslich,1,x
-atrox; gen atrocis,schrecklich; wild,1,x
+durus; -a; -um,hart; hartherzig,2,x
+asper; aspera; asperum,rau; grob; hart,2,x
+vastus; -a; -um,öde; weit; unermesslich,2,x
+atrox; gen atrocis,schrecklich; wild,2,x
 optare; opto,wünschen (nicht cupere),1,v
-frigus; frigoris n,die Kälte; der Frost,1,s
+frigus; frigoris n,die Kälte; der Frost,2,s
 tenebrae; -arum f (pl),die Dunkelheit; die finsternis,1,s
-iussus Adv.,auf Befehl,1,x
+iussus Adv.,auf Befehl,2,x
 necessarius; -a; -um,nötig; notwendig; als Subst: der Freund; der Verwandte,1,x
-efferre; effero; extuli; elatum,hinaustragen; hinausbringen; beerdigen,1,v
+efferre; effero; extuli; elatum,hinaustragen; hinausbringen; beerdigen,2,v
 postremo,schließlich; zuletzt,1,x
-plenus; -a; -um,voll (mit/von),1,x
-funus; funeris n,die Bestattung,1,s
-proximus; -a; -um,der nächste; das nächste,1,x
-lupus; -i m,der Wolf,1,s
-ullus; -a; -um; gen: ullius; dat: ulli,irgendein,1,x
+plenus; -a; -um,voll (mit/von),2,x
+funus; funeris n,die Bestattung,2,s
+proximus; -a; -um,der nächste; das nächste,2,x
+lupus; -i m,der Wolf,2,s
+ullus; -a; -um; gen: ullius; dat: ulli,irgendein,2,x

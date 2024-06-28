@@ -1,73 +1,73 @@
 Latein,Deutsch,Kartei,Wortart
-quis es?,Wer bist Du?; Wie heißt Du?,10,x
-Ego sum,Ich bin; ich heiße,10,x
-familia,die Familie,10,s
-servus,der Diener; der Sklave,10,s
-serva,die Dienerin; die Sklavin,10,s
-dominus,der Herr; der Hausherr,10,s
-domina,die Herrin; die Hausherrin,10,s
-negotium,das Geschäft (machen); die Aufgabe,10,s
-est,er/sie/es ist; es gibt,10,v
-amicus,der Freund,10,s
-et,und,10,x
-amica,die Freundin,10,s
-ubi,wo,10,x
-non,nicht,10,x
-hic,hier,10,x
-properare,eilen; sich beeilen,10,v
-laborare,leiden; arbeiten,10,v
-clamare,(laut) rufen; schreien,10,v
-sedere; sedeo; sedi; sessum,sitzen; dasitzen,10,v
-gaudere,sich freuen; froh sein,10,v
-sunt,sie sind; es gibt/findet statt,10,x
-nam,denn ; nämlich,10,x
-etiam,auch ; sogar,10,x
-ibi,dort,10,x
-debere,müssen; schulden,10,v
-nunc,nun; jetzt,10,x
-sed,aber; doch; sondern,10,x
-cur?,warum?,10,x
-otium,die Freizeit; die Ruhe; die Muße,10,s
-forum,das Forum; der (Markt)Platz; das Stadtzentrum,10,s
-nomen,der Name,10,s
-lectus,das Bett; die Liege,10,s
-mensa,der Tisch,10,s
-cibus,die Speise; das Essen; die Nahrung,10,s
-cenare,essen; speisen,10,v
-vinum,der Wein,10,s
-aqua,das Wasser,10,s
-vocare,rufen,10,v
-quid?,was?,10,x
-ridere; rideo; risi; risum,lachen; auslachen,10,v
-venire; venio; veni; ventum,kommen,10,v
-audire,hören; anhören,10,v
-dormire,schlafen,10,v
-desperare,verzweifeln; die Hoffnung aufgeben,10,v
-tum,dann; darauf; da; damals,10,x
-iam,schon; bereits,10,x
-subito,plötzlich,10,x
-imperare,befehlen; anordnen; herrschen,10,v
-parere,gehorchen; folgen,10,v
-cessare,zögern; sich Zeit lassen,10,v
-salutare,grüßen; begrüßen,10,v
-salve!,sei gegrüßt; grüß dich!,10,x
-num?,etwa?,10,x
-aperire; aperio; aperui; apertum,öffnen; aufmachen,10,v
-intrare,betreten; eintreten,10,v
-verbum,das Wort,10,s
-tacere,still sein; schweigen; verschweigen,10,v
-rogare,fragen; bitte (um),10,v
-respondere; respondeo; respondi; responsum,antworten,10,v
-docere; doceo; docui; doctum,lehren; beibringen; unterrichten,10,v
-fabula,die Geschichte; die Erzähliung; das Theaterstück,10,s
-laudare,loben,10,v
-bene,gut,10,x
-tu,du,10,x
-tabula,die Tafel; das Brett,10,s
-amare,lieben; germe mögen,10,v
-curare,sich kümmern; soregen (für); pflegen,10,v
-ego,ich,10,x
-spectare,(an)schauen; betrachten,10,v
+quis es?,Wer bist Du?; Wie heißt Du?,11,x
+Ego sum,Ich bin; ich heiße,11,x
+familia,die Familie,11,s
+servus,der Diener; der Sklave,11,s
+serva,die Dienerin; die Sklavin,11,s
+dominus,der Herr; der Hausherr,11,s
+domina,die Herrin; die Hausherrin,11,s
+negotium,das Geschäft (machen); die Aufgabe,11,s
+est,er/sie/es ist; es gibt,11,v
+amicus,der Freund,11,s
+et,und,11,x
+amica,die Freundin,11,s
+ubi,wo,11,x
+non,nicht,11,x
+hic,hier,11,x
+properare,eilen; sich beeilen,11,v
+laborare,leiden; arbeiten,11,v
+clamare,(laut) rufen; schreien,11,v
+sedere; sedeo; sedi; sessum,sitzen; dasitzen,11,v
+gaudere,sich freuen; froh sein,11,v
+sunt,sie sind; es gibt/findet statt,11,x
+nam,denn ; nämlich,11,x
+etiam,auch ; sogar,11,x
+ibi,dort,11,x
+debere,müssen; schulden,11,v
+nunc,nun; jetzt,11,x
+sed,aber; doch; sondern,11,x
+cur?,warum?,11,x
+otium,die Freizeit; die Ruhe; die Muße,11,s
+forum,das Forum; der (Markt)Platz; das Stadtzentrum,11,s
+nomen,der Name,11,s
+lectus,das Bett; die Liege,11,s
+mensa,der Tisch,11,s
+cibus,die Speise; das Essen; die Nahrung,11,s
+cenare,essen; speisen,11,v
+vinum,der Wein,11,s
+aqua,das Wasser,11,s
+vocare,rufen,11,v
+quid?,was?,11,x
+ridere; rideo; risi; risum,lachen; auslachen,11,v
+venire; venio; veni; ventum,kommen,11,v
+audire,hören; anhören,11,v
+dormire,schlafen,11,v
+desperare,verzweifeln; die Hoffnung aufgeben,11,v
+tum,dann; darauf; da; damals,11,x
+iam,schon; bereits,11,x
+subito,plötzlich,11,x
+imperare,befehlen; anordnen; herrschen,11,v
+parere,gehorchen; folgen,11,v
+cessare,zögern; sich Zeit lassen,11,v
+salutare,grüßen; begrüßen,11,v
+salve!,sei gegrüßt; grüß dich!,11,x
+num?,etwa?,11,x
+aperire; aperio; aperui; apertum,öffnen; aufmachen,11,v
+intrare,betreten; eintreten,11,v
+verbum,das Wort,11,s
+tacere,still sein; schweigen; verschweigen,11,v
+rogare,fragen; bitte (um),11,v
+respondere; respondeo; respondi; responsum,antworten,11,v
+docere; doceo; docui; doctum,lehren; beibringen; unterrichten,11,v
+fabula,die Geschichte; die Erzähliung; das Theaterstück,11,s
+laudare,loben,11,v
+bene,gut,11,x
+tu,du,11,x
+tabula,die Tafel; das Brett,11,s
+amare,lieben; germe mögen,11,v
+curare,sich kümmern; soregen (für); pflegen,11,v
+ego,ich,11,x
+spectare,(an)schauen; betrachten,11,v
 monere,mahnen; erinnern,11,v
 tandem,endlich; schließlich,11,x
 puella,das Mädchen,11,s
@@ -94,7 +94,7 @@ colere; colo; colui; cultum,bewirtschaften; bebauen; pflegen; verehren,11,v
 emere; emo; emi; emptum,kaufen,11,v
 vendere; vendo; vendidi; venditum,verkaufen,11,v
 dicere; dico; dixi; dictum,sagen; sprechen; reden; nennen,11,v
-facere; facio; feci; factum,tun; machen; ausführen,10,v
+facere; facio; feci; factum,tun; machen; ausführen,11,v
 cupere; cupio; cupivi; cupitum ,wünschen; haben wolln; begehren,11,v
 novem,neun,11,x
 mille,tausend,11,x
@@ -1115,22 +1115,22 @@ praetor; praetoris,der Prätor,11,s
 nominare; nomino,nennen; (m. sopp Akk) bezeichnen...als,11,v
 iniquus; -a; -um,ungleich; ungerecht,11,x
 iudicare; iudico,urteilen; beurteilen; entscheiden,11,v
-inauditus; -a;-um,unerhört; beispiellos,10,x
+inauditus; -a;-um,unerhört; beispiellos,11,x
 immanis; immane,riesig; ungeheuerlich; entsetzlich,11,x
-cupido; cupidinis,die Gier; das Verlangen; die Leidenschaft,10,s
-vehemes; gen vehementis,heftig; nachdrücklich; energisch,10,x
-inducere; inducpo; induxi; inductum,hinenführen; veranlassen,10,v
-deferre; defero; detuli; delatum,(weg)bringen; abführen; melden; übertragen,10,v
-repente,prötzlich,10,x
+cupido; cupidinis,die Gier; das Verlangen; die Leidenschaft,11,s
+vehemes; gen vehementis,heftig; nachdrücklich; energisch,11,x
+inducere; inducpo; induxi; inductum,hinenführen; veranlassen,11,v
+deferre; defero; detuli; delatum,(weg)bringen; abführen; melden; übertragen,11,v
+repente,prötzlich,11,x
 sanctus; -a; -um,heilig; geweiht,11,x
-immensus; -a; -um,riesig; gewaltig; ungeheuerlich (III),10,x
-conscribere; conscribo; consripsi; canscriptum,verfassen; anwerben; ausheben,10,v
-innocens; gen innocentis,unschuldig,10,x
-crux; crucis,das Kreuz,10,s
-usus; usUs,der Gebrauch; der Nutzen,10,s
-imprimis (adv.),hauptsächlich; besonders,10,x
-commodus; -a; -um,vorteilhaft; günstig; bequem,10,x
-opinio; opinionis,die Meinung; die Erwartung,10,s
+immensus; -a; -um,riesig; gewaltig; ungeheuerlich (III),11,x
+conscribere; conscribo; consripsi; canscriptum,verfassen; anwerben; ausheben,11,v
+innocens; gen innocentis,unschuldig,11,x
+crux; crucis,das Kreuz,11,s
+usus; usUs,der Gebrauch; der Nutzen,11,s
+imprimis (adv.),hauptsächlich; besonders,11,x
+commodus; -a; -um,vorteilhaft; günstig; bequem,11,x
+opinio; opinionis,die Meinung; die Erwartung,11,s
 mea opinione,meiner Meinung nach,11,x
 officium; -i,die Pflicht; die Aufgabe,11,s
 seditio; seditionis,der Aufstand,11,s
@@ -1150,40 +1150,40 @@ thermae; thermarum,die therme; die öffentliche Badeanstalt,11,s
 quotiens,wie oft,11,x
 cottidie,täglich,11,x
 ambulare; ambulo,spazieren gehen,11,v
-convocare; convoco,herbeirufen; zusammenrufen; versammeln,7,v
-eicere; eicio; eieci; eiectum,hinauswerfen; vertreiben,5,v
-initium; -i,der Eingang; der Anfang,7,s
-complures; complura (PL); complurium (gen),mehrere,4,x
-iniuria; -ae f,das Unrecht; die Beleidigung,7,s
-indignus; -a; -um,unwürdig; empörend,6,x
-finire; finio,beenden; begrenzen,7,v
-incitare; incito,antreiben; anfeuern; reizen,7,v
-vastare; vasto,verwüsten,7,v
-superesse; supersum; superfui; -,übrig sein; im Überfluss vorhanden sein; überleben (m. dat),7,v
-obire; obeo; obii; obitum,entgegengehen; sterben,5,v
-post,später,7,x
-multo post,viel später,7,x
-duobus annis post,zwei Jahre später,7,x
-paulum/paulo,ein wenig; ein bisschen,6,x
-ambo; ambae; ambo,beide,7,x
-trans (m akk),"über ... hinüber, jenseits",7,x
-fluctus; fluctUs,die Flut,6,s
-spatium; -i n,der Raum; der Zeitraum,1,s
-regio; regionis f,das Gebiet; die Gegend; die Richtung,1,s
-epistula; -ae f,der Brief,1,s
-durus; -a; -um,hart; hartherzig,1,x
-asper; aspera; asperum,rau; grob; hart,1,x
-vastus; -a; -um,öde; weit; unermesslich,1,x
-atrox; gen atrocis,schrecklich; wild,1,x
-optare; opto,wünschen (nicht cupere),1,v
-frigus; frigoris n,die Kälte; der Frost,1,s
-tenebrae; -arum f (pl),die Dunkelheit; die finsternis,1,s
-iussus Adv.,auf Befehl,1,x
-necessarius; -a; -um,nötig; notwendig; als Subst: der Freund; der Verwandte,1,x
-efferre; effero; extuli; elatum,hinaustragen; hinausbringen; beerdigen,1,v
-postremo,schließlich; zuletzt,1,x
-plenus; -a; -um,voll (mit/von),1,x
-funus; funeris n,die Bestattung,1,s
-proximus; -a; -um,der nächste; das nächste,1,x
-lupus; -i m,der Wolf,1,s
-ullus; -a; -um; gen: ullius; dat: ulli,irgendein,1,x
+convocare; convoco,herbeirufen; zusammenrufen; versammeln,11,v
+eicere; eicio; eieci; eiectum,hinauswerfen; vertreiben,10,v
+initium; -i,der Eingang; der Anfang,11,s
+complures; complura (PL); complurium (gen),mehrere,9,x
+iniuria; -ae f,das Unrecht; die Beleidigung,11,s
+indignus; -a; -um,unwürdig; empörend,11,x
+finire; finio,beenden; begrenzen,11,v
+incitare; incito,antreiben; anfeuern; reizen,11,v
+vastare; vasto,verwüsten,11,v
+superesse; supersum; superfui; -,übrig sein; im Überfluss vorhanden sein; überleben (m. dat),11,v
+obire; obeo; obii; obitum,entgegengehen; sterben,9,v
+post,später,11,x
+multo post,viel später,11,x
+duobus annis post,zwei Jahre später,11,x
+paulum/paulo,ein wenig; ein bisschen,11,x
+ambo; ambae; ambo,beide,11,x
+trans (m akk),"über ... hinüber, jenseits",11,x
+fluctus; fluctUs,die Flut,11,s
+spatium; -i n,der Raum; der Zeitraum,5,s
+regio; regionis f,das Gebiet; die Gegend; die Richtung,7,s
+epistula; -ae f,der Brief,5,s
+durus; -a; -um,hart; hartherzig,6,x
+asper; aspera; asperum,rau; grob; hart,6,x
+vastus; -a; -um,öde; weit; unermesslich,6,x
+atrox; gen atrocis,schrecklich; wild,6,x
+optare; opto,wünschen (nicht cupere),5,v
+frigus; frigoris n,die Kälte; der Frost,6,s
+tenebrae; -arum f (pl),die Dunkelheit; die finsternis,5,s
+iussus Adv.,auf Befehl,7,x
+necessarius; -a; -um,nötig; notwendig; als Subst: der Freund; der Verwandte,6,x
+efferre; effero; extuli; elatum,hinaustragen; hinausbringen; beerdigen,6,v
+postremo,schließlich; zuletzt,4,x
+plenus; -a; -um,voll (mit/von),7,x
+funus; funeris n,die Bestattung,6,s
+proximus; -a; -um,der nächste; das nächste,6,x
+lupus; -i m,der Wolf,7,s
+ullus; -a; -um; gen: ullius; dat: ulli,irgendein,7,x
