@@ -558,7 +558,7 @@ pietas; pietatis,die Frömmigkeit; das Pflichtgefühl; das Verantwortungsbewusst
 humanitats; humanitatis,die Menschlichkeit; die Bildung,1,s
 lacus; lacUs m,der See,1,s
 situs; -a; -um,gelegen,1,x
-minister; ministri m,der Diener,1,s
+minister; ministri m,der Diener,2,s
 nympha; -ae,die Nymphe,2,s
 divus; -a; -um,göttlich,1,x
 cinis; cineris m,die Asche,1,s
@@ -698,21 +698,21 @@ delectare; delecto,erfreuen (tip: nicht gaudere),1,v
 posterus; -a; um,der nachfolgende; der nächste,1,x
 posteri; posterorum,die Nachfahren; die Nachkommen,1,s
 stultitia; -ae,die Dummheit,1,s
-testis; testis; Gen Pl testium,der Zeuge,1,s
-iudex; iudicis,der Richter,1,s
-damnare; damno,verurteilen,1,v
-legatus; -i,der Gesandte; der Offizier; der Unterfeldherr,1,s
-audacia; -ae f,der Wagemut; die Kühnheit; dei Frechheit,1,s
-gens; gentis f ; GenPl gentium,das Geschlecht; der Stamm; das volk,1,s
-praeda; -ae f,die Beute; die Kreigsbeute,1,s
-ops; opis f PL opes; opum,die Hilfe; die Kraft; die Macht; PL: der Reihtum,1,s
-forma; -ae f,die Form; die Gestalt; die Schönheit,1,s
-victoria; -ae,der Sieg,1,s
-ostendere; ostendo; ostendi; ostentum,zeigen; erklären; offenbaren,1,v
-libido; libidinis f,die Begierde; die Hemmungslosigkeit,1,s
-flere; fleo; flevi; fletum,weinen (über); beweinen; beklagen,1,v
-temperare; tempero,(mit Dat) mäßigen; schonen; (mit Akk) mischen; ordnen; (mit Abl) sich fernhalten von,1,v
-irae tempero,ich mäßige den Zorn,1,x
+testis; testis; Gen Pl testium,der Zeuge,2,s
+iudex; iudicis,der Richter,2,s
+damnare; damno,verurteilen,2,v
+legatus; -i,der Gesandte; der Offizier; der Unterfeldherr,2,s
+audacia; -ae f,der Wagemut; die Kühnheit; dei Frechheit,2,s
+gens; gentis f ; GenPl gentium,das Geschlecht; der Stamm; das volk,2,s
+praeda; -ae f,die Beute; die Kreigsbeute,2,s
+ops; opis f PL opes; opum,die Hilfe; die Kraft; die Macht; PL: der Reihtum,2,s
+forma; -ae f,die Form; die Gestalt; die Schönheit,2,s
+victoria; -ae,der Sieg,2,s
+ostendere; ostendo; ostendi; ostentum,zeigen; erklären; offenbaren,2,v
+libido; libidinis f,die Begierde; die Hemmungslosigkeit,2,s
+flere; fleo; flevi; fletum,weinen (über); beweinen; beklagen,2,v
+temperare; tempero,(mit Dat) mäßigen; schonen; (mit Akk) mischen; ordnen; (mit Abl) sich fernhalten von,2,v
+irae tempero,ich mäßige den Zorn,2,x
 rem publicam tempero,ich ordne den Staat,1,x
 a malis hominibus tempero,ich halte mich von bösen Menschen fern,1,x
 antiquus; -a; -um,alt,1,x
@@ -729,39 +729,39 @@ ornare; orno,schmücken; auszeichnen; ausstatten,1,v
 adicere; adicio; adieci; adiectum,hinzufügen,1,v
 avaritia; -ae,die Habgier; der Geiz,1,s
 calamitas; calamitatis,das Unglück; das Unheil; der Schaden,1,s
-potens; Gen potentis,mächtig; stark,1,x
-proelium; -i,die Schlacht; das Gefecht,1,s
-dubitare; dubito,zweifeln; unschlüssig sein; mit infitiniv: zögern zu tun,1,v
-dubitare de fide,an der Treue zweifeln,1,x
-impellere; impello; impuli; impulsum,in Bewegung setzen; antreiben; veranlassen,1,v
-vindicare; vindico,in Anspruch nehmen; befreien; retten; bestrafen,1,v
-testamentum; -i,das Testament,1,s
+potens; Gen potentis,mächtig; stark,2,x
+proelium; -i,die Schlacht; das Gefecht,2,s
+dubitare; dubito,zweifeln; unschlüssig sein; mit infitiniv: zögern zu tun,2,v
+dubitare de fide,an der Treue zweifeln,2,x
+impellere; impello; impuli; impulsum,in Bewegung setzen; antreiben; veranlassen,2,v
+vindicare; vindico,in Anspruch nehmen; befreien; retten; bestrafen,2,v
+testamentum; -i,das Testament,2,s
 confirmare; confirmo,(be)kräftigen; verstärken; ermutigen,2,v
 nemo,niemand,2,x
 "patres, patrum m (PL)",die Senatoren (tipp väterlich),2,s
 quam, wie; als (Vergleich),2,x
 tam...quam,so...wie,2,x
-igitur,also,1,x
-expellere; expello; exppuli; expulsum,vertreiben; verjagen; verbannen,1,v
-trahere; traho; traxi; tractum,ziehen; schleppen,1,v
-aurum; -i,das Gold,1,s
-argentium; -i,das Silber; das Geld,1,s
-complere; compleo; complevi; completum,ausfüllen; anfüllen (mit); erfüllen,1,v
-ornamentum; -i,das Schmuckstück; der Schmuck,1,s
-tribunus; -i,der Tribun,1,s
-tribuere; tribuo; tribui; tributum,zuteilen,1,v
-provincia; -ae f,die Provinz,1,s
-comperire; comperio; comperi; compertum,erfahren; in Erfahrung bringen,1,v
-sentire; sentio; sensi; sensum,fühlen; spühren; meinen,1,v
-metus; metUs,die Angst; die Furcht (nicht timor),1,s
-pars; partis f; Gen P partium,der Teil; die Seite; die Richtung,1,s
-sol; solis,die Sonne,1,s
+igitur,also,2,x
+expellere; expello; exppuli; expulsum,vertreiben; verjagen; verbannen,2,v
+trahere; traho; traxi; tractum,ziehen; schleppen,2,v
+aurum; -i,das Gold,2,s
+argentium; -i,das Silber; das Geld,2,s
+complere; compleo; complevi; completum,ausfüllen; anfüllen (mit); erfüllen,2,v
+ornamentum; -i,das Schmuckstück; der Schmuck,2,s
+tribunus; -i,der Tribun,2,s
+tribuere; tribuo; tribui; tributum,zuteilen,2,v
+provincia; -ae f,die Provinz,2,s
+comperire; comperio; comperi; compertum,erfahren; in Erfahrung bringen,2,v
+sentire; sentio; sensi; sensum,fühlen; spühren; meinen,2,v
+metus; metUs,die Angst; die Furcht (nicht timor),2,s
+pars; partis f; Gen P partium,der Teil; die Seite; die Richtung,2,s
+sol; solis,die Sonne,2,s
 currus; currUs,der Wagen,2,s
 aer; aeris m; Akk sg. auch aera,die Luft,2,s
-ascendere; ascendo; ascendi; ascensum,hinaufsteigen; besteigen,1,v
+ascendere; ascendo; ascendi; ascensum,hinaufsteigen; besteigen,2,v
 tantus; -a ;-um,so groß,2,x
-uxor; uxoris f,die Ehefrau,1,s
-vetare; veto; vetui; vetitum,verbieten,1,v
+uxor; uxoris f,die Ehefrau,2,s
+vetare; veto; vetui; vetitum,verbieten,2,v
 preces; precum f (PL),die Bitten,2,s
 repellere; repello; reppulli; repulsum,zurückstoßen; abwehren; zurückweisen,2,v
 abducere; abduco; abduxi; abductum,wegführen; wegbringen; entführen,2,v
@@ -1115,11 +1115,11 @@ praetor; praetoris,der Prätor,1,s
 nominare; nomino,nennen; (m. sopp Akk) bezeichnen...als,1,v
 iniquus; -a; -um,ungleich; ungerecht,1,x
 iudicare; iudico,urteilen; beurteilen; entscheiden,1,v
-inauditus; -a;-um,unerhört; beispiellos,1,x
+inauditus; -a;-um,unerhört; beispiellos,2,x
 immanis; immane,riesig; ungeheuerlich; entsetzlich,1,x
-cupido; cupidinis,die Gier; das Verlangen; die Leidenschaft,1,s
+cupido; cupidinis,die Gier; das Verlangen; die Leidenschaft,2,s
 vehemes; gen vehementis,heftig; nachdrücklich; energisch,1,x
-inducere; inducpo; induxi; inductum,hinenführen; veranlassen,1,v
+inducere; inducpo; induxi; inductum,hinenführen; veranlassen,2,v
 deferre; defero; detuli; delatum,(weg)bringen; abführen; melden; übertragen,1,v
 repente,prötzlich,1,x
 sanctus; -a; -um,heilig; geweiht,1,x
@@ -1173,16 +1173,16 @@ regio; regionis f,das Gebiet; die Gegend; die Richtung,1,s
 epistula; -ae f,der Brief,1,s
 durus; -a; -um,hart; hartherzig,1,x
 asper; aspera; asperum,rau; grob; hart,1,x
-vastus; -a; -um,öde; weit; unermesslich,1,x
+vastus; -a; -um,öde; weit; unermesslich,2,x
 atrox; gen atrocis,schrecklich; wild,1,x
-optare; opto,wünschen (nicht cupere),1,v
-frigus; frigoris n,die Kälte; der Frost,1,s
-tenebrae; -arum f (pl),die Dunkelheit; die finsternis,1,s
-iussus Adv.,auf Befehl,1,x
-necessarius; -a; -um,nötig; notwendig; als Subst: der Freund; der Verwandte,1,x
+optare; opto,wünschen (nicht cupere),2,v
+frigus; frigoris n,die Kälte; der Frost,2,s
+tenebrae; -arum f (pl),die Dunkelheit; die finsternis,2,s
+iussus Adv.,auf Befehl,2,x
+necessarius; -a; -um,nötig; notwendig; als Subst: der Freund; der Verwandte,2,x
 efferre; effero; extuli; elatum,hinaustragen; hinausbringen; beerdigen,1,v
 postremo,schließlich; zuletzt,1,x
-plenus; -a; -um,voll (mit/von),1,x
+plenus; -a; -um,voll (mit/von),2,x
 funus; funeris n,die Bestattung,1,s
 proximus; -a; -um,der nächste; das nächste,2,x
 lupus; -i m,der Wolf,1,s
