@@ -11,11 +11,11 @@ def train_verb(df = vdf):
     anzahl = input("Wie viele Verben willst Du üben? ")
     anzahl = int(anzahl)
     for a in range(anzahl):
-        c = random.randint(4,maxspalten)
+        c = random.randint(5,maxspalten)
         z = random.randint(0,maxzeilen)
         verb = df.iloc[z,c]
         _ = input(f"{a+1}) Kennst Du die Form von '{verb}' ?")
-        print(df.iloc[z,:4])
+        print(df.iloc[z,:5])
 
 
 def train_substantiv(df = sdf):
