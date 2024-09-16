@@ -579,63 +579,63 @@ priusquam,ehe; bevor,1,x
 vel,oder,1,x
 vel... vel,entweder ... oder,1,x
 stultus; -a; -um,dumm,1,x
-insidae; -arum Pl.,der Hinterhalt; die Falle,2,s
-promittere; promitto; promisi,versprechen,2,v
-fere,fast; ungefähr,2,x
-orbis; orbis; GenPl orbium,der Kreis; die Scheibe,2,s
+insidae; -arum Pl.,der Hinterhalt; die Falle,1,s
+promittere; promitto; promisi,versprechen,1,v
+fere,fast; ungefähr,1,x
+orbis; orbis; GenPl orbium,der Kreis; die Scheibe,1,s
 velut,wie; wie zum Beispiel,1,x
 ignoscere; ignosco; ignovi,verzeihen,1,v
-modo,nur; eben noch; gerade,2,x
-exilium; -i,die Verbannung; das Exil,2,s
-restitutere; restituo; restitui; restitutum,wiederharstellen,2,v
-magistratus; magistratUs m,der Beamte; das Amt,2,s
-moenia; moenium n Pl,die Mauer(n); die Stadtmauer(n),2,s
-fortis; forte,tapfer; stark; tatkräftig,2,x
-honestus; -a; -um,ehrenhaft; tapfer,2,x
+modo,nur; eben noch; gerade,1,x
+exilium; -i,die Verbannung; das Exil,1,s
+restitutere; restituo; restitui; restitutum,wiederharstellen,1,v
+magistratus; magistratUs m,der Beamte; das Amt,1,s
+moenia; moenium n Pl,die Mauer(n); die Stadtmauer(n),1,s
+fortis; forte,tapfer; stark; tatkräftig,1,x
+honestus; -a; -um,ehrenhaft; tapfer,1,x
 neque/nec,und nicht; auch nicht,2,x
-neque...neque / nec...nec,weder... noch,2,x
-nobilis; nobile,vornehm; adelig; berühmt,2,x
-exstinquere; exstinguo; exstinxi; exstinctum,auslöchen; löschen; vernichten,2,v
+neque...neque / nec...nec,weder... noch,1,x
+nobilis; nobile,vornehm; adelig; berühmt,1,x
+exstinquere; exstinguo; exstinxi; exstinctum,auslöchen; löschen; vernichten,1,v
 parere; pario; peperi; partum,zur Welt bringen; erzeugen; erwerben,1,v
-flectere; flecto; flexi; flexum,biegen; beugen; umstimmen,2,v
-hic; haec; hoc,dieser (hier); diese (hier); dieses (hier),2,x
-ille; illa; illud,jener; jene; jenes,2,x
+flectere; flecto; flexi; flexum,biegen; beugen; umstimmen,1,v
+hic; haec; hoc,dieser (hier); diese (hier); dieses (hier),1,x
+ille; illa; illud,jener; jene; jenes,1,x
 mandare; mando,übergeben; anvertrauen; auftragen,1,v
 dux; ducis m/f,der Anführer / die Anführerin,1,s
 caedere; ceado; cecidi; caesum,fällen; niederschlagen; töten,1,v
-alter; altera; alterum; gen alterius dat alteri,der eine (von beiden) ; der andere,2,x
+alter; altera; alterum; gen alterius dat alteri,der eine (von beiden) ; der andere,1,x
 alter...alter,der eine...der andere...,1,x
-nuntiare; nuntio,melden; mitteilen,2,v
-femina; feminae,die Frau,2,s
-castra; -orum n Pl,das Lager; das Kriegslager,2,s
-comes; comitis,der/die Gefährte*in; der/die Begleiter*in,2,s
-nisi,wenn nicht; außer,2,x
-non...nisi,nur ...wenn,2,x
-an (im Fragesatz),oder (im Fragesatz),2,x
-aspicere; aspicio; aspexi; aspectum,ansehen; erblicken,2,v
-intra,innerhalb,2,x
-odium; -i n,der Hass,2,s
-numerus; -i,die Zahl; dei Anzahl,2,s
-pugna; -ae f,der Kampf; die Schlacht,2,s
-magnitudo; magnitudinis f,die Größe; die Erhabenheit,2,s
-tacitus; -a; um,schweigend; still (adjktiv),2,x
-elephantus; -i m,der Elefant,2,s
-fuga; -ae f,die Flucht,2,s
-litus; litoris,der Strand; die Küste,2,s
-salvus; -a; -um,heil; unversehrt,2,x
-laetus; -a; -um,froh; fröhlich,2,x
-navis; navis; f GP navium,das Schiff,2,s
-centum,hundert,2,x
-pervenire; pervenio; perveni; perventum,kommen zu/nach; gelangen,2,v
-sumnus; -i,der Schlaf,2,s
-consilium; -i n,der Rat; der Ratschlag; der Plan; der Beschluss,2,s
-consilium capere,einen Plan fassen,2,x
-succedere; succedo; successi; successum,nachfolgen; glücken,2,v
-transcendere; transcendo; transcendi; transcensum,hinübergehen; überqueren,2,v
-colligere; colligo; collegi; collectum,sammeln,2,v
-eques; equitis m,der Reiter; der ritter,2,s
-utilis; utile,nützlich,2,x
-onus; oneris n,die Last,2,s
+nuntiare; nuntio,melden; mitteilen,1,v
+femina; feminae,die Frau,1,s
+castra; -orum n Pl,das Lager; das Kriegslager,1,s
+comes; comitis,der/die Gefährte*in; der/die Begleiter*in,1,s
+nisi,wenn nicht; außer,1,x
+non...nisi,nur ...wenn,1,x
+an (im Fragesatz),oder (im Fragesatz),1,x
+aspicere; aspicio; aspexi; aspectum,ansehen; erblicken,1,v
+intra,innerhalb,1,x
+odium; -i n,der Hass,1,s
+numerus; -i,die Zahl; dei Anzahl,1,s
+pugna; -ae f,der Kampf; die Schlacht,1,s
+magnitudo; magnitudinis f,die Größe; die Erhabenheit,1,s
+tacitus; -a; um,schweigend; still (adjktiv),1,x
+elephantus; -i m,der Elefant,1,s
+fuga; -ae f,die Flucht,1,s
+litus; litoris,der Strand; die Küste,1,s
+salvus; -a; -um,heil; unversehrt,1,x
+laetus; -a; -um,froh; fröhlich,1,x
+navis; navis; f GP navium,das Schiff,1,s
+centum,hundert,1,x
+pervenire; pervenio; perveni; perventum,kommen zu/nach; gelangen,1,v
+sumnus; -i,der Schlaf,1,s
+consilium; -i n,der Rat; der Ratschlag; der Plan; der Beschluss,1,s
+consilium capere,einen Plan fassen,1,x
+succedere; succedo; successi; successum,nachfolgen; glücken,1,v
+transcendere; transcendo; transcendi; transcensum,hinübergehen; überqueren,1,v
+colligere; colligo; collegi; collectum,sammeln,1,v
+eques; equitis m,der Reiter; der ritter,1,s
+utilis; utile,nützlich,1,x
+onus; oneris n,die Last,1,s
 portare; porto,"tragen, bringen",1,v
 ubi (sugj),sobald,1,x
 auxilium negare,die Hilfe verweigern,2,x
@@ -854,64 +854,64 @@ musica; -ae,die Musik,2,v
 pellis; pellis f; GenPl pellium,das Fell; das Vlies,2,s
 barbarus; -a;-um,fremd; barbarisch; Subst. der Barbar,2,x
 occultus; -a;-um,verborgen; geheim; versteckt,2,x
-idoneus; -a;-um,geeignet,2,x
+idoneus; -a;-um,geeignet,1,x
 turpis; turpe,hässlihc; schändlich,2,x
-cernere; cerno,"sehen, erkennne",2,v
-privare; privo (m.Abl),(einer Sache) berauben,2,v
+cernere; cerno,"sehen, erkennne",1,v
+privare; privo (m.Abl),(einer Sache) berauben,1,v
 Jason regem pelle privat,Jason beraubt den König des Vlieses,2,x
 telum; -i n,das Geschoss; das Wurfgeschodd; der Pfeil,2,s
-opus est,(m Dat) es ist nötig; (m Abl) jemand braucht; benötigt,2,x
-uterque; utraque; utrumque; gen utriusque; dat. utrique,jeder von beiden; beide,2,x
+opus est,(m Dat) es ist nötig; (m Abl) jemand braucht; benötigt,1,x
+uterque; utraque; utrumque; gen utriusque; dat. utrique,jeder von beiden; beide,1,x
 saxum; -i,der Fels(brocken); der Stein,2,s
-ipse; ipsa; ipsum,selbst; gerade; persönlich,2,x
-prodere; prodo; prodidi; proditum,verraten; preisgeben; überliefern,2,v
-lumen; luminis n,das Licht; das Augenlicht; das Auge,2,s
-os; oris,der Mund; das Gesicht,2,s
+ipse; ipsa; ipsum,selbst; gerade; persönlich,1,x
+prodere; prodo; prodidi; proditum,verraten; preisgeben; überliefern,1,v
+lumen; luminis n,das Licht; das Augenlicht; das Auge,1,s
+os; oris,der Mund; das Gesicht,1,s
 proinde, deshalb,1,x
-conicere; conico; conieci; coniectum,werfen ; vermuten,2,v
-navigare; navigo,"(mit dem Sciff) fahren, segeln",2,v
-impetus; impetUs,der Schwung; der Angriff; der Ansturm,2,s
-concurrere; concurro; concurri; concursum,zusammenlaufen,2,v
-interesse; intersum; interfui (m Dat.),dazwischen sein; teilnehmen,2,v
-interest (m. Gen.),es ist wichtig (für m.Gen); es besteht ein Unterschied,2,x
-regis interest, es ist wichtig für den König,2,x
-inter odium et gaudium interest, zwischen Muße und Freude besteht ein unterschied,2,x
-praemittere; praemitto; praemisi; praemissum,vorrausschicken,2,v
-discendere; discendo; discessi; discessum,auseiandergehen; weggehen,2,v
+conicere; conico; conieci; coniectum,werfen ; vermuten,1,v
+navigare; navigo,"(mit dem Sciff) fahren, segeln",1,v
+impetus; impetUs,der Schwung; der Angriff; der Ansturm,1,s
+concurrere; concurro; concurri; concursum,zusammenlaufen,1,v
+interesse; intersum; interfui (m Dat.),dazwischen sein; teilnehmen,1,v
+interest (m. Gen.),es ist wichtig (für m.Gen); es besteht ein Unterschied,1,x
+regis interest, es ist wichtig für den König,1,x
+inter odium et gaudium interest, zwischen Muße und Freude besteht ein unterschied,1,x
+praemittere; praemitto; praemisi; praemissum,vorrausschicken,1,v
+discendere; discendo; discessi; discessum,auseiandergehen; weggehen,1,v
 inimicus; -a; -um,feindlich; (Sub) der Feind,1,x
-beneficium; - n,die Wohltat; die Gefälligkeit,2,s
-appellare; appello,ansprechen; benennen; (mit dopp. Akk.) nennen...als,2,v
-facinus; facinoris,die Tat; die Untat,2,s
+beneficium; - n,die Wohltat; die Gefälligkeit,1,s
+appellare; appello,ansprechen; benennen; (mit dopp. Akk.) nennen...als,1,v
+facinus; facinoris,die Tat; die Untat,1,s
 nefarius; -a; -um,frevelhaft; verbrecherisch,1,x
-manere; maneo; mansi,bleiben; warten (auf); erwarten,2,v
-quantus; -a; um,wie groß; wie viel,2,x
+manere; maneo; mansi,bleiben; warten (auf); erwarten,1,v
+quantus; -a; um,wie groß; wie viel,1,x
 committere; committo; commisi; commissum,zusammenbringen; begehen; beginnen; anvertrauen,1,v
-scelus committere,ein Verbrechen begehen,2,x
-proelium committere,eine Schlacht beginnen,2,x
-persuadere; persuadeo; persuasi; persuasum (m. Dat),(m. ut) überreden; (m. ACI) überzeugen,2,v
-"idem; eadem, idem",derselbe; dieselbe; dasselbe,2,x
-accipere; accipio; accepi; acceptum,annehmen; empfangen; erhalten; vernehmen,2,v
-reducere; reduco; reduxi; reductum,zurückführen,2,v
+scelus committere,ein Verbrechen begehen,1,x
+proelium committere,eine Schlacht beginnen,1,x
+persuadere; persuadeo; persuasi; persuasum (m. Dat),(m. ut) überreden; (m. ACI) überzeugen,1,v
+"idem; eadem, idem",derselbe; dieselbe; dasselbe,1,x
+accipere; accipio; accepi; acceptum,annehmen; empfangen; erhalten; vernehmen,1,v
+reducere; reduco; reduxi; reductum,zurückführen,1,v
 addere; addo; addidi; additum,hinzufügen,1,v
-sponte mea (tua sua nostra verstra sua),von selbst; freiwillig; auf eigenen Entschluss,2,x
-natura; -ae f,die Natur; das Wesen,2,s
-namque,denn; nämlich,2,x
-coniugium; -i n,die Ehe,2,s
-quo,wohin; dorthin (rel. Satzanschluss),2,x
+sponte mea (tua sua nostra verstra sua),von selbst; freiwillig; auf eigenen Entschluss,1,x
+natura; -ae f,die Natur; das Wesen,1,s
+namque,denn; nämlich,1,x
+coniugium; -i n,die Ehe,1,s
+quo,wohin; dorthin (rel. Satzanschluss),1,x
 illuc,dorthin,1,x
-interficere; interficio; interfeci; interfectum,töten; vernichten,2,v
+interficere; interficio; interfeci; interfectum,töten; vernichten,1,v
 una,zusammen,1,x
 tantum,nur,1,x
-spiritus; spiritUs,der Atem; das Leben; der Lebensgeist,2,s
-membrum; i n,das (Körper-)Göied; Pl. die Gliedmaßen,2,s
-salus; salutis,die Rettung; das Wohl(ergehen); der Gruß,2,s
+spiritus; spiritUs,der Atem; das Leben; der Lebensgeist,1,s
+membrum; i n,das (Körper-)Göied; Pl. die Gliedmaßen,1,s
+salus; salutis,die Rettung; das Wohl(ergehen); der Gruß,1,s
 reperire; reperio; repperi; repertum,finden; wiederfinden; entdecken,1,v
 crimen; criminis,das Verbrachen; ver Vorwurf; die Anklage,1,s
-vitium; -i n,der Fehler; das Laster; die schlechte Eigenschaft,2,s
-incolumis; incolume,heil; unversehrt,2,x
-ignotus; -a; -um,unbekannt,2,x
+vitium; -i n,der Fehler; das Laster; die schlechte Eigenschaft,1,s
+incolumis; incolume,heil; unversehrt,1,x
+ignotus; -a; -um,unbekannt,1,x
 crimini dare (quod),zum Vorwurf machen (dass),1,x
-consulere; consulo; consului; consultum,(m Dat) sorgen für; (m Akk) um Rat fragen; (de) beraten (über),2,v
+consulere; consulo; consului; consultum,(m Dat) sorgen für; (m Akk) um Rat fragen; (de) beraten (über),1,v
 prospicere; prospicio; prospexi; prospectum,(Dat) sorgen für; (Akk) vor sich erblicken; vorhersehen,1,v
 providere; provideo; providi; provisum,(Dat) sorgen für) (Akk) vorhersehen,1,v
 communis; commune,allgemein; gemeinsam,1,x
@@ -1187,23 +1187,3 @@ funus; funeris n,die Bestattung,1,s
 proximus; -a; -um,der nächste; das nächste,2,x
 lupus; -i m,der Wolf,1,s
 ullus; -a; -um; gen: ullius; dat: ulli,irgendein,2,x
-"statua, -ae f",die Statue,1,s
-certamen; certaminis n,der Streit; der Wettkampf,1,s
-prodiere; prodeo; prodii; proditum,auftreten; vortreten,1,v
-cursus; cursUs,der Lauf; der Kurs; die Fahrt,1,s
-iudicium; -i n,das Urteil; die Entscheidung; das Gericht,1,s
-pretium; -i n,der Lohn; der Preis,1,s
-oliva; -ae f,die Olive; der Olivenbaum; der Olivenzweig,1,s
-iungere; iungo; iunxi; iunctum,verbinden; vereinen; (3),1,v
-existimare; existimo,einschätzen; meinen,1,v
-fiducia; -ae f,"das Vertrauen, die Zuversicht",1,s
-gratus; -a; -um,dankbar; willkommen,1,x
-natus; -a; -um,geboren; Subst: Sohn/Tochter,1,x
-excedere; excedo; excessi; excessum,herausgehen; hinausgehen (auch über sich),1,v
-taedium; -i n,der Ekel; der Überdruss,1,s
-pristinus; -a; -um,"der frühere, der ehemalige (als adjektiv)",1,x
-vestigium; -i n,die Spur,1,s
-nimis,zu; allzu,1,x
-omittere; omitto; omisi; omissum,aufgeben; unterlassen ,1,v
-sapiens; sapientis,weise; Subst: der Weise,1,x
-se praebere; me praebo,sich erweisen (als),1,x
