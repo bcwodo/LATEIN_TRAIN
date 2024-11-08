@@ -492,37 +492,37 @@ mox,bald; dann,1,x
 umbra; -ae,der Schatten,1,s
 inter,zwischen; während,1,x
 vertere; verto; verti; versum,drehen; (um)wenden,1,v
--ne,unübersetztes Fragepartikel,2,x
-iurare; iuro,schwören,2,x
-per deos iurare,bei den Göttern schwören,2,x
-lacrimas tenere,Tränen zurückhalten,2,x
-oculos vertere,seinen Blick richten auf,2,x
+-ne,unübersetztes Fragepartikel,1,x
+iurare; iuro,schwören,1,x
+per deos iurare,bei den Göttern schwören,1,x
+lacrimas tenere,Tränen zurückhalten,1,x
+oculos vertere,seinen Blick richten auf,1,x
 regnum; -i,die Herrschaft; die Königsherrschaft; das Reich,1,s
 dum,(solange) bis; solange; (m. Ind. Präs) während,1,x
-postquam,nachdem,2,x
-quamquam,obwohl,2,x
-murus,die Mauer,2,s
-lupa; -ae,die Wölfin,2,s
+postquam,nachdem,1,x
+quamquam,obwohl,1,x
+murus,die Mauer,1,s
+lupa; -ae,die Wölfin,1,s
 fama; -ae f,das Gerücht; der (gute oder schlechte) Ruf,1,s
-orare; oro,beten (zu); bitten,2,v
-miles; militis,der Soldat,2,s
-filia; -ae f,die Tochter,2,s
+orare; oro,beten (zu); bitten,1,v
+miles; militis,der Soldat,1,s
+filia; -ae f,die Tochter,1,s
 gerere; gero; gessi; gestum,tragen; führen; ausführen,1,v
-negotia gerere,seinen Geschäften nachgehen,2,x
-bellum gerere (cum),Krieg führen (mit),2,x
-vestem gerere,ein Kleidungsstück tragen,2,x
-se gerere,sich benehmen,2,x
-res; rei f,die Sache; das Ding; die Angelegenheit,2,s
-dies; diei m,der Tag,2,s
-fides; fidei f,das Vertrauen; die Treue; die Zuverlässigkeit,2,s
-fidem dare,sein Wort geben,2,x
-fidem habere,Vertrauen schenken,2,x
-acies; aciei f,die Schärfe; der Scharfsinn; die Schlachtreihe,2,s
-acies mentis,der Scharfsinn; die Aufmerksamkeit (bc: die Schärfe des Gesites),2,x
-aciem institutere,eine Schlachtreihe aufstellen,2,x
-alius; alia; aliud; gen. alterius; dat. alii,ein anderer; eine andere; ein anderes... (adjektiv),2,x
-alii...alii,die einen... die anderen...,2,x
-alius aliud facit,jeder macht etwas anderes,2,x
+negotia gerere,seinen Geschäften nachgehen,1,x
+bellum gerere (cum),Krieg führen (mit),1,x
+vestem gerere,ein Kleidungsstück tragen,1,x
+se gerere,sich benehmen,1,x
+res; rei f,die Sache; das Ding; die Angelegenheit,1,s
+dies; diei m,der Tag,1,s
+fides; fidei f,das Vertrauen; die Treue; die Zuverlässigkeit,1,s
+fidem dare,sein Wort geben,1,x
+fidem habere,Vertrauen schenken,1,x
+acies; aciei f,die Schärfe; der Scharfsinn; die Schlachtreihe,1,s
+acies mentis,der Scharfsinn; die Aufmerksamkeit (bc: die Schärfe des Gesites),1,x
+aciem institutere,eine Schlachtreihe aufstellen,1,x
+alius; alia; aliud; gen. alterius; dat. alii,ein anderer; eine andere; ein anderes... (adjektiv),1,x
+alii...alii,die einen... die anderen...,1,x
+alius aliud facit,jeder macht etwas anderes,1,x
 accurrere; accurro; accucurri; accursum ,hinzulaufen; herbeieilen,1,v
 mortuus; -a; -um,tot (adjektiv),1,x
 facies; faciei f,das Gesicht; das Aussehen,1,s
@@ -1031,22 +1031,22 @@ transire; transeo; transii; transitum (m Akk),hinübergehen; überquere; übersc
 Alpes transeo,ich überquere die Alpen,1,x
 perpetuus; -a; -um,ununterbrochen; dauerhaft; ewig,1,x
 undique,von überall her; von allen Seiten,1,x
-exire; exeo; exii; exitum,herausgehen; verlassen,2,v
-monumentum; -i n,das Denkmal; das Grabmal,2,s
-demonstrare; demonstro,zeigen; beweisen; (demonstrieren :-)),2,v
-invitus; -a; -um,unwillig; gegen den Willen,2,x
-res gestae; rerum gestarum f (Plural!),die Taten; die Geschichte,2,s
-equidem,(ich) allerdings; freilich,2,x
-sedes; sedis,der Sitz; der Wohnsitz,2,s
-aio; (ais; ait; aiunt),ich sage; ich behaupte,2,v
-regius; -a; -um,königlich,2,x
-sanguis; sanguinis m,das Blut,2,s
-spargere; spargo; sparsi; sparsum,steuern; aussteuern; bespritzen,2,v
+exire; exeo; exii; exitum,herausgehen; verlassen,1,v
+monumentum; -i n,das Denkmal; das Grabmal,1,s
+demonstrare; demonstro,zeigen; beweisen; (demonstrieren :-)),1,v
+invitus; -a; -um,unwillig; gegen den Willen,1,x
+res gestae; rerum gestarum f (Plural!),die Taten; die Geschichte,1,s
+equidem,(ich) allerdings; freilich,1,x
+sedes; sedis,der Sitz; der Wohnsitz,1,s
+aio; (ais; ait; aiunt),ich sage; ich behaupte,1,v
+regius; -a; -um,königlich,1,x
+sanguis; sanguinis m,das Blut,1,s
+spargere; spargo; sparsi; sparsum,steuern; aussteuern; bespritzen,1,v
 inde,von dort; von da an; daher; daraufhin,1,x
-umquam,jemals,2,x
-talis; tale,"solche; von solcher Art; so beschaffen""",2,x
-cupiditas; cupiditatis,die Begierde; das Verlangen; die Leidenschaft,2,s
-incedere; incedo; incessi; incensum,einherschreiten; eintreten,2,v
+umquam,jemals,1,x
+talis; tale,"solche; von solcher Art; so beschaffen""",1,x
+cupiditas; cupiditatis,die Begierde; das Verlangen; die Leidenschaft,1,s
+incedere; incedo; incessi; incensum,einherschreiten; eintreten,1,v
 Ceasar ut rex incedit,Caesar schreitet wie ein König (einher),1,x
 palam Adv. ,offen; öffentlich; offenkundig,1,x
 restare; resto; restiti; -,übrig bleiben; widerstehen,1,v
@@ -1072,7 +1072,7 @@ perspicere; perspicio; perspexi; perspectum,durchschauen; untersuchen; erkennen,
 manifestus; -a; -um,offenbar; offenkundig,2,x
 occasio; occasionis,die Möglichkeit; die Gelegenheit,2,x
 liber; libera; liberum (mit Abl/a/ab mit Abl),frei (von),2,x
-multitudo; multitudinis f,die Vielzahl; die Menge,2,s
+multitudo; multitudinis f,die Vielzahl; die Menge,1,s
 memorare; memoro,(an etwas) erinnern; erwähnen; erzählen,2,v
 obicere; obicio; cbieci; obiectum,entgegenwerfen; vorwerfen,1,v
 contingere; contingo; contigi; contactum,berühren; gelingen,1,v
@@ -1217,16 +1217,3 @@ sanare; sano,heilen,1,v
 vulgus; -i,das Volk,1,
 dolere; doleo; dolui; - ,schmerzen; Schmerzen empfinden,1,v
 advenire; advenio; adveni; adventum,ankommen,1,v
-ratio; rationis f,die Vernundt; die Art und Weise; die Methode; die Rechnung; die Überlegung,1,s
-utinam,hoffentlich doch bitte (nicht),1,x
-inanis; inane,sinnlos; wertlos; leer,1,x
-festinare; festino,eilen; sich beeilen,1,v
-cito,schnell,1,
-vacare; vaco,leer sein; frei sein von; Zeit haben,1,v
-latus; lateris,die Seite; die Flanke,1,s
-attingere; attingo; attigi; attactum,berühren; grenzen an; gelangen an/nach,1,v
-divinus; -a;-um,göttlich,1,x
-tunc,dann; darauf; da; damahls (adv),1,x
-omnino adv.,insgesammt; überhaupt; völlig (adv),1,x
-merced; mercedis f,der Lohn; die Zahlung,1,s
-deterrere; deterreo,abschrecken; abbringen von (etwas im abl),1,v
