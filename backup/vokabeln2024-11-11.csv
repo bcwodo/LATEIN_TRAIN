@@ -23,7 +23,7 @@ sunt,sie sind; es gibt/findet statt,2,x
 nam,denn ; nämlich,2,x
 etiam,auch ; sogar,2,x
 ibi,dort,2,x
-debere,müssen; schulden,2,v
+debere,müssen; schulden,1,v
 nunc,nun; jetzt,2,x
 sed,aber; doch; sondern,2,x
 cur?,warum?,2,x
@@ -442,39 +442,39 @@ tollere; tollo; sustuli; sublatum,hochheben; aufheben; erheben; beseitigen; wegn
 demittere; demitto; demisi; dimissum,hinabschicken; sinken lassen,1,v
 lux; lucis,das Licht; das Tageslicht,1,s
 caput; capitis,das Haupt; der Kopf,1,s
-immortalis; immortale,unsterblich; der Unsterbliche; der Gott,2,s
-fatum; -i n ,das Schicksal; der Schicksalsspruch; der Götterspruch; das Verhängnis,2,s
-auxilium; -i,die hilfe,2,s
+immortalis; immortale,unsterblich; der Unsterbliche; der Gott,1,s
+fatum; -i n ,das Schicksal; der Schicksalsspruch; der Götterspruch; das Verhängnis,1,s
+auxilium; -i,die hilfe,1,s
 ruere; ruo; rui,(sich) stürzen; eilen; rennen,1,v
-cedere; cedo; cessi; cessum,(weg-) gehen; weichen; nachgeben,2,v
-valere; valeo,gesund sein; vermögen; Einfluss haben,2,v
-vale/valete,lebe wohl,2,x
-nihil valere,nichts vermögen; keinen Einfluss haben,2,v
-violare; violo,verletzen; Misshandeln,2,v
-defendere; defendo; defendi; defensum (a/ab),verteidigen (gegen),2,v
-meus; -a; -um,mein,2,x
-vester; vestra; vestrum,euer,2,x
-tuus; -a; -um,dein,2,x
-noster; nostra; nostrum,unser,2,x
-suus; -a; -um,sein; ihr,2,x
-sui; -orum m (pl),die Seine; die Ihre,2,x
-soror; sororis,die Schwester,2,s
+cedere; cedo; cessi; cessum,(weg-) gehen; weichen; nachgeben,1,v
+valere; valeo,gesund sein; vermögen; Einfluss haben,1,v
+vale/valete,lebe wohl,1,x
+nihil valere,nichts vermögen; keinen Einfluss haben,1,v
+violare; violo,verletzen; Misshandeln,1,v
+defendere; defendo; defendi; defensum (a/ab),verteidigen (gegen),1,v
+meus; -a; -um,mein,1,x
+vester; vestra; vestrum,euer,1,x
+tuus; -a; -um,dein,1,x
+noster; nostra; nostrum,unser,1,x
+suus; -a; -um,sein; ihr,1,x
+sui; -orum m (pl),die Seine; die Ihre,1,x
+soror; sororis,die Schwester,1,s
 permittere; permitto; permisi; permissum,erlauben; überlassen,1,v
-prohibere; prohibeo,abhalten (von); hindern (an); verhindern,2,v
-necesse est,es ist nötig,2,x
-novus; -a; -um,neu; neuartig,2,x
-condere; condo; condidi,gründen; bestatten,2,v
-torquere; torqueo; torsi; tortum,foltern; quälen; drehen,2,v
+prohibere; prohibeo,abhalten (von); hindern (an); verhindern,1,v
+necesse est,es ist nötig,1,x
+novus; -a; -um,neu; neuartig,1,x
+condere; condo; condidi,gründen; bestatten,1,v
+torquere; torqueo; torsi; tortum,foltern; quälen; drehen,1,v
 quoque,auch,1,x
-nox; noctis f; Gen Pl noctium,die Nacht,2,s
-multa nocte,tief in der Nacht,2,x
-prima nocte,zu begin der Nacht,2,x
-ardere; ardeo; arsi,brennen; glühen,2,v
-capere; capio; cepi; captum,nehmen; fangen; ergreifen; einnehmen,2,v
-patria; -ae f,das Vaterland; die Heimat,2,s
-mare; maris; (Abl. S mari / Nom Akk Pl maria / Gen Pl marium),das Meer,2,s
-errare; erro,sich irren; (umher)irren,2,v
-ante,vor,2,x
+nox; noctis f; Gen Pl noctium,die Nacht,1,s
+multa nocte,tief in der Nacht,1,x
+prima nocte,zu begin der Nacht,1,x
+ardere; ardeo; arsi,brennen; glühen,1,v
+capere; capio; cepi; captum,nehmen; fangen; ergreifen; einnehmen,1,v
+patria; -ae f,das Vaterland; die Heimat,1,s
+mare; maris; (Abl. S mari / Nom Akk Pl maria / Gen Pl marium),das Meer,1,s
+errare; erro,sich irren; (umher)irren,1,v
+ante,vor,1,x
 lacrima; -ae,die Träne,1,s
 pius; -a ; -um,fromm; verantwortungsbewusst; pflichtbewusst,1,
 nullo modo,auf keine Weise,1,x
@@ -536,34 +536,34 @@ imber; imbris; gen.pl. imbrium,der Regen; der Regenguss,1,s
 nubes; nubis; gen.pl. nubium,die Wolke,1,s
 exclamare; exclamo,ausrufen; aufschreien,1,v
 protegere; protego; protexi; protectum,bedecken; schützen,1,v
-orationem habere,eine Rede halten,2,x
-pacem facere,Frieden schließen,2,x
+orationem habere,eine Rede halten,1,x
+pacem facere,Frieden schließen,1,x
 auctoritas; auctoritatis f,das Ansehen; der Einfluss,2,s
 sperare; spero,hoffen; erhoffen,1,v
-lex; legis f,das Gesetz,2,s
-brevis; breve,kurz,2,x
-brevi (tempore),in Kürze; in kurzer Zeit,2,x
+lex; legis f,das Gesetz,1,s
+brevis; breve,kurz,1,x
+brevi (tempore),in Kürze; in kurzer Zeit,1,x
 hostis; hostis m/f,der/die Feind(in),1,s
 indicare; indico,anzeigen; melden; verraten,1,v
 exercitus; exercitUs m,das Heer,1,s
-manus; manUs f,die Hand; die Schar,2,s
+manus; manUs f,die Hand; die Schar,1,s
 vultus; vultUs m,das Gesicht; die Miene; der Gesichtsausdruck,1,s
 cultus; cultUs m,die Pflege; die Verehrung,1,s
-domus; domUs f,das Haus,2,s
-domo,von zu Hause weg,2,x
-severus; -a; -um,ernst; streng,2,x
+domus; domUs f,das Haus,1,s
+domo,von zu Hause weg,1,x
+severus; -a; -um,ernst; streng,1,x
 apertus; -a; -um,offen; offenkundig,1,x
-finitimus; -a; -um,benachbart; Subst. der Nachbar,2,x
-pietas; pietatis,die Frömmigkeit; das Pflichtgefühl; das Verantwortungsbewusstsein,2,s
-humanitats; humanitatis,die Menschlichkeit; die Bildung,2,s
-lacus; lacUs m,der See,2,s
-situs; -a; -um,gelegen,2,x
+finitimus; -a; -um,benachbart; Subst. der Nachbar,1,x
+pietas; pietatis,die Frömmigkeit; das Pflichtgefühl; das Verantwortungsbewusstsein,1,s
+humanitats; humanitatis,die Menschlichkeit; die Bildung,1,s
+lacus; lacUs m,der See,1,s
+situs; -a; -um,gelegen,1,x
 minister; ministri m,der Diener,2,s
 nympha; -ae,die Nymphe,2,s
-divus; -a; -um,göttlich,2,x
-cinis; cineris m,die Asche,2,s
-villa; -ae f,die Villa; das Landhaus,2,s
-avunculus; -i m,der Onkel,2,s
+divus; -a; -um,göttlich,1,x
+cinis; cineris m,die Asche,1,s
+villa; -ae f,die Villa; das Landhaus,1,s
+avunculus; -i m,der Onkel,1,s
 liber; libri,das Buch,1,s
 publicus; -a; -um,öffentlich; staatlich,1,x
 postea,nachher; später,1,x
@@ -923,7 +923,7 @@ albus; -a; -um,weiß,2,x
 luctus; luctUs,die Trauer,2,s
 quare,weswegen; deswegen,2,x
 praeceps; Gen praeciptis,Hals über Kopf; kopfüber; überstürtzt,1,x
-arx; arcis f; gen pl arcium,die Burg,2,s
+arx; arcis f; gen pl arcium,die Burg,1,s
 universus; -a; -um,all; ganz;sämtlich,2,x
 acerbus; -a; -um,bitter; schmerzlich; rücksichtslos,2,x
 furor; -oris m,der Wahnsinn; das Wüten; die Wut,2,s
@@ -1027,10 +1027,10 @@ infestus; -a; -um,feindselig; kampfbereit,2,x
 humanus; -a; -um,menschlich; gebildet,2,x
 auris; auris; gen Pl aurium,das Ohr,2,s
 flumen; fluminis,der Fluss,2,s
-transire; transeo; transii; transitum (m Akk),hinübergehen; überquere; überschreiten,2,v
-Alpes transeo,ich überquere die Alpen,2,x
-perpetuus; -a; -um,ununterbrochen; dauerhaft; ewig,2,x
-undique,von überall her; von allen Seiten,2,x
+transire; transeo; transii; transitum (m Akk),hinübergehen; überquere; überschreiten,1,v
+Alpes transeo,ich überquere die Alpen,1,x
+perpetuus; -a; -um,ununterbrochen; dauerhaft; ewig,1,x
+undique,von überall her; von allen Seiten,1,x
 exire; exeo; exii; exitum,herausgehen; verlassen,2,v
 monumentum; -i n,das Denkmal; das Grabmal,2,s
 demonstrare; demonstro,zeigen; beweisen; (demonstrieren :-)),2,v
@@ -1042,20 +1042,20 @@ aio; (ais; ait; aiunt),ich sage; ich behaupte,2,v
 regius; -a; -um,königlich,2,x
 sanguis; sanguinis m,das Blut,2,s
 spargere; spargo; sparsi; sparsum,steuern; aussteuern; bespritzen,2,v
-inde,von dort; von da an; daher; daraufhin,2,x
+inde,von dort; von da an; daher; daraufhin,1,x
 umquam,jemals,2,x
 talis; tale,"solche; von solcher Art; so beschaffen""",2,x
 cupiditas; cupiditatis,die Begierde; das Verlangen; die Leidenschaft,2,s
 incedere; incedo; incessi; incensum,einherschreiten; eintreten,2,v
-Ceasar ut rex incedit,Caesar schreitet wie ein König (einher),2,x
-palam Adv. ,offen; öffentlich; offenkundig,2,x
-restare; resto; restiti; -,übrig bleiben; widerstehen,2,v
+Ceasar ut rex incedit,Caesar schreitet wie ein König (einher),1,x
+palam Adv. ,offen; öffentlich; offenkundig,1,x
+restare; resto; restiti; -,übrig bleiben; widerstehen,1,v
 (id/hoc) restat. ut..., es fehlt noch. dass...,1,x
-pariter Adv.,in gleicher Weise,2,x
-pariter atque/ac,in gleicher Weise wie,2,x
-dignitas; dignitatis f,die Würde; das Ansehen,2,s
-qui; quae; quod,Welcher; welche; welches?,2,x
-(utrum)...an...?,...oder...?,2,x
+pariter Adv.,in gleicher Weise,1,x
+pariter atque/ac,in gleicher Weise wie,1,x
+dignitas; dignitatis f,die Würde; das Ansehen,1,s
+qui; quae; quod,Welcher; welche; welches?,1,x
+(utrum)...an...?,...oder...?,1,x
 num (indirekte Frage),ob (indirekte Frage),2,x
 Rogo num veniat,ich frage ob es kommt,2,x
 (utrum) ... an ...? (indirekte Frage),ob ... oder ... (indirekte Frage),2,x
@@ -1074,12 +1074,12 @@ occasio; occasionis,die Möglichkeit; die Gelegenheit,2,x
 liber; libera; liberum (mit Abl/a/ab mit Abl),frei (von),2,x
 multitudo; multitudinis f,die Vielzahl; die Menge,2,s
 memorare; memoro,(an etwas) erinnern; erwähnen; erzählen,2,v
-obicere; obicio; cbieci; obiectum,entgegenwerfen; vorwerfen,2,v
-contingere; contingo; contigi; contactum,berühren; gelingen,2,v
+obicere; obicio; cbieci; obiectum,entgegenwerfen; vorwerfen,1,v
+contingere; contingo; contigi; contactum,berühren; gelingen,1,v
 contigit ut,es gelingt/es glückt  dass,2,x
 ius; iuris,das Recht,2,s
 improbus; -a; um,schlecht; unanständig; niederträchtig,2,x
-deesse; desum; defui,fehlen,2,v
+deesse; desum; defui,fehlen,1,v
 gemitus; gemitUs,das Seifzen; das Stöhnen,2,s
 avertere; averto; averti; aversum,abwenden; fernhalten,2,v
 conspectus; -Us m,der Anblick; das Blickfeld,2,s
@@ -1088,7 +1088,7 @@ legio; legionis,die Legion,2,s
 inferre; infero; intuli; illatum,hineintragen; einflößen,2,v
 ferre; fero; tuli; latum,tragen; bringen; ertragen,2,v
 conferre; confero; contuli; collatum,zusammentragen; zusammenbringen; vergleichen,2,v
-auferre; aufero; abstuli; ablatum,wegtragen; wegbringen; wegnehmen,2,v
+auferre; aufero; abstuli; ablatum,wegtragen; wegbringen; wegnehmen,1,v
 afferre; affeto; attuli; allatum,herbeibringen; bringen; melden,2,v
 referre; refero; rettuli; relatum,zurückbringen; berichten,2,v
 imago; imaginis,des Bild; das Gemälde,2,s
@@ -1113,7 +1113,7 @@ placidus;- a; -um,sanft; ruhig; friedlich,2,x
 latus; -a; -um,breit; weit; ausgedehnt,2,x
 praetor; praetoris,der Prätor,2,s
 nominare; nomino,nennen; (m. sopp Akk) bezeichnen...als,2,v
-iniquus; -a; -um,ungleich; ungerecht,2,x
+iniquus; -a; -um,ungleich; ungerecht,1,x
 iudicare; iudico,urteilen; beurteilen; entscheiden,2,v
 inauditus; -a;-um,unerhört; beispiellos,2,x
 immanis; immane,riesig; ungeheuerlich; entsetzlich,2,x
@@ -1128,10 +1128,10 @@ conscribere; conscribo; consripsi; canscriptum,verfassen; anwerben; ausheben,2,v
 innocens; gen innocentis,unschuldig,2,x
 crux; crucis,das Kreuz,2,s
 usus; usUs,der Gebrauch; der Nutzen,2,s
-imprimis (adv.),hauptsächlich; besonders,2,x
+imprimis (adv.),hauptsächlich; besonders,1,x
 commodus; -a; -um,vorteilhaft; günstig; bequem,2,x
 opinio; opinionis,die Meinung; die Erwartung,2,s
-mea opinione,meiner Meinung nach,2,x
+mea opinione,meiner Meinung nach,1,x
 officium; -i,die Pflicht; die Aufgabe,2,s
 seditio; seditionis,der Aufstand,2,s
 coercere; coerceo,bändigen; einschränken,2,v
@@ -1154,7 +1154,7 @@ convocare; convoco,herbeirufen; zusammenrufen; versammeln,2,v
 eicere; eicio; eieci; eiectum,hinauswerfen; vertreiben,2,v
 initium; -i,der Eingang; der Anfang,2,s
 complures; complura (PL); complurium (gen),mehrere,2,x
-iniuria; -ae f,das Unrecht; die Beleidigung,2,s
+iniuria; -ae f,das Unrecht; die Beleidigung,1,s
 indignus; -a; -um,unwürdig; empörend,2,x
 finire; finio,beenden; begrenzen,2,v
 incitare; incito,antreiben; anfeuern; reizen,2,v
@@ -1203,30 +1203,30 @@ excedere; excedo; excessi; excessum,herausgehen; hinausgehen (auch über sich),2
 taedium; -i n,der Ekel; der Überdruss,2,s
 pristinus; -a; -um,"der frühere, der ehemalige (als adjektiv)",2,x
 vestigium; -i n,die Spur,2,s
-nimis,zu; allzu,2,x
+nimis,zu; allzu,1,x
 omittere; omitto; omisi; omissum,aufgeben; unterlassen ,2,v
 sapiens; sapientis,weise; Subst: der Weise,2,x
 se praebere; me praebo,sich erweisen (als),2,x
-valetudo; valetudinis,das Befinden; die Gesundheit; die Krankheit,2,s
-facillis; facille (superl) facillimus; -a; -um,einfaach; leicht,2,x
-difficilis; difficile,schwer; schwierig,2,x
+valetudo; valetudinis,das Befinden; die Gesundheit; die Krankheit,1,s
+facillis; facille (superl) facillimus; -a; -um,einfaach; leicht,1,x
+difficilis; difficile,schwer; schwierig,1,x
 apparere; appareo,erscheinen; sich zeigen,1,v
-aspectus; aspectUs,der Anblick,2,s
+aspectus; aspectUs,der Anblick,1,s
 convalescere; convalesco; convalui,gesund werden; genesen,1,v
-sanare; sano,heilen,2,v
+sanare; sano,heilen,1,v
 vulgus; -i,das Volk,1,
-dolere; doleo; dolui; - ,schmerzen; Schmerzen empfinden,2,v
-advenire; advenio; adveni; adventum,ankommen,2,v
+dolere; doleo; dolui; - ,schmerzen; Schmerzen empfinden,1,v
+advenire; advenio; adveni; adventum,ankommen,1,v
 ratio; rationis f,die Vernundt; die Art und Weise; die Methode; die Rechnung; die Überlegung,1,s
-utinam,hoffentlich doch bitte (nicht),2,x
-inanis; inane,sinnlos; wertlos; leer,2,x
-festinare; festino,eilen; sich beeilen,2,v
+utinam,hoffentlich doch bitte (nicht),1,x
+inanis; inane,sinnlos; wertlos; leer,1,x
+festinare; festino,eilen; sich beeilen,1,v
 cito,schnell,1,
-vacare; vaco,leer sein; frei sein von; Zeit haben,2,v
+vacare; vaco,leer sein; frei sein von; Zeit haben,1,v
 latus; lateris,die Seite; die Flanke,1,s
 attingere; attingo; attigi; attactum,berühren; grenzen an; gelangen an/nach,1,v
-divinus; -a;-um,göttlich,2,x
-tunc,dann; darauf; da; damahls (adv),2,x
-omnino adv.,insgesammt; überhaupt; völlig (adv),2,x
-merced; mercedis f,der Lohn; die Zahlung,2,s
+divinus; -a;-um,göttlich,1,x
+tunc,dann; darauf; da; damahls (adv),1,x
+omnino adv.,insgesammt; überhaupt; völlig (adv),1,x
+merced; mercedis f,der Lohn; die Zahlung,1,s
 deterrere; deterreo,abschrecken; abbringen von (etwas im abl),1,v
