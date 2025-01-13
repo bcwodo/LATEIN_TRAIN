@@ -206,27 +206,27 @@ solum,nur,1,x
 non solum sed etiam,nicht nur sondern auch,1,x
 recreare; recreo,erholen,1,v
 corpus; corporis,der Körper; der Leichnam,1,s
-raro,selten,1,x
-vulnus; vulneris,die Wunde,1,s
-labor; laboris,die Arbeit; die Mühe,1,s
-domum,heim;  nach Hause,1,x
-decedere; decedo; decessi; decessum,weggehen; sterben,1,v
-vestis; vestis f; vestium,das Kleid; die Kleidung,1,s
-tunica,die Tunika,1,s
-toga,die Toga,1,s
-consul; -is m,der Konsul,1,s
-currere; curro; cucurri; cursum,laufen; rennen,1,v
+raro,selten,2,x
+vulnus; vulneris,die Wunde,2,s
+labor; laboris,die Arbeit; die Mühe,2,s
+domum,heim;  nach Hause,2,x
+decedere; decedo; decessi; decessum,weggehen; sterben,2,v
+vestis; vestis f; vestium,das Kleid; die Kleidung,2,s
+tunica,die Tunika,2,s
+toga,die Toga,2,s
+consul; -is m,der Konsul,2,s
+currere; curro; cucurri; cursum,laufen; rennen,2,v
 habitare,wohnen; bewohnen,1,v
-stare; sto; steti,stehen; dastehen,1,v
-de,von...herab; von; über; um/wegen,1,x
-de amico narrare,vom Freund erzählen,1,x
-de amicis timere,um die Freunde angst haben,1,x
-ad (akk),zu (...hin); bei; an; nach,1,x
-per (akk),durch (...hindurch); über,1,x
-post (akk),nach; hinter,1,x
-e/ex (abl),aus; aus...heraus; von....her; seit,1,x
-super (akk),über,1,x
-cum (abl),mit,1,x
+stare; sto; steti,stehen; dastehen,2,v
+de,von...herab; von; über; um/wegen,2,x
+de amico narrare,vom Freund erzählen,2,x
+de amicis timere,um die Freunde angst haben,2,x
+ad (akk),zu (...hin); bei; an; nach,2,x
+per (akk),durch (...hindurch); über,2,x
+post (akk),nach; hinter,2,x
+e/ex (abl),aus; aus...heraus; von....her; seit,2,x
+super (akk),über,2,x
+cum (abl),mit,2,x
 sine,ohne,1,x
 in,(akk): in (...hinein); nach(...hin); gegen (wohin?) (abl): in an auf bei (wo),1,x
 sub,(akk) unter (wohin); (abl) unter (wo),1,x
@@ -238,16 +238,16 @@ vicus; -i,die Gasse; das Dorf,1,s
 plebs; plebis f,das (einfache) Volk,1,s
 pecunia; -ae,das Geld,1,s
 timor; timoris m,die Angst; die Furcht,1,s
-mutare; muto,ändern; verändern; verwandeln,1,v
-possidere; possideo; possedi; possessum,besitzen,1,v
-donum; -i,das Geschenk,1,s
-poena; -ae,die Strafe,1,s
-ponea/poenis afficere,bestrafen,1,x
-studium; -i,Das Bemühen; das Streben; das wissenschaftlich Beschäftigen,1,s
-nihil,nichts,1,x
-convenire; convenio; conveni; conventum,passen; zusammentreffen; treffen,1,v
-parentes; parent(i)um,die Eltern,1,s
-libertas; libertatis f,die Freiheit,1,s
+mutare; muto,ändern; verändern; verwandeln,2,v
+possidere; possideo; possedi; possessum,besitzen,2,v
+donum; -i,das Geschenk,2,s
+poena; -ae,die Strafe,2,s
+ponea/poenis afficere,bestrafen,2,x
+studium; -i,Das Bemühen; das Streben; das wissenschaftlich Beschäftigen,2,s
+nihil,nichts,2,x
+convenire; convenio; conveni; conventum,passen; zusammentreffen; treffen,2,v
+parentes; parent(i)um,die Eltern,2,s
+libertas; libertatis f,die Freiheit,2,s
 fortuna; -ae,Glück; das Schicksal,2,s
 nos,Nom. wir; Akk. uns,2,x
 vos,Nom. ihr; Akk. euch,2,x
@@ -281,20 +281,20 @@ memoria; -ae,die Erinnerung; das Gedächtnis,2,s
 memoria comprehendere,im Gedächtnis behalten,2,x
 sumere; sumo; sumpsi; sumptum,nehmen,2,v
 iacere; iaceo,liegen,2,v
-tempus; temporis n ,die Zeit,1,c
-mos; moris m,die Sitte; der Bauch; PL auch Charakter,1,s
-hodie,heute,1,x
-multi; -ae; -a,viele,1,x
-custos; custodis m,der Wächter,1,s
-bibere; bibo; bibi,trinken,1,v
-saepe,oft,1,x
+tempus; temporis n ,die Zeit,2,c
+mos; moris m,die Sitte; der Bauch; PL auch Charakter,2,s
+hodie,heute,2,x
+multi; -ae; -a,viele,2,x
+custos; custodis m,der Wächter,2,s
+bibere; bibo; bibi,trinken,2,v
+saepe,oft,2,x
 mirus; -a ; um,erstaunlich; sonderbar; wunderbar,2,x
 copia; -ae f,die Menge; der Vorrat; die Truppen,2,s
 scelus; sceleris n,das Verbrechen; deer Frevel,2,s
 parare; paro,bereiten; vorbereiten; erwerben; (mit Infinitiv) vorhaben zu,2,v
 ita,so,2,x
 descendere; descendo; descendi; descensum,herabsteigen; hinabsteigen,2,v
-quaerere; quaero; quaesivi; quaesitum,suchen; (ex) jemanden fragen,1,v
+quaerere; quaero; quaesivi; quaesitum,suchen; (ex) jemanden fragen,2,v
 invenire; invenio; inveni; inventum,finden; auffinden; erfinden,2,v
 qui; quae; qod,der die das; welcher welche welches,2,x
 mulier; mulieris f,die Frau,2,s
@@ -341,7 +341,7 @@ ecce!,sieh da! schaut!,2,x
 tam,so,2,x
 seavus; -a; um,wild; wütend; grimmig,2,x
 certare; certo,streiten; kämpfen,2,v
-quondam,einmal; einst,1,x
+quondam,einmal; einst,2,x
 instituere; instituo; institui; institutum,unterrichten; einführen; errichten,2,s
 pax; pacis,der Friede,2,s
 parcere; parco; peperci (mit Dat),verschonen; sparen,2,v
@@ -395,12 +395,12 @@ mors; mortis,der Tod,2,s
 servire; servio,dienen; Skalve sein,2,v
 rex; regis,der König,2,S
 iubere; iubeo; iussi; iussum,befehlen; anordnen,2,v
-vis;-;-;vim;vi f; PL. vires; virum,die Kraft; die Gewalt; die Menge; Pl auch Streitkräfte,1,s
+vis;-;-;vim;vi f; PL. vires; virum,die Kraft; die Gewalt; die Menge; Pl auch Streitkräfte,2,s
 sic,so; auf diese Weise,2,x
 negare; nego,leugnen; sagen - dass nicht,2,v
 putare; puto,glauben; meinen,2,v
 invidere; invideo; invidi; invisum (m Dat),beneiden,2,v
-instare; insto; institi,bevorstehen; drohen; bedrängen,1,v
+instare; insto; institi,bevorstehen; drohen; bedrängen,2,v
 iuvenis; iuvenis m,der junge Mann,2,s
 malum,der Apfel,2,s
 aureus; -; -um,golden; vergoldet,2,x
@@ -1183,7 +1183,7 @@ necessarius; -a; -um,nötig; notwendig; als Subst: der Freund; der Verwandte,2,x
 efferre; effero; extuli; elatum,hinaustragen; hinausbringen; beerdigen,2,v
 postremo,schließlich; zuletzt,2,x
 plenus; -a; -um,voll (mit/von),2,x
-funus; funeris n,die Bestattung,1,s
+funus; funeris n,die Bestattung,2,s
 proximus; -a; -um,der nächste; das nächste,2,x
 lupus; -i m,der Wolf,2,s
 ullus; -a; -um; gen: ullius; dat: ulli,irgendein,2,x
@@ -1217,7 +1217,7 @@ sanare; sano,heilen,2,v
 vulgus; -i,das Volk,2,
 dolere; doleo; dolui; - ,schmerzen; Schmerzen empfinden,2,v
 advenire; advenio; adveni; adventum,ankommen,2,v
-ratio; rationis f,die Vernundt; die Art und Weise; die Methode; die Rechnung; die Überlegung,1,s
+ratio; rationis f,die Vernundt; die Art und Weise; die Methode; die Rechnung; die Überlegung,2,s
 utinam,hoffentlich doch bitte (nicht),2,x
 inanis; inane,sinnlos; wertlos; leer,2,x
 festinare; festino,eilen; sich beeilen,2,v
@@ -1263,18 +1263,18 @@ vereri; vereor; veritus sum,fürchten; verehren,1,v
 intueri; intueor; intuitus sum,(genau) betrachten,1,v
 polliceri; polliceor; pillicitus sum,versprechen,1,v
 arbitrari; arbitror; arbitratus sum,glauben; meinen,1,v
-precari; precor; precatus sum,beten; bitten; anflehen,1,v
-versari; versor; versatus sum,sih aufhalten; sich befinden; sich beschäftigen (mit),1,v
-opinari; opinor; opinatus sum,"glauben, meinen (Meinung haben)",1,v
+precari; precor; precatus sum,beten; bitten; anflehen,2,v
+versari; versor; versatus sum,sih aufhalten; sich befinden; sich beschäftigen (mit),2,v
+opinari; opinor; opinatus sum,"glauben, meinen (Meinung haben)",2,v
 fateri; fateor; fassus sum,gestehen; bekennen; offenbaren,1,v
-recusare; recuso,zurückweisen; sich weigern,1,v
-humum adv.,auf die Erde; auf den Boden (adv),1,x
-porrifere; porrigo; porrexi; porrectum,ausstrecken; hinstrecken; darreichen,1,v
-quot,wie viele,1,x
-ob,wegen; entgegen,1,x
+recusare; recuso,zurückweisen; sich weigern,2,v
+humum adv.,auf die Erde; auf den Boden (adv),2,x
+porrifere; porrigo; porrexi; porrectum,ausstrecken; hinstrecken; darreichen,2,v
+quot,wie viele,2,x
+ob,wegen; entgegen,2,x
 conari; conor; conatus sum,versuchen,1,v
-iuventus; iuventutis,die Jugend,1,s
-consumere; consumo; comsumpsi; consumptum,aufbreuchen; verbrauchen; verbringen,1,v
-minuere; minuo; minui; minutum,verringern; vermindern,1,v
-eo magis,umso mehr,1,x
-mirari; miror; miratus sum,bewundern; sich wundern (über); staunen,1,v
+iuventus; iuventutis,die Jugend,2,s
+consumere; consumo; comsumpsi; consumptum,aufbreuchen; verbrauchen; verbringen,2,v
+minuere; minuo; minui; minutum,verringern; vermindern,2,v
+eo magis,umso mehr,2,x
+mirari; miror; miratus sum,bewundern; sich wundern (über); staunen,2,v
