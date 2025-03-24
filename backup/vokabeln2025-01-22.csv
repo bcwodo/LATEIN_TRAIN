@@ -96,7 +96,7 @@ vendere; vendo; vendidi; venditum,verkaufen,2,v
 dicere; dico; dixi; dictum,sagen; sprechen; reden; nennen,2,v
 facere; facio; feci; factum,tun; machen; ausführen,2,v
 cupere; cupio; cupivi; cupitum ,wünschen; haben wolln; begehren,2,v
-novem,neun,1,x
+novem,neun,2,x
 mille,tausend,1,x
 nummus,die Münze,1,s
 poscere; posco; poposci,fordern,1,v
@@ -104,33 +104,33 @@ tres,drei,1,x
 incendere; incendo; incendi; incensum,entflammen; in Brand setzen,1,v
 sex,sechs,1,x
 iterum,wiederum; ein zweies mal,1,x
-certe,sicher; gewiss,1,x
-si,wenn; falls,1,x
-theatrum,das Theater,1,s
-videre; video; vidi; visum,sehen,1,v
-ludus,das Spiel; die Schule; die (zirkus)Spiele,1,s
+certe,sicher; gewiss,2,x
+si,wenn; falls,2,x
+theatrum,das Theater,2,s
+videre; video; vidi; visum,sehen,2,v
+ludus,das Spiel; die Schule; die (zirkus)Spiele,2,s
 incipere; incipio; coepi; coeptum,anfangen; beginnen,1,v
-filius,der Sohn,1,s
-effugere; effugio; effugi,entkommen,1,v
-mercator,der Händler; Kaufmann,1,s
-senator,der Senator,1,s
-gladiator,der Gladiator,1,s
-fur,der Dieb; die Diebin,1,s
-clamor,der Schrei; das Gesschrei; der Lärm,1,s
-esse; sum; fui,sein,1,v
-adesse; adsum,da sein; helfen,1,x
-abesse; absum,fort sein; weg sein; fehlen,1,x
-retinere; retineo,zurückhalten; behalten; festhalten,1,v
-intus,innne; im inneren,1,x
-turba,die (Menschen-)Menge; das Durcheinander; das Gedränge,1,s
-amor,die Liebe,1,s
-dolor,der Schmerz,1,s
-vita,das Leben; die Lebensweise,1,s
-bestia,das (wilde) Tier,1,s
-liberi,die Kinder,1,s
-porta,die Tür; das Tor; der eingang,1,s
-claudere; claudo; clausi; clausum,schließen; einschließen; versprerren,1,v
-non iam,nicht mehr,1,x
+filius,der Sohn,2,s
+effugere; effugio; effugi,entkommen,2,v
+mercator,der Händler; Kaufmann,2,s
+senator,der Senator,2,s
+gladiator,der Gladiator,2,s
+fur,der Dieb; die Diebin,2,s
+clamor,der Schrei; das Gesschrei; der Lärm,2,s
+esse; sum; fui,sein,2,v
+adesse; adsum,da sein; helfen,2,x
+abesse; absum,fort sein; weg sein; fehlen,2,x
+retinere; retineo,zurückhalten; behalten; festhalten,2,v
+intus,innne; im inneren,2,x
+turba,die (Menschen-)Menge; das Durcheinander; das Gedränge,2,s
+amor,die Liebe,2,s
+dolor,der Schmerz,2,s
+vita,das Leben; die Lebensweise,2,s
+bestia,das (wilde) Tier,2,s
+liberi,die Kinder,2,s
+porta,die Tür; das Tor; der eingang,2,s
+claudere; claudo; clausi; clausum,schließen; einschließen; versprerren,2,v
+non iam,nicht mehr,2,x
 larva,das Gespenst,2,s
 persona,die Maske; die Rolle (im Schausoiel),2,s
 scaena,die Bühne,2,s
@@ -143,7 +143,7 @@ fugere; fugio; fugi,fliehen (vor); meiden,2,v
 locus,der Ort; der Platz; die Stelle,2,s
 dare; do; dedi; datum,geben,2,v
 appropinquare; appropinqo, sich nähern; näher kommen,2,v
-relinquere; relinquo; reliqui; relictum,verlassen; zurücklassen,1,v
+relinquere; relinquo; reliqui; relictum,verlassen; zurücklassen,2,v
 agere; ago; egi; actum,tun; handeln; verhandeln; treiben,2,v
 negotia agere,Geschäft betreiben,2,x
 bestiam agere,ein Tier jagen,2,x
@@ -159,10 +159,10 @@ venia,die Nachsicht; die Verzeihung,2,s
 veniam dare,verzeihen,2,x
 resistere; resisto; resisti,sich widersetzen; Widerstand leisten,2,v
 adhuc,bis jetzt; immer noch,2,x
-explicare; explico,erklären,1,v
-nuper,neulich,1,x
-signum,das Zeichen; das Feldzeichen,1,s
-vincere; vinco; vici; victum,siegen; besiegen,1,v
+explicare; explico,erklären,2,v
+nuper,neulich,2,x
+signum,das Zeichen; das Feldzeichen,2,s
+vincere; vinco; vici; victum,siegen; besiegen,2,v
 praemium,die Belohnung; der Lohn; der Preis,2,s
 honor,die Ehre; das Eherenamt,2,s
 studere; studeo,sich bemühen; (tum) wollen; studieren,2,v
@@ -1239,22 +1239,22 @@ destinare; destino,festsetzten; bestimmen,2,v
 continere; contineo; continui; contentum,zusammnehalten; festhalten; im Zaum halten; enthalten (i.s.v. beinhalten),2,v
 aequus; -a; -um,gleich; gerecht,2,x
 aequo animo,mit gelassenheit,2,x
-peritus; -a; -um,erfahren; kundig,1,x
+peritus; -a; -um,erfahren; kundig,2,x
 religio; religionis,die Götterverehrung; die religiöse Scheu; die Religion; der Glaube,2,s
 aliquis; aliquid (subst.),itgendjemand; irgenetwas,2,s
 aliqui; aliqua; aliquod,irgendein; irgendeine; irgendein (nicht ullus),1,x
-conservare; conservo,retten (vor); bewahren beschützen (vor),1,v
+conservare; conservo,retten (vor); bewahren beschützen (vor),2,v
 fossa; -ae,der Graben,2,s
-patrius; -a; -um,väterlich; heimisch,1,x
+patrius; -a; -um,väterlich; heimisch,2,x
 contemnere; contemno; contempsi; contemptum,verachten; gering schätzen (L59),1,v
-falsus; -a; -um,faslch,1,x
-spernere; sperno; sprevi; spretum,verachten; verschmähen (klick weiter - weißt Du nicht),1,v
+falsus; -a; -um,faslch,2,x
+spernere; sperno; sprevi; spretum,verachten; verschmähen (klick weiter - weißt Du nicht),2,v
 aquilla; -ae ,der Adler,2,s
 extremus; -a; -um,der äußerste; der entfernteste,2,x
 sol(-is) oriens (-entis),die aufgehende Sonne; der Osten; der Sonnenaufgang,2,s
 sol(is) occidens (entis),der Sonnenuntergang; die untergehende Sonne; der Westen,2,s
 certus; -a; -um,sicher; gewiss; bestimmt,2,x
-dictum; -i,der Spruch; das Wort,1,s
+dictum; -i,der Spruch; das Wort,2,s
 aeternus; -a ;-um,ewig,2,x
 superbia; -ae f,der Hochmut; der Stolz,2,s
 deficere; deficio; defeci; defactum (akk; a/ab abl),ausgehen; fehlen; abfallen,2,v
@@ -1289,12 +1289,12 @@ queri; queror; questus sum,klagen (über); sich beklagen,1,v
 oriri; orior; ortus sum,geboren werden; entstehen; aufgehen,1,v
 uti; utor; usus sum (m abl),gebrauchen; benutzen,1,v
 consequi; consequor; consecutus sum,(ver)folgen; erreichen,1,v
-superior; superius,der höhere; der frühere,1,x
-vero,wirklich; aber,1,x
-cervix; cervicis,der Nacken; der Hals,1,s
-secare; seco; secui; sectum,scheiden; abschneiden; abtrennen,1,v
-usque ad (m. Akk),bis nach; bis zu,1,x
-ignominia; -ae,die Schande; die Schmach,1,s
-militia; -ae,der Kreigsdienst,1,s
-aes; aeris n,das Erz; die Brnaze; das Geld,1,s
-captivus; -i,gefangen; subst. der/die Gefangene,1,s
+superior; superius,der höhere; der frühere,2,x
+vero,wirklich; aber,2,x
+cervix; cervicis,der Nacken; der Hals,2,s
+secare; seco; secui; sectum,scheiden; abschneiden; abtrennen,2,v
+usque ad (m. Akk),bis nach; bis zu,2,x
+ignominia; -ae,die Schande; die Schmach,2,s
+militia; -ae,der Kreigsdienst,2,s
+aes; aeris n,das Erz; die Brnaze; das Geld,2,s
+captivus; -i,gefangen; subst. der/die Gefangene,2,s
